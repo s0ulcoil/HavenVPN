@@ -1,0 +1,21 @@
+#profile-title: Haven vpn
+#support-url: https://t.me/hiddenwikipedia
+#announce: base64: 0YLQsyDQutCw0L3QsNC7IEBoaWRkZW53aWtpcGVkaWEK0L/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1IDogMjMuMTAuMjYgMjM6MjUg0JzQodCaCtC/0LXRgNC10LQg0L/QvtC00LrQu9GO0YfQtdC90LjQtdC8INC/0YDQvtCy0LXRgNGP0LnRgtC1INC/0LjQvdCzIC0g4o+x77iPIArQvdC1INGA0LDQsdC+0YLQsNC10YI/INC+0LHQvdC+0LLQuNGC0LUgLSDwn5SE77iP
+🇵🇱 Польша
+hysteria2://92785df7-d82b-441a-a31f-8a8f05630d49@pl2.obxodvpn.us:4443?sni=nl1.obxodvpn.us&alpn=h3&fp=chrome&mport=20000-50000#🇵🇱 Польша #1
+vless://9ba53795-4356-40ab-8067-76ec2ae2a3d8@santehdv.site:443?encryption=none&security=tls&sni=santehdv.site&fp=edge&alpn=http%2F1.1&type=ws&path=media%2Fstream%2FE2QlYgrvniT_#🇵🇱 Польша #2
+
+🇳🇱 Нидерланды
+hysteria2://92785df7-d82b-441a-a31f-8a8f05630d49@nl1.obxodvpn.us:4443?sni=nl1.obxodvpn.us&alpn=h3&fp=chrome&mport=20000-50000#🇳🇱 Нидерланды #1
+
+🇩🇪 Германия
+vless://9ba53795-4356-40ab-8067-76ec2ae2a3d8@slivdom-spb.site:443?encryption=none&security=tls&sni=slivdom-spb.site&fp=edge&alpn=http%2F1.1&type=ws&path=%2Fmedia%2Fstream%2FdBglRwZveCyD#🇩🇪 Германия #1 
+
+🇫🇮 Финляндия
+vless://9ba53795-4356-40ab-8067-76ec2ae2a3d8@slivdom-spb.site:443?encryption=none&security=tls&sni=slivdom-spb.site&fp=edge&alpn=http%2F1.1&type=ws&path=%2Fmedia%2Fstream%2F3VTlT49iHS1H#🇫🇮 Финляндия #1
+
+🇷🇺 Белые списки
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@terraavenue.net:443?encryption=none&security=tls&sni=terraavenue.net&fp=firefox&alpn=h2%2Chttp%2F1.1&type=xhttp&path=%2Fapi%2Fv1%2Fupload&host=terraavenue.net&mode=auto#🇪🇺 AUTO – Белые списки
+vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@qq.utiltools.site:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=qq.utiltools.site&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI#🇷🇺 Белые списки #1
+vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@78.159.250.214:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=qq.utiltools.site&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI#🇷🇺 Белые списки #2
+vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@78.159.250.214:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=qq.utiltools.site&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&sid=00000000#🇷🇺 Белые списки #3
