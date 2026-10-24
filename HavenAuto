@@ -1,6 +1,6 @@
 #profile-title: Haven vpn Auto
 #support-url: https://t.me/hiddenwikipedia
-#announce: base64: 0YLQsyDQutCw0L3QsNC7IEBoaWRkZW53aWtpcGVkaWEK0L/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1IDogMjMuMTAuMjYgMjM6MjUg0JzQodCaCtC/0LXRgNC10LQg0L/QvtC00LrQu9GO0YfQtdC90LjQtdC8INC/0YDQvtCy0LXRgNGP0LnRgtC1INC/0LjQvdCzIC0g4o+x77iPIArQvdC1INGA0LDQsdC+0YLQsNC10YI/INC+0LHQvdC+0LLQuNGC0LUgLSDwn5SE77iP
+#announce: base64: 0YLQsyDQutCw0L3QsNC7IEBoaWRkZW53aWtpcGVkaWEK0L/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1IDogMjQuMTAuMjYgMjE6NDcg0JzQodCaCtC/0LXRgNC10LQg0L/QvtC00LrQu9GO0YfQtdC90LjQtdC8INC/0YDQvtCy0LXRgNGP0LnRgtC1INC/0LjQvdCzIC0g4o+x77iPIArQvdC1INGA0LDQsdC+0YLQsNC10YI/INC+0LHQvdC+0LLQuNGC0LUgLSDwn5SE77iP
 
 {
   "remarks": "🔁 Автовыбор",
@@ -29,43 +29,8 @@
   ],
   "outbounds": [
     {
-      "protocol": "hysteria",
+      "protocol": "vless",
       "tag": "proxy-1",
-      "settings": { "address": "pl2.obxodvpn.us", "port": 4443, "version": 2 },
-      "streamSettings": {
-        "network": "hysteria",
-        "security": "tls",
-        "hysteriaSettings": { "auth": "92785df7-d82b-441a-a31f-8a8f05630d49", "version": 2 },
-        "tlsSettings": { "alpn": ["h3"], "fingerprint": "chrome", "serverName": "nl1.obxodvpn.us" }
-      }
-    },
-    {
-      "protocol": "vless",
-      "tag": "proxy-2",
-      "settings": {
-        "vnext": [{ "address": "santehdv.site", "port": 443, "users": [{ "id": "9ba53795-4356-40ab-8067-76ec2ae2a3d8", "encryption": "none" }] }]
-      },
-      "streamSettings": {
-        "network": "ws",
-        "security": "tls",
-        "tlsSettings": { "alpn": ["http/1.1"], "fingerprint": "edge", "serverName": "santehdv.site" },
-        "wsSettings": { "path": "media/stream/E2QlYgrvniT_" }
-      }
-    },
-    {
-      "protocol": "hysteria",
-      "tag": "proxy-3",
-      "settings": { "address": "nl1.obxodvpn.us", "port": 4443, "version": 2 },
-      "streamSettings": {
-        "network": "hysteria",
-        "security": "tls",
-        "hysteriaSettings": { "auth": "92785df7-d82b-441a-a31f-8a8f05630d49", "version": 2 },
-        "tlsSettings": { "alpn": ["h3"], "fingerprint": "chrome", "serverName": "nl1.obxodvpn.us" }
-      }
-    },
-    {
-      "protocol": "vless",
-      "tag": "proxy-4",
       "settings": {
         "vnext": [{ "address": "slivdom-spb.site", "port": 443, "users": [{ "id": "9ba53795-4356-40ab-8067-76ec2ae2a3d8", "encryption": "none" }] }]
       },
@@ -78,7 +43,7 @@
     },
     {
       "protocol": "vless",
-      "tag": "proxy-5",
+      "tag": "proxy-2",
       "settings": {
         "vnext": [{ "address": "slivdom-spb.site", "port": 443, "users": [{ "id": "9ba53795-4356-40ab-8067-76ec2ae2a3d8", "encryption": "none" }] }]
       },
@@ -91,7 +56,33 @@
     },
     {
       "protocol": "vless",
-      "tag": "proxy-6",
+      "tag": "proxy-3",
+      "settings": {
+        "vnext": [{ "address": "santehdv.site", "port": 443, "users": [{ "id": "9ba53795-4356-40ab-8067-76ec2ae2a3d8", "encryption": "none" }] }]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": { "alpn": ["http/1.1"], "fingerprint": "edge", "serverName": "santehdv.site" },
+        "wsSettings": { "path": "media/stream/E2QlYgrvniT_" }
+      }
+    },
+    {
+      "protocol": "vless",
+      "tag": "proxy-4",
+      "settings": {
+        "vnext": [{ "address": "santehdv.site", "port": 443, "users": [{ "id": "9ba53795-4356-40ab-8067-76ec2ae2a3d8", "encryption": "none" }] }]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": { "alpn": ["http/1.1"], "fingerprint": "edge", "serverName": "santehdv.site" },
+        "wsSettings": { "path": "/media/stream/qUWu2oaFgxAw" }
+      }
+    },
+    {
+      "protocol": "vless",
+      "tag": "proxy-5",
       "settings": {
         "vnext": [{ "address": "terraavenue.net", "port": 443, "users": [{ "id": "2c634977-584e-4e1f-b501-1b70c77a6743", "encryption": "none" }] }]
       },
@@ -104,7 +95,7 @@
     },
     {
       "protocol": "vless",
-      "tag": "proxy-7",
+      "tag": "proxy-6",
       "settings": {
         "vnext": [{ "address": "qq.utiltools.site", "port": 443, "users": [{ "id": "4054fdc2-ee80-4419-8a8e-d937df4719e2", "encryption": "none", "flow": "xtls-rprx-vision" }] }]
       },
@@ -116,7 +107,7 @@
     },
     {
       "protocol": "vless",
-      "tag": "proxy-8",
+      "tag": "proxy-7",
       "settings": {
         "vnext": [{ "address": "78.159.250.214", "port": 443, "users": [{ "id": "4054fdc2-ee80-4419-8a8e-d937df4719e2", "encryption": "none", "flow": "xtls-rprx-vision" }] }]
       },
@@ -128,7 +119,7 @@
     },
     {
       "protocol": "vless",
-      "tag": "proxy-9",
+      "tag": "proxy-8",
       "settings": {
         "vnext": [{ "address": "78.159.250.214", "port": 443, "users": [{ "id": "4054fdc2-ee80-4419-8a8e-d937df4719e2", "encryption": "none", "flow": "xtls-rprx-vision" }] }]
       },
@@ -148,8 +139,8 @@
       {
         "tag": "BALANCER",
         "selector": [
-          "proxy-1","proxy-2","proxy-3","proxy-4","proxy-5",
-          "proxy-6","proxy-7","proxy-8","proxy-9"
+          "proxy-1","proxy-2","proxy-3","proxy-4",
+          "proxy-5","proxy-6","proxy-7","proxy-8"
         ],
         "fallbackTag": "direct",
         "strategy": {
@@ -166,8 +157,8 @@
   },
   "burstObservatory": {
     "subjectSelector": [
-      "proxy-1","proxy-2","proxy-3","proxy-4","proxy-5",
-      "proxy-6","proxy-7","proxy-8","proxy-9"
+      "proxy-1","proxy-2","proxy-3","proxy-4",
+      "proxy-5","proxy-6","proxy-7","proxy-8"
     ],
     "pingConfig": {
       "destination": "http://www.gstatic.com/generate_204",
