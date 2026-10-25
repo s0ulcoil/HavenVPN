@@ -1,20 +1,15 @@
 #profile-title: Haven vpn
 #support-url: https://t.me/hiddenwikipedia
-#announce: base64: 0YLQsyDQutCw0L3QsNC7IEBoaWRkZW53aWtpcGVkaWEK0L/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1IDogMjQuMTAuMjYgMjE6NDMg0JzQodCaCtC/0LXRgNC10LQg0L/QvtC00LrQu9GO0YfQtdC90LjQtdC8INC/0YDQvtCy0LXRgNGP0LnRgtC1INC/0LjQvdCzIC0g4o+x77iPIArQvdC1INGA0LDQsdC+0YLQsNC10YI/INC+0LHQvdC+0LLQuNGC0LUgLSDwn5SE77iP
+#announce: base64: 0YLQsyDQutCw0L3QsNC7IEBoaWRkZW53aWtpcGVkaWEK0L/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1IDogMjUuMTAuMjYgMjE6MTUg0JzQodCaCtC/0LXRgNC10LQg0L/QvtC00LrQu9GO0YfQtdC90LjQtdC8INC/0YDQvtCy0LXRgNGP0LnRgtC1INC/0LjQvdCzIC0g4o+x77iPIArQvdC1INGA0LDQsdC+0YLQsNC10YI/INC+0LHQvdC+0LLQuNGC0LUgLSDwn5SE77iP
 
-🇩🇪 Германия
-vless://9ba53795-4356-40ab-8067-76ec2ae2a3d8@slivdom-spb.site:443?encryption=none&security=tls&sni=slivdom-spb.site&fp=edge&alpn=http%2F1.1&type=ws&path=%2Fmedia%2Fstream%2FdBglRwZveCyD#🇩🇪 Германия #1
-vless://9ba53795-4356-40ab-8067-76ec2ae2a3d8@slivdom-spb.site:443?encryption=none&security=tls&sni=slivdom-spb.site&fp=edge&alpn=http%2F1.1&type=ws&path=%2Fmedia%2Fstream%2F3VTlT49iHS1H#🇩🇪 Германия #2
+🇳🇱 Нидерланды
+vless://6da2c981-8c77-4340-bda3-93399b7aea26@forum.blog-forme.ru:443?encryption=none&security=reality&sni=forum.blog-forme.ru&fp=chrome&pbk=nalACuCZjV1sZx7QOH6yAIDio8mFI0FgVKYQvQHBKS4&sid=fb3a5f2d4ca346ed&type=xhttp&path=%2Fv2%2Fsync%2Faf2c0c&mode=auto#🇳🇱 Нидерланды  #1
 
 🇵🇱 Польша
-vless://9ba53795-4356-40ab-8067-76ec2ae2a3d8@santehdv.site:443?encryption=none&security=tls&sni=santehdv.site&fp=edge&alpn=http%2F1.1&type=ws&path=media%2Fstream%2FE2QlYgrvniT_#🇵🇱 Польша #1
-vless://9ba53795-4356-40ab-8067-76ec2ae2a3d8@santehdv.site:443?encryption=none&security=tls&sni=santehdv.site&fp=edge&alpn=http%2F1.1&type=ws&path=%2Fmedia%2Fstream%2FqUWu2oaFgxAw#🇵🇱 Польша #2
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@flatcrest.net:2053?encryption=none&security=tls&sni=flatcrest.net&fp=firefox&alpn=h2%2Chttp%2F1.1&type=xhttp&path=%2Fapi%2Fv1%2Fupload&host=flatcrest.net&mode=auto#🇵🇱 Польша #1
 
-🇫🇮 Финляндия
-vless://9ba53795-4356-40ab-8067-76ec2ae2a3d8@slivdom-spb.site:443?encryption=none&security=tls&sni=slivdom-spb.site&fp=edge&alpn=http%2F1.1&type=ws&path=%2Fmedia%2Fstream%2F3VTlT49iHS1H#🇫🇮 Финляндия #1
-
-🇸🇪 Швеция
-vless://9ba53795-4356-40ab-8067-76ec2ae2a3d8@santehdv.site:443?encryption=none&security=tls&sni=santehdv.site&fp=edge&alpn=http%2F1.1&type=ws&path=%2Fmedia%2Fstream%2FqUWu2oaFgxAw#🇸🇪 Швеция #1
+🇩🇪 Германия
+vless://5204fa5d-73ef-4f77-937c-a2379efc8b5c@lk.floweroom.vip:443?encryption=none&security=tls&sni=lk.floweroom.vip&fp=edge&alpn=http%2F1.1&type=ws&path=%2Fcart%2Fsync%2Fg-jSjxyhq24P&host=lk.floweroom.vip#🇩🇪 Германия #1
 
 🇷🇺 Белые списки
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@terraavenue.net:443?encryption=none&security=tls&sni=terraavenue.net&fp=firefox&alpn=h2%2Chttp%2F1.1&type=xhttp&path=%2Fapi%2Fv1%2Fupload&host=terraavenue.net&mode=auto#🇪🇺 AUTO – Белые списки
