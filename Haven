@@ -1,21 +1,21 @@
 #profile-title: Haven vpn
 #support-url: https://t.me/hiddenwikipedia
-#announce: base64: 0YLQsyDQutCw0L3QsNC7IEBoaWRkZW53aWtpcGVkaWEK0L/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1IDogMjUuMTAuMjYgMjE6Mzgg0JzQodCaCtC/0LXRgNC10LQg0L/QvtC00LrQu9GO0YfQtdC90LjQtdC8INC/0YDQvtCy0LXRgNGP0LnRgtC1INC/0LjQvdCzIC0g4o+x77iPIArQvdC1INGA0LDQsdC+0YLQsNC10YI/INC+0LHQvdC+0LLQuNGC0LUgLSDwn5SE77iP
-
-🇷🇺 Россия
-vless://95a608b6-bff1-4e10-bb61-0a39f221bb7d@78.159.246.179:2053?type=xhttp&security=tls&fp=firefox&sni=randomquaint.net&path=%2Fapi%2Fv1%2Fupload&host=randomquaint.net&mode=auto&alpn=http%2F1.1%2Ch2#🇷🇺 Россия #1
+#announce: base64: 0YLQsyDQutCw0L3QsNC7IEBoaWRkZW53aWtpcGVkaWEK0L/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1IDogMjcuMTAuMjYgODoyMCDQnNCh0JoK0L/QtdGA0LXQtCDQv9C+0LTQutC70Y7Rh9C10L3QuNC10Lwg0L/RgNC+0LLQtdGA0Y/QudGC0LUg0L/QuNC90LMgLSDij7HvuI8gCtC90LUg0YDQsNCx0L7RgtCw0LXRgj8g0L7QsdC90L7QstC40YLQtSAtIPCflITvuI8=
 
 🇩🇪 Германия
-vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@78.159.250.214:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=ios&sni=qq.utiltools.site&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&sid=00000000#🇩🇪 Германия #1
+hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@ee2.obxodvpn.us:4443?sni=nl1.obxodvpn.us&alpn=h3&fp=chrome&mport=20000-50000#🇩🇪 Германия
 
-🇪🇺 Европа
-vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@78.159.250.214:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=random&sni=qq.utiltools.site&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&sid=00000000#🇪🇺 Европа #1
+🇵🇱 Польша
+hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@pl1.obxodvpn.us:4443?sni=nl1.obxodvpn.us&alpn=h3&fp=chrome&mport=20000-50000#🇵🇱 Польша
 
 🇫🇮 Финляндия
-hysteria2://6f82f71f-e0a5-4b31-8eba-a3096679d866@185.22.234.28:443?sni=r-fi-1.dokomon.com&alpn=h3#🇫🇮 Финляндия #1
+hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@fi1.obxodvpn.us:4443?sni=nl1.obxodvpn.us&alpn=h3&fp=chrome&mport=20000-50000#🇫🇮 Финляндия
+
+🇳🇱 Нидерланды
+hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@nl1.obxodvpn.us:4443?sni=nl1.obxodvpn.us&alpn=h3&fp=chrome&mport=20000-50000#🇳🇱 Нидерланды
 
 🇸🇪 Швеция
-hysteria2://6f82f71f-e0a5-4b31-8eba-a3096679d866@185.22.234.28:444?sni=r-se-1.dokomon.com&alpn=h3#🇸🇪 Швеция #1
+hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@swe2.obxodvpn.us:4443?sni=nl1.obxodvpn.us&alpn=h3&fp=chrome&mport=20000-50000#🇸🇪 Швеция
 
 🇷🇺 Белые списки
 vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@qq.utiltools.site:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=qq.utiltools.site&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI#🇷🇺 Белые списки #1
