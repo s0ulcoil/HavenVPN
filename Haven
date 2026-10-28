@@ -1,21 +1,16 @@
 #profile-title: Haven vpn
 #support-url: https://t.me/hiddenwikipedia
-#announce: base64: 0YLQsyDQutCw0L3QsNC7IEBoaWRkZW53aWtpcGVkaWEK0L/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1IDogMjcuMTAuMjYgMTE6MzQg0JzQodCaCtC/0LXRgNC10LQg0L/QvtC00LrQu9GO0YfQtdC90LjQtdC8INC/0YDQvtCy0LXRgNGP0LnRgtC1INC/0LjQvdCzIC0g4o+x77iPIArQvdC1INGA0LDQsdC+0YLQsNC10YI/INC+0LHQvdC+0LLQuNGC0LUgLSDwn5SE77iP
+#announce: base64: 0YLQsyDQutCw0L3QsNC7IEBoaWRkZW53aWtpcGVkaWEK0L/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1IDogMjguMTAuMjYgMjA6Mjcg0JzQodCaCtC/0LXRgNC10LQg0L/QvtC00LrQu9GO0YfQtdC90LjQtdC8INC/0YDQvtCy0LXRgNGP0LnRgtC1INC/0LjQvdCzIC0g4o+x77iPIArQvdC1INGA0LDQsdC+0YLQsNC10YI/INC+0LHQvdC+0LLQuNGC0LUgLSDwn5SE77iP
 
 🇩🇪 Германия
-vless://b747b3c2-a5ba-4806-b253-fb93a0d382b0@138.16.204.182:8643?encryption=none&flow=xtls-rprx-vision&security=reality&sni=travel.yandex.ru&fp=qq&pbk=kmLlM6u12bptp7icPOL3fkUJucwvYTRVMkXz2AGAN2A&sid=ca6703afd42cadcd&type=tcp#🇩🇪 Германия
-
-🇵🇱 Польша
-hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@pl2.obxodvpn.us:4443?sni=nl1.obxodvpn.us&alpn=h3&fp=chrome&mport=20000-50000#🇵🇱 Польша
+vless://6da2c981-8c77-4340-bda3-93399b7aea26@178.17.52.236:2083?encryption=none&security=reality&sni=maps.blog-forme.ru&fp=edge&pbk=mbi4BZAuiq_L6pfhG2xxWmtosq0Z1Pzf18fvNSWKMxY&sid=3258252d44113e23&type=xhttp&path=%2Fv2%2Fsync%2F6e9367&mode=auto#🇩🇪 Германия #1
 
 🇳🇱 Нидерланды
-hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@est1.obxodvpn.us:4443?sni=nl1.obxodvpn.us&alpn=h3&fp=chrome&mport=20000-50000#🇳🇱 Нидерланды
+vless://6da2c981-8c77-4340-bda3-93399b7aea26@radio.blog-forme.ru:443?encryption=none&security=reality&sni=radio.blog-forme.ru&fp=edge&pbk=nalACuCZjV1sZx7QOH6yAIDio8mFI0FgVKYQvQHBKS4&sid=fb3a5f2d4ca346ed&type=xhttp&path=%2Fv2%2Fsync%2Faf2c0c&mode=auto#🇳🇱 Нидерланды #1
+vless://6da2c981-8c77-4340-bda3-93399b7aea26@video.blog-forme.ru:443?encryption=none&security=reality&sni=video.blog-forme.ru&fp=edge&pbk=nalACuCZjV1sZx7QOH6yAIDio8mFI0FgVKYQvQHBKS4&sid=fb3a5f2d4ca346ed&type=xhttp&path=%2Fv2%2Fsync%2Faf2c0c&mode=auto#🇳🇱 Нидерланды #2
 
-🇸🇪 Швеция
-hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@est1.obxodvpn.us:4443?sni=nl1.obxodvpn.us&alpn=h3&fp=chrome&mport=20000-50000#🇸🇪 Швеция
-
-🇫🇮 Финляндия
-vless://b747b3c2-a5ba-4806-b253-fb93a0d382b0@212.233.90.10:8643?encryption=none&flow=xtls-rprx-vision&security=reality&sni=travel.yandex.ru&fp=qq&pbk=kmLlM6u12bptp7icPOL3fkUJucwvYTRVMkXz2AGAN2A&sid=ca6703afd42cadcd&type=tcp#🇫🇮 Финляндия
+🇵🇱 Польша
+vless://d5816c36-6359-5eff-bbfd-14e0cbab087d@194.93.63.195:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=&fp=firefox&alpn=h2%2Chttp%2F1.1&type=tcp#🇵🇱 Польша #1
 
 🇷🇺 Белые списки
 vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@qq.utiltools.site:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=qq.utiltools.site&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI#🇷🇺 Белые списки #1
