@@ -1,16 +1,22 @@
 #profile-title: Haven vpn
 #support-url: https://t.me/hiddenwikipedia
-#announce: base64: 0YLQsyDQutCw0L3QsNC7IEBoaWRkZW53aWtpcGVkaWEK0L/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1IDogMjguMTAuMjYgMjA6Mjcg0JzQodCaCtC/0LXRgNC10LQg0L/QvtC00LrQu9GO0YfQtdC90LjQtdC8INC/0YDQvtCy0LXRgNGP0LnRgtC1INC/0LjQvdCzIC0g4o+x77iPIArQvdC1INGA0LDQsdC+0YLQsNC10YI/INC+0LHQvdC+0LLQuNGC0LUgLSDwn5SE77iP
+#announce: base64: 0YLQsyDQutCw0L3QsNC7IEBoaWRkZW53aWtpcGVkaWEK0L/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1IDogMjguMTAuMjYgMjM6MTYg0JzQodCaCtC/0LXRgNC10LQg0L/QvtC00LrQu9GO0YfQtdC90LjQtdC8INC/0YDQvtCy0LXRgNGP0LnRgtC1INC/0LjQvdCzIC0g4o+x77iPIArQvdC1INGA0LDQsdC+0YLQsNC10YI/INC+0LHQvdC+0LLQuNGC0LUgLSDwn5SE77iP
+
+🇪🇺 Телеграм
+vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@78.159.250.214:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=qq.utiltools.site&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&sid=00000000#🇪🇺 Телеграм
 
 🇩🇪 Германия
 vless://6da2c981-8c77-4340-bda3-93399b7aea26@178.17.52.236:2083?encryption=none&security=reality&sni=maps.blog-forme.ru&fp=edge&pbk=mbi4BZAuiq_L6pfhG2xxWmtosq0Z1Pzf18fvNSWKMxY&sid=3258252d44113e23&type=xhttp&path=%2Fv2%2Fsync%2F6e9367&mode=auto#🇩🇪 Германия #1
 
 🇳🇱 Нидерланды
-vless://6da2c981-8c77-4340-bda3-93399b7aea26@radio.blog-forme.ru:443?encryption=none&security=reality&sni=radio.blog-forme.ru&fp=edge&pbk=nalACuCZjV1sZx7QOH6yAIDio8mFI0FgVKYQvQHBKS4&sid=fb3a5f2d4ca346ed&type=xhttp&path=%2Fv2%2Fsync%2Faf2c0c&mode=auto#🇳🇱 Нидерланды #1
-vless://6da2c981-8c77-4340-bda3-93399b7aea26@video.blog-forme.ru:443?encryption=none&security=reality&sni=video.blog-forme.ru&fp=edge&pbk=nalACuCZjV1sZx7QOH6yAIDio8mFI0FgVKYQvQHBKS4&sid=fb3a5f2d4ca346ed&type=xhttp&path=%2Fv2%2Fsync%2Faf2c0c&mode=auto#🇳🇱 Нидерланды #2
+vless://5f53b921-2874-482a-b530-d3ee1d66cbc5@nl2.originmesh.online:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=nl2.originmesh.online&pbk=_MRd1VDQBecIufT-CXd5O73L8JBjBI8Iqag9V8xseDc&sid=eecfe76af97a6132#🇳🇱 Нидерланды #1
 
-🇵🇱 Польша
-vless://d5816c36-6359-5eff-bbfd-14e0cbab087d@194.93.63.195:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=&fp=firefox&alpn=h2%2Chttp%2F1.1&type=tcp#🇵🇱 Польша #1
+🇬🇧 Великобритания
+vless://ddc27ad2-631e-4431-b380-0045547acef4@82.202.157.123:5002?type=ws&security=tls&fp=qq&sni=br1.centermass.net&path=media.playback.v1.SessionGateway&host=br1.centermass.net&alpn=http%2F1.1#🇬🇧 Великобритания #1
+
+🇫🇮 Финляндия
+vless://ddc27ad2-631e-4431-b380-0045547acef4@87.242.95.193:6003?type=xhttp&security=tls&fp=firefox&sni=fin1.centermass.net&path=%2Fmedia%2Fplayback%2Fv1%2FSessionGateway&mode=packet-up&alpn=h2#🇫🇮 Финляндия #1
+hysteria2://78b6899a-93cb-4ddf-a644-f391581f0294@109.120.184.210:32854?sni=109.120.184.210.amstar.sbs&alpn=h3#🇫🇮 Финляндия #2
 
 🇷🇺 Белые списки
 vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@qq.utiltools.site:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=qq.utiltools.site&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI#🇷🇺 Белые списки #1
