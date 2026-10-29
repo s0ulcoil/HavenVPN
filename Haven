@@ -16,7 +16,7 @@ vless://ce8fbdea-c3c3-0064-9658-32599d1f853f@188.208.125.103:443?flow=xtls-rprx-
 vless://ce8fbdea-c3c3-033a-9658-32599d1f853f@188.208.125.101:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=nl.convert-flow.net&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&sid=aa51fd048bee93fe#🇳🇱 Нидерланды #3
 
 🇫🇮 Финляндия
-hysteria2://78b6899a-93cb-4ddf-a644-f391581f0294@109.120.184.210:32854?sni=109.120.184.210.amstar.sbs&alpn=h3#🇫🇮 Финляндия #2
+hysteria2://78b6899a-93cb-4ddf-a644-f391581f0294@109.120.184.210:32854?sni=109.120.184.210.amstar.sbs&alpn=h3#🇫🇮 Финляндия #1
 
 🇷🇺 Белые списки
 vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@qq.utiltools.site:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=qq.utiltools.site&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI#🇷🇺 Белые списки #1
