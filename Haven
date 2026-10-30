@@ -1,29 +1,25 @@
 #profile-title: Haven vpn
 #support-url: https://t.me/hiddenwikipedia
-#announce: base64: 0YLQsyDQutCw0L3QsNC7IEBoaWRkZW53aWtpcGVkaWEK0L/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1IDogMjkuMTAuMjYgMTA6NDMg0JzQodCaCtC/0LXRgNC10LQg0L/QvtC00LrQu9GO0YfQtdC90LjQtdC8INC/0YDQvtCy0LXRgNGP0LnRgtC1INC/0LjQvdCzIC0g4o+x77iPIArQvdC1INGA0LDQsdC+0YLQsNC10YI/INC+0LHQvdC+0LLQuNGC0LUgLSDwn5SE77iP
+#announce: base64: 0YLQsyDQutCw0L3QsNC7IEBoaWRkZW53aWtpcGVkaWEK0L/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1IDogMzAuMTAuMjYgMTE6MDMg0JzQodCaCtC/0LXRgNC10LQg0L/QvtC00LrQu9GO0YfQtdC90LjQtdC8INC/0YDQvtCy0LXRgNGP0LnRgtC1INC/0LjQvdCzIC0g4o+x77iPIArQvdC1INGA0LDQsdC+0YLQsNC10YI/INC+0LHQvdC+0LLQuNGC0LUgLSDwn5SE77iP
 
-🇪🇺 Телеграм
-vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@qq.utiltools.site:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=qq.utiltools.site&fp=chrome&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&type=tcp#🇪🇺 Телеграм
+🇪🇺 Игровой сервер
+vless://c19bd198-a393-492e-86fd-b389a03b4180@94.249.187.68:43000?encryption=none&flow=xtls-rprx-vision&security=reality&fp=chrome&pbk=NXN75t-gk0tpVh74Thc7nPBXM4fytgMOZafDzSe8xAk&sid=353fdd95&spx=%2F&type=tcp#🇪🇺 Игровой сервер
+
+🇫🇷 Франция
+vless://390c7bd2-d83c-49b6-a6d5-c454583bbb2d@94.249.187.88:43000?encryption=none&flow=xtls-rprx-vision&security=reality&fp=chrome&pbk=r710c3Is-baifKzevzR4GKPnWOdolchLdP1NoOOtK2A&sid=ecef9d30&spx=%2F&type=tcp#🇫🇷 Франция #1
+vless://7b22dce8-7ebd-425b-8ca4-7b6190321985@fr-2.bnc-gt.co.uk:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=b-wl.fr-2.bnc-gt.co.uk&fp=qq&pbk=CegqLjzOImUmYD9ZdpOOG65UgNTGeQfRmpIni8iraB0&sid=7be1e9c243451b14&type=tcp#🇫🇷 Франция #2
+vless://7b22dce8-7ebd-425b-8ca4-7b6190321985@fr-2.bnc-gt.co.uk:443?encryption=none&security=tls&sni=b-wl.fr-2.bnc-gt.co.uk&fp=qq&alpn=h2&type=grpc&serviceName=grpc#🇫🇷 Франция #3
 
 🇩🇪 Германия
-vless://6da2c981-8c77-4340-bda3-93399b7aea26@178.17.52.236:2083?encryption=none&security=reality&sni=maps.blog-forme.ru&fp=edge&pbk=mbi4BZAuiq_L6pfhG2xxWmtosq0Z1Pzf18fvNSWKMxY&sid=3258252d44113e23&type=xhttp&path=%2Fv2%2Fsync%2F6e9367&mode=auto#🇩🇪 Германия #1
-vless://ce8fbdea-c3c3-4fb1-9658-32599d1f853f@131.123.25.47:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=edge&sni=last.syoknew.work&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&sid=02acb11712403c6c#🇩🇪 Германия #2
-vless://ce8fbdea-c3c3-0038-9658-32599d1f853f@131.123.25.47:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=last.syoknew.work&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&sid=02acb11712403c6c#🇩🇪 Германия #3
-
-🇳🇱 Нидерланды
-vless://6da2c981-8c77-4340-bda3-93399b7aea26@lectures.blog-forme.ru:443?encryption=none&security=reality&sni=lectures.blog-forme.ru&fp=edge&pbk=nalACuCZjV1sZx7QOH6yAIDio8mFI0FgVKYQvQHBKS4&sid=fb3a5f2d4ca346ed&type=xhttp&path=%2Fv2%2Fsync%2Faf2c0c&mode=auto#🇳🇱 Нидерланды #1
-vless://ce8fbdea-c3c3-0064-9658-32599d1f853f@188.208.125.103:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=nl.convert-flow.net&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&sid=aa51fd048bee93fe#🇳🇱 Нидерланды #2
-vless://ce8fbdea-c3c3-033a-9658-32599d1f853f@188.208.125.101:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=nl.convert-flow.net&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&sid=aa51fd048bee93fe#🇳🇱 Нидерланды #3
-
-🇫🇮 Финляндия
-hysteria2://78b6899a-93cb-4ddf-a644-f391581f0294@109.120.184.210:32854?sni=109.120.184.210.amstar.sbs&alpn=h3#🇫🇮 Финляндия #1
+vless://6a6ac9b3-b336-44f7-a1c4-a03d6c2fae9e@deo.skysafe.online:2027?encryption=none&flow=xtls-rprx-vision&security=reality&sni=deo.skysafe.online&fp=qq&pbk=EApxy12MeXpqt-78odxizwcXT6hX9f8XeAcbMDVRAV0&sid=6ba7b8109dad11d1&type=tcp#🇩🇪 Германия
+hysteria2://6da2c981-8c77-4340-bda3-93399b7aea26@blogs.blog-forme.ru:443?sni=blogs.blog-forme.ru&alpn=h3&fp=chrome#🇩🇪 Германия #2
+vless://6da2c981-8c77-4340-bda3-93399b7aea26@213.165.54.59:8443?encryption=none&security=reality&sni=www.kinopoisk.ru&fp=edge&pbk=CI4hMTvVsem9mloOgRCW9A6WC-srPPwu3jlylwOnd3A&sid=2e6d668958829998&type=xhttp&path=%2Fentry-xh&mode=auto#🇩🇪 Германия #3
 
 🇷🇺 Белые списки
-vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@qq.utiltools.site:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=qq.utiltools.site&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI#🇷🇺 Белые списки #1
-vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@78.159.250.214:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=qq.utiltools.site&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI#🇷🇺 Белые списки #2
-vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@78.159.250.214:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=qq.utiltools.site&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&sid=00000000#🇷🇺 Белые списки #3
-vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@qq.utiltools.site:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=qq.utiltools.site&fp=chrome&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&type=tcp#🇷🇺 Белые списки #4
-vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@78.159.250.214:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=qq.utiltools.site&fp=chrome&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&sid=00000000&type=tcp#🇷🇺 Белые списки #5
-vless://95a608b6-bff1-4e10-bb61-0a39f221bb7d@randomquaint.net:2053?encryption=none&security=tls&sni=randomquaint.net&fp=chrome&alpn=h2%2Chttp%2F1.1&type=xhttp&path=%2Fapi%2Fv1%2Fupload&host=randomquaint.net#🇷🇺 Белые списки #6
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@windytrout.net:8443?encryption=none&security=tls&sni=windytrout.net&fp=chrome&alpn=h2%2Chttp%2F1.1&type=xhttp&path=%2Fapi%2Fv1%2Fupload&host=windytrout.net#🇷🇺 Белые списки #7
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@81.94.148.232:2053?encryption=none&security=tls&sni=windytrout.net&fp=chrome&alpn=h2%2Chttp%2F1.1&type=xhttp&path=%2Fapi%2Fv1%2Fupload&host=windytrout.net#🇷🇺 Белые списки #8
+vless://fa6271ce-9fd4-43a8-a4aa-afb3682ff51a@ybs.baboon.digital:443?encryption=none&security=tls&sni=ybs.baboon.digital&fp=firefox&alpn=h2%2Chttp%2F1.1&type=xhttp&path=%2F&host=ybs.baboon.digital&mode=packet-up#🇷🇺 Белые списки #1
+vless://99551a64-bc49-4442-b78b-cc8a9a57b9a9@157.22.240.193:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yandex.ru&fp=firefox&pbk=T1BWBw3lq9G1LiQ7eQSPfdNQic7bUMEbdFNJBewAwB8&sid=6ad3c0f1e9b2478a&type=tcp#🇷🇺 Белые списки #2
+vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@qq.utiltools.site:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=qq.utiltools.site&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI#🇷🇺 Белые списки #3
+vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@78.159.250.214:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=qq.utiltools.site&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI#🇷🇺 Белые списки #4
+vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@78.159.250.214:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=qq.utiltools.site&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&sid=00000000#🇷🇺 Белые списки #5
+vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@qq.utiltools.site:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=qq.utiltools.site&fp=chrome&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&type=tcp#🇷🇺 Белые списки #6
+vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@78.159.250.214:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=qq.utiltools.site&fp=chrome&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&sid=00000000&type=tcp#🇷🇺 Белые списки #7
