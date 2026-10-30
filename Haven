@@ -1,19 +1,18 @@
 #profile-title: Haven vpn
 #support-url: https://t.me/hiddenwikipedia
-#announce: base64: 0YLQsyDQutCw0L3QsNC7IEBoaWRkZW53aWtpcGVkaWEK0L/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1IDogMzAuMTAuMjYgMTE6MDMg0JzQodCaCtC/0LXRgNC10LQg0L/QvtC00LrQu9GO0YfQtdC90LjQtdC8INC/0YDQvtCy0LXRgNGP0LnRgtC1INC/0LjQvdCzIC0g4o+x77iPIArQvdC1INGA0LDQsdC+0YLQsNC10YI/INC+0LHQvdC+0LLQuNGC0LUgLSDwn5SE77iP
+#announce: base64: 0YLQsyDQutCw0L3QsNC7IEBoaWRkZW53aWtpcGVkaWEK0L/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1IDogMzAuMTAuMjYgMjI6NDIg0JzQodCaCtC/0LXRgNC10LQg0L/QvtC00LrQu9GO0YfQtdC90LjQtdC8INC/0YDQvtCy0LXRgNGP0LnRgtC1INC/0LjQvdCzIC0g4o+x77iPIArQvdC1INGA0LDQsdC+0YLQsNC10YI/INC+0LHQvdC+0LLQuNGC0LUgLSDwn5SE77iP 
 
-🇪🇺 Игровой сервер
-vless://c19bd198-a393-492e-86fd-b389a03b4180@94.249.187.68:43000?encryption=none&flow=xtls-rprx-vision&security=reality&fp=chrome&pbk=NXN75t-gk0tpVh74Thc7nPBXM4fytgMOZafDzSe8xAk&sid=353fdd95&spx=%2F&type=tcp#🇪🇺 Игровой сервер
+🇵🇱 Польша
+hysteria2://2a0fc918-9c61-451b-a9ad-e8f796e70f52@pl2.obxodvpn.us:443?sni=nl1.obxodvpn.us&alpn=h3&fp=chrome#🇵🇱 Польша
 
-🇫🇷 Франция
-vless://390c7bd2-d83c-49b6-a6d5-c454583bbb2d@94.249.187.88:43000?encryption=none&flow=xtls-rprx-vision&security=reality&fp=chrome&pbk=r710c3Is-baifKzevzR4GKPnWOdolchLdP1NoOOtK2A&sid=ecef9d30&spx=%2F&type=tcp#🇫🇷 Франция #1
-vless://7b22dce8-7ebd-425b-8ca4-7b6190321985@fr-2.bnc-gt.co.uk:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=b-wl.fr-2.bnc-gt.co.uk&fp=qq&pbk=CegqLjzOImUmYD9ZdpOOG65UgNTGeQfRmpIni8iraB0&sid=7be1e9c243451b14&type=tcp#🇫🇷 Франция #2
-vless://7b22dce8-7ebd-425b-8ca4-7b6190321985@fr-2.bnc-gt.co.uk:443?encryption=none&security=tls&sni=b-wl.fr-2.bnc-gt.co.uk&fp=qq&alpn=h2&type=grpc&serviceName=grpc#🇫🇷 Франция #3
+🇫🇮 Финляндия
+hysteria2://2a0fc918-9c61-451b-a9ad-e8f796e70f52@fi1.obxodvpn.us:443?sni=nl1.obxodvpn.us&alpn=h3&fp=chrome#🇫🇮 Финляндия
 
-🇩🇪 Германия
-vless://6a6ac9b3-b336-44f7-a1c4-a03d6c2fae9e@deo.skysafe.online:2027?encryption=none&flow=xtls-rprx-vision&security=reality&sni=deo.skysafe.online&fp=qq&pbk=EApxy12MeXpqt-78odxizwcXT6hX9f8XeAcbMDVRAV0&sid=6ba7b8109dad11d1&type=tcp#🇩🇪 Германия
-hysteria2://6da2c981-8c77-4340-bda3-93399b7aea26@blogs.blog-forme.ru:443?sni=blogs.blog-forme.ru&alpn=h3&fp=chrome#🇩🇪 Германия #2
-vless://6da2c981-8c77-4340-bda3-93399b7aea26@213.165.54.59:8443?encryption=none&security=reality&sni=www.kinopoisk.ru&fp=edge&pbk=CI4hMTvVsem9mloOgRCW9A6WC-srPPwu3jlylwOnd3A&sid=2e6d668958829998&type=xhttp&path=%2Fentry-xh&mode=auto#🇩🇪 Германия #3
+🇳🇱 Нидерланды
+hysteria2://2a0fc918-9c61-451b-a9ad-e8f796e70f52@nl1.obxodvpn.us:443?sni=nl1.obxodvpn.us&alpn=h3&fp=chrome#🇳🇱 Нидерланды
+
+🇸🇪 Швеция
+vless://7d43670b-6b08-45b9-8a24-8f3971abc132@netherlands.biznes.lol:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=netherlands.biznes.lol&fp=firefox&pbk=p2QUi5Oyqwc3unA19NqgnF4h3I_SjLOkn0cUkzWCOE0&type=tcp#🇸🇪 Швеция
 
 🇷🇺 Белые списки
 vless://fa6271ce-9fd4-43a8-a4aa-afb3682ff51a@ybs.baboon.digital:443?encryption=none&security=tls&sni=ybs.baboon.digital&fp=firefox&alpn=h2%2Chttp%2F1.1&type=xhttp&path=%2F&host=ybs.baboon.digital&mode=packet-up#🇷🇺 Белые списки #1
