@@ -1,6 +1,6 @@
 #profile-title: Haven vpn Auto
 #support-url: https://t.me/hiddenwikipedia
-#announce: base64: 0YLQsyDQutCw0L3QsNC7IEBoaWRkZW53aWtpcGVkaWEK0L/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1IDogMS4xMS4yNiA0OjMwINCc0KHQmgrQv9C10YDQtdC0INC/0L7QtNC60LvRjtGH0LXQvdC40LXQvCDQv9GA0L7QstC10YDRj9C50YLQtSDQv9C40L3QsyAtIOKPse+4jyAK0L3QtSDRgNCw0LHQvtGC0LDQtdGCPyDQvtCx0L3QvtCy0LjRgtC1IC0g8J+UhO+4jw==
+#announce: base64: 0YLQsyDQutCw0L3QsNC7IEBoaWRkZW53aWtpcGVkaWEK0L/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1IDogMi4xMS4yNiAwOjQ2INCc0KHQmgrQv9C10YDQtdC0INC/0L7QtNC60LvRjtGH0LXQvdC40LXQvCDQv9GA0L7QstC10YDRj9C50YLQtSDQv9C40L3QsyAtIOKPse+4jyAK0L3QtSDRgNCw0LHQvtGC0LDQtdGCPyDQvtCx0L3QvtCy0LjRgtC1IC0g8J+UhO+4jw==
 
 {
   "remarks": "🔁 Автовыбор",
@@ -29,64 +29,61 @@
   ],
   "outbounds": [
     {
-      "protocol": "vless",
+      "protocol": "hysteria",
       "tag": "proxy-1",
-      "settings": {
-        "vnext": [{ "address": "admin.betust.net", "port": 443, "users": [{ "id": "95d0e214-eab0-4701-93ed-fea4f1b56062", "encryption": "none", "flow": "xtls-rprx-vision" }] }]
-      },
+      "settings": { "address": "91-84-116-74.sslip.io", "port": 8444, "version": 2 },
       "streamSettings": {
-        "network": "tcp",
-        "security": "reality",
-        "realitySettings": { "fingerprint": "firefox", "serverName": "admin.betust.net", "publicKey": "zZjrHRzULoXKVccVdPqtrtXLEUPJXwqdE1138vu5x3w", "shortId": "3e137406", "spiderX": "/" }
+        "network": "hysteria",
+        "security": "tls",
+        "hysteriaSettings": { "auth": "37dc525c-491e-4e6d-9925-fc0efd82b548", "version": 2 },
+        "tlsSettings": { "serverName": "91-84-116-74.sslip.io" }
       }
     },
     {
       "protocol": "vless",
       "tag": "proxy-2",
       "settings": {
-        "vnext": [{ "address": "tickets.betust.net", "port": 443, "users": [{ "id": "95d0e214-eab0-4701-93ed-fea4f1b56062", "encryption": "none", "flow": "xtls-rprx-vision" }] }]
+        "vnext": [{ "address": "sports.blog-forme.ru", "port": 8443, "users": [{ "id": "6da2c981-8c77-4340-bda3-93399b7aea26", "encryption": "none", "flow": "xtls-rprx-vision" }] }]
       },
       "streamSettings": {
         "network": "tcp",
         "security": "reality",
-        "realitySettings": { "fingerprint": "firefox", "serverName": "tickets.betust.net", "publicKey": "TRaUsnzFf-AhWUuW4RQUQOBYTdM-qJdLDTTkzQNkcRw", "shortId": "f70764f8", "spiderX": "/" }
+        "realitySettings": { "fingerprint": "edge", "serverName": "sports.blog-forme.ru", "publicKey": "nalACuCZjV1sZx7QOH6yAIDio8mFI0FgVKYQvQHBKS4", "shortId": "fb3a5f2d4ca346ed" }
       }
     },
     {
       "protocol": "vless",
       "tag": "proxy-3",
       "settings": {
-        "vnext": [{ "address": "netherlands.biznes.lol", "port": 443, "users": [{ "id": "7d43670b-6b08-45b9-8a24-8f3971abc132", "encryption": "none", "flow": "xtls-rprx-vision" }] }]
-      },
-      "streamSettings": {
-        "network": "tcp",
-        "security": "reality",
-        "realitySettings": { "fingerprint": "firefox", "serverName": "netherlands.biznes.lol", "publicKey": "p2QUi5Oyqwc3unA19NqgnF4h3I_SjLOkn0cUkzWCOE0", "spiderX": "/" }
-      }
-    },
-    {
-      "protocol": "vless",
-      "tag": "proxy-4",
-      "settings": {
-        "vnext": [{ "address": "ybs.baboon.digital", "port": 443, "users": [{ "id": "fa6271ce-9fd4-43a8-a4aa-afb3682ff51a", "encryption": "none" }] }]
+        "vnext": [{ "address": "178.17.52.236", "port": 2083, "users": [{ "id": "6da2c981-8c77-4340-bda3-93399b7aea26", "encryption": "none" }] }]
       },
       "streamSettings": {
         "network": "xhttp",
+        "security": "reality",
+        "realitySettings": { "fingerprint": "edge", "serverName": "maps.blog-forme.ru", "publicKey": "mbi4BZAuiq_L6pfhG2xxWmtosq0Z1Pzf18fvNSWKMxY", "shortId": "3258252d44113e23" },
+        "xhttpSettings": { "path": "/v2/sync/6e9367", "mode": "auto" }
+      }
+    },
+    {
+      "protocol": "trojan",
+      "tag": "proxy-4",
+      "settings": { "servers": [{ "address": "208.69.78.19", "port": 443, "password": "0ab6c98dae3b48e8b9c4a776b6c9c19a" }] },
+      "streamSettings": {
+        "network": "tcp",
         "security": "tls",
-        "tlsSettings": { "alpn": ["h2", "http/1.1"], "fingerprint": "firefox", "serverName": "ybs.baboon.digital" },
-        "xhttpSettings": { "path": "/", "host": "ybs.baboon.digital", "mode": "packet-up" }
+        "tlsSettings": { "fingerprint": "chrome", "serverName": "www.yourultimateprofessionalcareerhub.com" }
       }
     },
     {
       "protocol": "vless",
       "tag": "proxy-5",
       "settings": {
-        "vnext": [{ "address": "157.22.240.193", "port": 443, "users": [{ "id": "99551a64-bc49-4442-b78b-cc8a9a57b9a9", "encryption": "none", "flow": "xtls-rprx-vision" }] }]
+        "vnext": [{ "address": "ee1.vpngold.ru", "port": 8443, "users": [{ "id": "a52fd54b-ba4d-4d11-8e00-301e2646cd66", "encryption": "none", "flow": "xtls-rprx-vision" }] }]
       },
       "streamSettings": {
         "network": "tcp",
         "security": "reality",
-        "realitySettings": { "fingerprint": "firefox", "serverName": "yandex.ru", "publicKey": "T1BWBw3lq9G1LiQ7eQSPfdNQic7bUMEbdFNJBewAwB8", "shortId": "6ad3c0f1e9b2478a" }
+        "realitySettings": { "fingerprint": "firefox", "serverName": "ee1.vpngold.ru", "publicKey": "1H1DiBCBB7fpALV71pH1q66ePybBFlVOcxftdlQimQ8", "shortId": "385cb18df0892069" }
       }
     },
     {
