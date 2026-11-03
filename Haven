@@ -9,14 +9,22 @@ vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@main.jarbook.net:443?encryption=non
 vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@admin.betust.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=admin.betust.net&fp=firefox&pbk=zZjrHRzULoXKVccVdPqtrtXLEUPJXwqdE1138vu5x3w&sid=3e137406&type=tcp#🇵🇱 HavenVPN | Польша #1
 
 🇩🇪 Германия
-vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@tickets.betust.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tickets.betust.net&fp=firefox&pbk=TRaUsnzFf-AhWUuW4RQUQOBYTdM-qJdLDTTkzQNkcRw&sid=f70764f8&type=tcp#🇩🇪 HavenVPN | Германия #1
+vless://a44a1eab-1f2d-435e-b324-3c9e73d975bc@195.123.6.11:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.google.com&fp=firefox&pbk=IiBlvTjhPXcCixjqH6n6Cz3RWbeQjHepWtfIi28mly4&sid=9f2c4a7b1d6e8035&type=tcp#🇩🇪 HavenVPN | Германия #1
 
-🇸🇪 Швеция
-vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@admin.betust.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=admin.betust.net&fp=firefox&pbk=zZjrHRzULoXKVccVdPqtrtXLEUPJXwqdE1138vu5x3w&sid=3e137406&type=tcp#🇸🇪 HavenVPN | Швеция #1
+🇨🇿 Чехия
+vless://a44a1eab-1f2d-435e-b324-3c9e73d975bc@89.125.237.245:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.google.com&fp=firefox&pbk=IiBlvTjhPXcCixjqH6n6Cz3RWbeQjHepWtfIi28mly4&sid=9f2c4a7b1d6e8035&type=tcp#🇨🇿 HavenVPN | Чехия #1
+
+🇬🇧 Великобритания
+vless://a44a1eab-1f2d-435e-b324-3c9e73d975bc@195.123.6.11:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.google.com&fp=firefox&pbk=IiBlvTjhPXcCixjqH6n6Cz3RWbeQjHepWtfIi28mly4&sid=9f2c4a7b1d6e8035&type=tcp#🇬🇧 HavenVPN | Великобритания #1
+
+🇺🇸 США
+vless://a44a1eab-1f2d-435e-b324-3c9e73d975bc@195.123.6.11:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.google.com&fp=firefox&pbk=IiBlvTjhPXcCixjqH6n6Cz3RWbeQjHepWtfIi28mly4&sid=9f2c4a7b1d6e8035&type=tcp#🇺🇸 HavenVPN | США #1
 
 🇷🇺 Белые списки
-vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@qq.utiltools.site:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=qq.utiltools.site&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI#🇷🇺 HavenVPN | Белые списки #1
-vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@78.159.250.214:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=qq.utiltools.site&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI#🇷🇺 HavenVPN | Белые списки #2
-vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@78.159.250.214:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=qq.utiltools.site&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&sid=00000000#🇷🇺 HavenVPN | Белые списки #3
-vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@qq.utiltools.site:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=qq.utiltools.site&fp=chrome&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&type=tcp#🇷🇺 HavenVPN | Белые списки #4
-vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@78.159.250.214:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=qq.utiltools.site&fp=chrome&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&sid=00000000&type=tcp#🇷🇺 HavenVPN | Белые списки #5
+vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@cdnapi3.streamru18.net:443?encryption=none&security=tls&sni=cdnapi3.streamru18.net&fp=qq&alpn=h2%2Chttp%2F1.1&type=xhttp&host=cdnapi3.streamru18.net&path=%2Fapi%2Fv83%2Fuptodown%2F&mode=packet-up#HavenVPN | Белые списки #1
+vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@game.betust.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api14.betust.net&fp=firefox&pbk=7dxSNJKvSZNySuiKjuv6wwddd3hYJeJy6X55OcwOPDk&sid=16fbc56c&type=tcp#HavenVPN | Белые списки #2
+vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@apply.betust.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apply.betust.net&fp=firefox&pbk=T98nmnCp0qrmkH1Oq92Tk94sCYa5RuuEjp8bDDbdVxk&sid=b20168a5&type=tcp#HavenVPN | Белые списки #3
+vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@snow.betust.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api37.betust.net&fp=firefox&pbk=92lzqaBZnD5IP_subNDLotGMBs4u7STDMhqoBz1OADE&sid=b7a5c406&type=tcp#HavenVPN | Белые списки #4
+vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@lorettmay.top:443?encryption=none&security=tls&sni=lorettmay.top&fp=firefox&alpn=http%2F1.1&type=ws&host=lorettmay.top&path=%2Fblog%2Fposts#HavenVPN | Белые списки #5
+vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@app.betust.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=app.betust.net&fp=firefox&pbk=xNzdfy4hPv-IgM_MSn64FNQdb-UPu78pmM-GBE1HhSo&sid=ef5d4ad5&type=tcp#HavenVPN | Белые списки #6
+vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@join.betust.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=join.betust.net&fp=firefox&pbk=GQul8Ak0VO_z4FW_m_R-xsQbwd2e1rWZO-XfMmKmpQE&sid=351224a7&type=tcp#HavenVPN | Белые списки #7
