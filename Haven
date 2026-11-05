@@ -23,7 +23,3 @@ vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@subscribe.goonars.com:443?type=tcp&
 
 🇷🇺 Белые списки
 vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@panel.betust.net:443?type=tcp&security=reality&sni=panel.betust.net&pbk=2e9dGid5D-e4demAVGqU71uEeusuBhviikchaJ96E3o&sid=8ece2039&fp=firefox&spx=%2F&encryption=none&flow=xtls-rprx-vision#🇷🇺 HavenVPN | Белые списки #1
-vless://16f5041e-7a72-44a0-afbf-744ec2bf1cc9@rsvnor.vdq507pewx.h1cloud.lol:443?type=xhttp&security=tls&sni=rsvnor.vdq507pewx.h1cloud.lol&fp=firefox&path=%2Fapi%2Fv1%2Fbsmanaged28719%2Fsync%2F&host=&mode=packet-up&encryption=none#🇷🇺 HavenVPN | Белые списки #2
-vless://16f5041e-7a72-44a0-afbf-744ec2bf1cc9@188.72.103.4:443?type=xhttp&security=tls&sni=yccdn.cloud.yandex.net&fp=firefox&path=%2Fapi%2Fv1%2Fbsmanaged12284%2Fsync%2F&host=rsvnor.vdq507pewx.h1cloud.lol&mode=packet-up&encryption=none#🇷🇺 HavenVPN | Белые списки #3
-vless://16f5041e-7a72-44a0-afbf-744ec2bf1cc9@188.72.103.4:443?type=xhttp&security=tls&sni=yccdn.cloud.yandex.net&fp=firefox&path=%2Fapi%2Fv1%2Fbsmanaged28719%2Fsync%2F&host=rsvnor.vdq507pewx.h1cloud.lol&mode=packet-up&encryption=none#🇷🇺 HavenVPN | Белые списки #4
-vless://16f5041e-7a72-44a0-afbf-744ec2bf1cc9@188.72.103.4:443?type=xhttp&security=tls&sni=yccdn.cloud.yandex.net&fp=firefox&path=%2Fapi%2Fv1%2Fbsmanaged28719%2Fsync%2F&host=rsvnor.vdq507pewx.h1cloud.lol&mode=packet-up&encryption=none#🇷🇺 HavenVPN | Белые списки #5
