@@ -3,7 +3,7 @@
 #announce: base64: 0YLQsyDQutCw0L3QsNC7IEBoaWRkZW53aWtpcGVkaWEK0L/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1IDogNS4xMS4yNiAyMTowMyDQnNCh0JoK0L/QtdGA0LXQtCDQv9C+0LTQutC70Y7Rh9C10L3QuNC10Lwg0L/RgNC+0LLQtdGA0Y/QudGC0LUg0L/QuNC90LMgLSDij7HvuI8gCtC90LUg0YDQsNCx0L7RgtCw0LXRgj8g0L7QsdC90L7QstC40YLQtSAtIPCflITvuI8=
 
 {
-  "remarks": HavenVPN | Автовыбор",
+  "remarks": "🇪🇺 HavenVPN | Автовыбор",
   "log": { "loglevel": "warning" },
   "dns": { "queryStrategy": "UseIPv4", "servers": ["1.1.1.1", "8.8.8.8"] },
   "inbounds": [
