@@ -1,27 +1,12 @@
 #profile-title: Haven vpn
 #support-url: https://t.me/hiddenwikipedia
-#announce: base64: 0YLQsyDQutCw0L3QsNC7IEBoaWRkZW53aWtpcGVkaWEK0L/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1IDogNC4xMS4yNiAyOjIwINCc0KHQmgrQv9C10YDQtdC0INC/0L7QtNC60LvRjtGH0LXQvdC40LXQvCDQv9GA0L7QstC10YDRj9C50YLQtSDQv9C40L3QsyAtIOKPse+4jyAK0L3QtSDRgNCw0LHQvtGC0LDQtdGCPyDQvtCx0L3QvtCy0LjRgtC1IC0g8J+UhO+4jw==
-
-🇩🇪 Германия
-vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@app26.betust.net:443?type=tcp&security=reality&sni=app26.betust.net&pbk=5pR15ATlWW3tVzfnMN3xoiN56LjIUbhnOMp37ZvTFUc&sid=d44d6d46&fp=firefox&spx=%2F&encryption=none&flow=xtls-rprx-vision#🇩🇪 HavenVPN | Германия #1
-
-🇵🇱 Польша
-vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@game.betust.net:443?type=tcp&security=reality&sni=api14.betust.net&pbk=7dxSNJKvSZNySuiKjuv6wwddd3hYJeJy6X55OcwOPDk&sid=16fbc56c&fp=firefox&spx=%2F&encryption=none&flow=xtls-rprx-vision#🇵🇱 HavenVPN | Польша #1
+#announce: base64: 0YLQsyDQutCw0L3QsNC7IEBoaWRkZW53aWtpcGVkaWEK0L/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1IDogNS4xMS4yNiAxMzowNSDQnNCh0JoK0L/QtdGA0LXQtCDQv9C+0LTQutC70Y7Rh9C10L3QuNC10Lwg0L/RgNC+0LLQtdGA0Y/QudGC0LUg0L/QuNC90LMgLSDij7HvuI8gCtC90LUg0YDQsNCx0L7RgtCw0LXRgj8g0L7QsdC90L7QstC40YLQtSAtIPCflITvuI8=
 
 🇫🇮 Финляндия
-vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@snow.betust.net:443?type=tcp&security=reality&sni=api37.betust.net&pbk=92lzqaBZnD5IP_subNDLotGMBs4u7STDMhqoBz1OADE&sid=b7a5c406&fp=firefox&spx=%2F&encryption=none&flow=xtls-rprx-vision#🇫🇮 HavenVPN | Финляндия #1
-
-🇳🇱 Нидерланды
-vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@app.betust.net:443?type=tcp&security=reality&sni=app.betust.net&pbk=xNzdfy4hPv-IgM_MSn64FNQdb-UPu78pmM-GBE1HhSo&sid=ef5d4ad5&fp=firefox&spx=%2F&encryption=none&flow=xtls-rprx-vision#🇳🇱 HavenVPN | Нидерланды #1
+hysteria2://fe86085b-57a5-4f1a-bb4f-7597f170feea@185.22.234.28:443?security=tls&sni=r-fi-1.dokomon.com&alpn=h3#🇫🇮 HavenVPN | Финляндия #1
+hysteria2://fe86085b-57a5-4f1a-bb4f-7597f170feea@46.8.210.209:443?security=tls&sni=r-fi-1.dokomon.com&alpn=h3#🇫🇮 HavenVPN | Финляндия #2
 
 🇸🇪 Швеция
-vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@panel.betust.net:443?type=tcp&security=reality&sni=panel.betust.net&pbk=2e9dGid5D-e4demAVGqU71uEeusuBhviikchaJ96E3o&sid=8ece2039&fp=firefox&spx=%2F&encryption=none&flow=xtls-rprx-vision#🇸🇪 HavenVPN | Швеция #1
-
-🇷🇺 Белые списки
-vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@cdnapi3.streamru18.net:443?encryption=none&security=tls&sni=cdnapi3.streamru18.net&fp=qq&alpn=h2%2Chttp%2F1.1&type=xhttp&host=cdnapi3.streamru18.net&path=%2Fapi%2Fv83%2Fuptodown%2F&mode=packet-up#🇷🇺 HavenVPN | Белые списки #1
-vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@game.betust.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api14.betust.net&fp=firefox&pbk=7dxSNJKvSZNySuiKjuv6wwddd3hYJeJy6X55OcwOPDk&sid=16fbc56c&type=tcp#🇷🇺 HavenVPN | Белые списки #2
-vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@apply.betust.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apply.betust.net&fp=firefox&pbk=T98nmnCp0qrmkH1Oq92Tk94sCYa5RuuEjp8bDDbdVxk&sid=b20168a5&type=tcp#🇷🇺 HavenVPN | Белые списки #3
-vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@snow.betust.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api37.betust.net&fp=firefox&pbk=92lzqaBZnD5IP_subNDLotGMBs4u7STDMhqoBz1OADE&sid=b7a5c406&type=tcp#🇷🇺 HavenVPN | Белые списки #4
-vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@lorettmay.top:443?encryption=none&security=tls&sni=lorettmay.top&fp=firefox&alpn=http%2F1.1&type=ws&host=lorettmay.top&path=%2Fblog%2Fposts#🇷🇺 HavenVPN | Белые списки #5
-vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@app.betust.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=app.betust.net&fp=firefox&pbk=xNzdfy4hPv-IgM_MSn64FNQdb-UPu78pmM-GBE1HhSo&sid=ef5d4ad5&type=tcp#🇷🇺 HavenVPN | Белые списки #6
-vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@join.betust.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=join.betust.net&fp=firefox&pbk=GQul8Ak0VO_z4FW_m_R-xsQbwd2e1rWZO-XfMmKmpQE&sid=351224a7&type=tcp#🇷🇺 HavenVPN | Белые списки #7
+hysteria2://fe86085b-57a5-4f1a-bb4f-7597f170feea@46.8.210.209:444?security=tls&sni=r-se-1.dokomon.com&alpn=h3#🇸🇪 HavenVPN | Швеция #1
+hysteria2://fe86085b-57a5-4f1a-bb4f-7597f170feea@194.55.239.220:444?security=tls&sni=r-se-1.dokomon.com&alpn=h3#🇸🇪 HavenVPN | Швеция #2
+vless://fe86085b-57a5-4f1a-bb4f-7597f170feea@185.86.145.40:5443?type=ws&security=tls&sni=k2.r-se-1.dokomon.com&fp=qq&host=r-se-1.dokomon.com&path=%2Fws%2F&encryption=none#🇸🇪 HavenVPN | Швеция #3
