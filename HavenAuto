@@ -5,13 +5,9 @@
 {
   "remarks": "🇪🇺 HavenVPN | Автовыбор",
   "log": { "loglevel": "warning" },
-  "dns": {
-    "queryStrategy": "UseIPv4",
-    "servers": ["1.1.1.1", "8.8.8.8"]
-  },
+  "dns": { "queryStrategy": "UseIPv4", "servers": ["1.1.1.1", "8.8.8.8"] },
   "inbounds": [
-    { "listen": "127.0.0.1", "port": 10808, "protocol": "socks", "settings": { "auth": "noauth", "udp": true }, "sniffing": { "enabled": true, "destOverride": ["http", "tls", "quic"] }, "tag": "socks" },
-    { "listen": "127.0.0.1", "port": 10809, "protocol": "http", "settings": { "allowTransparent": false }, "sniffing": { "enabled": true, "destOverride": ["http", "tls", "quic"] }, "tag": "http" }
+    { "listen": "127.0.0.1", "port": 10808, "protocol": "socks", "settings": { "auth": "noauth", "udp": true }, "tag": "socks" }
   ],
   "observatory": {
     "enableConcurrency": true,
@@ -21,65 +17,30 @@
   },
   "outbounds": [
     {
-      "protocol": "hysteria",
-      "tag": "proxy",
-      "settings": { "version": 2, "address": "fi-p1.h1cloud.net", "port": 25482 },
-      "streamSettings": {
-        "network": "hysteria",
-        "security": "tls",
-        "hysteriaSettings": { "version": 2, "auth": "p5xt6oLOA3qikIaj" },
-        "tlsSettings": { "serverName": "www.bing.com", "alpn": ["h3"], "fingerprint": "chrome" }
-      }
-    },
-    {
-      "protocol": "vless",
-      "tag": "proxy",
+      "protocol": "vless", "tag": "proxy",
       "settings": { "vnext": [{ "address": "prime.jarbook.net", "port": 443, "users": [{ "id": "fb37d713-0ed3-4146-b085-a5c879a9aafa", "encryption": "none", "flow": "xtls-rprx-vision" }] }] },
       "streamSettings": { "network": "tcp", "security": "reality", "realitySettings": { "fingerprint": "firefox", "serverName": "prime.jarbook.net", "publicKey": "oAX7soFKfN3xURgCD26trmjeF-e-eEjW3pBVXuuvW0k", "shortId": "77a8c8c8", "spiderX": "/" } }
     },
     {
-      "protocol": "hysteria",
-      "tag": "proxy",
-      "settings": { "version": 2, "address": "nl1.obxodvpn.us", "port": 443 },
-      "streamSettings": {
-        "network": "hysteria",
-        "security": "tls",
-        "hysteriaSettings": { "version": 2, "auth": "146d567c-6335-4e63-a8aa-7ec068642440" },
-        "tlsSettings": { "serverName": "nl1.obxodvpn.us", "alpn": ["h3"], "fingerprint": "chrome" }
-      }
-    },
-    {
-      "protocol": "vless",
-      "tag": "proxy",
+      "protocol": "vless", "tag": "proxy",
       "settings": { "vnext": [{ "address": "subscribe.goonars.com", "port": 443, "users": [{ "id": "fb37d713-0ed3-4146-b085-a5c879a9aafa", "encryption": "none", "flow": "xtls-rprx-vision" }] }] },
       "streamSettings": { "network": "tcp", "security": "reality", "realitySettings": { "fingerprint": "firefox", "serverName": "subscribe.goonars.com", "publicKey": "ZZihyRejv8lHTwTnNCGF0IB6U9kS-L34L3v0ch6k_30", "shortId": "4f339f5f", "spiderX": "/" } }
     },
     {
-      "protocol": "vless",
-      "tag": "proxy",
+      "protocol": "vless", "tag": "proxy",
       "settings": { "vnext": [{ "address": "panel.betust.net", "port": 443, "users": [{ "id": "fb37d713-0ed3-4146-b085-a5c879a9aafa", "encryption": "none", "flow": "xtls-rprx-vision" }] }] },
       "streamSettings": { "network": "tcp", "security": "reality", "realitySettings": { "fingerprint": "firefox", "serverName": "panel.betust.net", "publicKey": "2e9dGid5D-e4demAVGqU71uEeusuBhviikchaJ96E3o", "shortId": "8ece2039", "spiderX": "/" } }
     },
-    { "protocol": "freedom", "tag": "direct", "settings": { "fragment": { "interval": "10-30", "length": "10-30", "packets": "tlshello" } } },
+    { "protocol": "freedom", "tag": "direct" },
     { "protocol": "blackhole", "tag": "block" }
   ],
   "routing": {
-    "domainMatcher": "hybrid",
     "domainStrategy": "IPIfNonMatch",
     "balancers": [
-      {
-        "tag": "bal_smart",
-        "selector": ["proxy"],
-        "fallbackTag": "direct",
-        "strategy": { "type": "leastPing" }
-      }
+      { "tag": "bal_smart", "selector": ["proxy"], "fallbackTag": "direct", "strategy": { "type": "leastPing" } }
     ],
     "rules": [
-      { "type": "field", "protocol": ["bittorrent"], "outboundTag": "direct" },
-      { "type": "field", "domain": ["geosite:private"], "outboundTag": "direct" },
-      { "type": "field", "ip": ["geoip:private"], "outboundTag": "direct" },
       { "type": "field", "network": "tcp,udp", "balancerTag": "bal_smart" }
     ]
-  },
-  "stats": {}
+  }
 }
