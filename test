@@ -1,19 +1,252 @@
 #profile-title: Haven vpn TEST 
 #support-url: https://t.me/hiddenwikipedia
 
-🇩🇪 Германия
-vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@cdnapiv.streamru37.net:443?type=xhttp&security=tls&host=cdnapiv.streamru37.net&path=%2Fapi%2Fv125%2Fuptodown%2F&mode=packet-up&sni=cdnapiv.streamru37.net&fp=chrome&alpn=h2%2Chttp%2F1.1&encryption=none#🇩🇪 HavenVPN | Германия #1
-vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@game.betust.net:443?type=tcp&security=reality&sni=api14.betust.net&pbk=7dxSNJKvSZNySuiKjuv6wwddd3hYJeJy6X55OcwOPDk&sid=16fbc56c&fp=firefox&spx=%2F&encryption=none&flow=xtls-rprx-vision#🇩🇪 HavenVPN | Германия #2
-
-🇵🇱 Польша
-vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@prime.jarbook.net:443?type=tcp&security=reality&sni=prime.jarbook.net&pbk=oAX7soFKfN3xURgCD26trmjeF-e-eEjW3pBVXuuvW0k&sid=77a8c8c8&fp=firefox&spx=%2F&encryption=none&flow=xtls-rprx-vision#🇵🇱 HavenVPN | Польша #1
-
-🇫🇮 Финляндия
-vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@cdnapiv3.streamru32.net:443?type=xhttp&security=tls&host=cdnapiv3.streamru32.net&path=%2Fapi%2Fv115%2Fuptodown%2F&mode=packet-up&sni=cdnapiv3.streamru32.net&fp=chrome&alpn=h2%2Chttp%2F1.1&encryption=none#🇫🇮 HavenVPN | Финляндия #1
-vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@snow.betust.net:443?type=tcp&security=reality&sni=api37.betust.net&pbk=92lzqaBZnD5IP_subNDLotGMBs4u7STDMhqoBz1OADE&sid=b7a5c406&fp=firefox&spx=%2F&encryption=none&flow=xtls-rprx-vision#🇫🇮 HavenVPN | Финляндия #2
-
-🇳🇱 Нидерланды
-hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@nl1.obxodvpn.us:443?security=tls&sni=nl1.obxodvpn.us&alpn=h3#🇳🇱 HavenVPN | Нидерланды #1
-
-🇸🇪 Швеция
-vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@subscribe.goonars.com:443?type=tcp&security=reality&sni=subscribe.goonars.com&pbk=ZZihyRejv8lHTwTnNCGF0IB6U9kS-L34L3v0ch6k_30&sid=4f339f5f&fp=firefox&spx=%2F&encryption=none&flow=xtls-rprx-vision#🇸🇪 HavenVPN | Швеция #1
+{
+    "dns" : {
+        "hosts" : {
+            "cloudflare-dns.com" : "1.1.1.1",
+            "dns.google" : "8.8.8.8",
+            "mozilla.cloudflare-dns.com" : "1.1.1.1"
+        },
+        "queryStrategy" : "UseIPv4",
+        "servers" : [ {
+            "address" : "https://1.1.1.1/dns-query",
+            "skipFallback" : false
+        }, {
+            "address" : "https://8.8.8.8/dns-query",
+            "skipFallback" : false
+        }, "1.1.1.1", "8.8.8.8" ],
+        "tag" : "dns_out"
+    },
+    "inbounds" : [ {
+        "listen" : "127.0.0.1",
+        "port" : 10808,
+        "protocol" : "socks",
+        "settings" : {
+            "auth" : "noauth",
+            "udp" : true
+        },
+        "sniffing" : {
+            "destOverride" : [ "http", "tls" ],
+            "enabled" : true,
+            "routeOnly" : true
+        },
+        "tag" : "socks"
+    }, {
+        "listen" : "127.0.0.1",
+        "port" : 10809,
+        "protocol" : "http",
+        "settings" : {
+            "allowTransparent" : false
+        },
+        "sniffing" : {
+            "destOverride" : [ "http", "tls" ],
+            "enabled" : true,
+            "routeOnly" : true
+        },
+        "tag" : "http"
+    } ],
+    "log" : {
+        "loglevel" : "Warning"
+    },
+    "meta" : null,
+    "observatory" : {
+        "enableConcurrency" : true,
+        "probeInterval" : "2m",
+        "probeUrl" : "https://cp.cloudflare.com/generate_204",
+        "subjectSelector" : [ "cand", "regular" ]
+    },
+    "outbounds" : [ {
+        "mux" : { "enabled" : false },
+        "protocol" : "vless",
+        "settings" : {
+            "address" : "cdnapiv.streamru37.net",
+            "encryption" : "none",
+            "id" : "fb37d713-0ed3-4146-b085-a5c879a9aafa",
+            "port" : 443,
+            "vnext" : [ {
+                "address" : "cdnapiv.streamru37.net",
+                "port" : 443,
+                "users" : [ { "encryption" : "none", "id" : "fb37d713-0ed3-4146-b085-a5c879a9aafa" } ]
+            } ]
+        },
+        "streamSettings" : {
+            "network" : "xhttp",
+            "security" : "tls",
+            "tlsSettings" : { "allowInsecure" : false, "alpn" : [ "h2", "http/1.1" ], "fingerprint" : "chrome", "serverName" : "cdnapiv.streamru37.net" },
+            "xhttpSettings" : {
+                "extra" : {
+                    "headers" : { "Accept" : "application/vnd.api+json, application/json, text/plain, */*", "Accept-Language" : "ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7", "Cache-Control" : "no-cache", "Pragma" : "no-cache" },
+                    "scMaxBufferedPosts" : 64, "scMaxEachPostBytes" : "4096-16384", "scMinPostsIntervalMs" : "1-8",
+                    "seqKey" : "offset", "seqPlacement" : "query", "serverMaxHeaderBytes" : 32768,
+                    "sessionIDKey" : "media_sid", "sessionIDLength" : "16-32", "sessionIDPlacement" : "cookie", "sessionIDTable" : "Base62",
+                    "sessionKey" : "media_sid", "sessionPlacement" : "cookie",
+                    "uplinkDataKey" : "X-Playback-Token", "uplinkDataPlacement" : "header", "uplinkHTTPMethod" : "GET",
+                    "xPaddingBytes" : "48-256", "xPaddingHeader" : "X-Rewrite-URL", "xPaddingKey" : "q", "xPaddingMethod" : "tokenish", "xPaddingObfsMode" : true, "xPaddingPlacement" : "queryInHeader",
+                    "xmux" : { "cMaxReuseTimes" : "24-64", "hKeepAlivePeriod" : 15, "hMaxRequestTimes" : "160-320", "hMaxReusableSecs" : "600-1200", "maxConcurrency" : "4-8" }
+                },
+                "host" : "cdnapiv.streamru37.net", "mode" : "packet-up", "path" : "/api/v125/uptodown/"
+            }
+        },
+        "tag" : "cand"
+    }, {
+        "mux" : { "enabled" : false },
+        "protocol" : "vless",
+        "settings" : {
+            "address" : "game.betust.net", "encryption" : "none", "flow" : "xtls-rprx-vision",
+            "id" : "fb37d713-0ed3-4146-b085-a5c879a9aafa", "port" : 443,
+            "vnext" : [ { "address" : "game.betust.net", "port" : 443, "users" : [ { "encryption" : "none", "flow" : "xtls-rprx-vision", "id" : "fb37d713-0ed3-4146-b085-a5c879a9aafa" } ] } ]
+        },
+        "streamSettings" : {
+            "network" : "tcp",
+            "realitySettings" : { "fingerprint" : "firefox", "publicKey" : "7dxSNJKvSZNySuiKjuv6wwddd3hYJeJy6X55OcwOPDk", "serverName" : "api14.betust.net", "shortId" : "16fbc56c", "spiderX" : "/" },
+            "security" : "reality",
+            "tcpSettings" : { "header" : { "type" : "none" } }
+        },
+        "tag" : "regular"
+    }, {
+        "mux" : { "enabled" : false },
+        "protocol" : "freedom",
+        "settings" : { "fragment" : { "interval" : "10-30", "length" : "10-30", "packets" : "tlshello" } },
+        "tag" : "direct"
+    }, {
+        "mux" : { "enabled" : false },
+        "protocol" : "blackhole",
+        "tag" : "block"
+    } ],
+    "remarks" : "🇩🇪 HavenVPN | Германия #1",
+    "routing" : {
+        "balancers" : [ { "fallbackTag" : "cand", "selector" : [ "regular" ], "strategy" : { "type" : "leastPing" }, "tag" : "bal_smart" } ],
+        "domainMatcher" : "hybrid",
+        "domainStrategy" : "IPIfNonMatch",
+        "rules" : [
+            { "outboundTag" : "direct", "protocol" : [ "bittorrent" ], "type" : "field" },
+            { "domain" : [ "geosite:private" ], "outboundTag" : "direct", "type" : "field" },
+            { "ip" : [ "geoip:private" ], "outboundTag" : "direct", "type" : "field" },
+            { "domain" : [ "domain:max.ru", "domain:1c-bitrix.ru" ], "outboundTag" : "direct", "type" : "field" },
+            { "balancerTag" : "bal_smart", "network" : "tcp,udp", "type" : "field" }
+        ]
+    }
+}
+{
+    "dns" : {
+        "hosts" : { "cloudflare-dns.com" : "1.1.1.1", "dns.google" : "8.8.8.8", "mozilla.cloudflare-dns.com" : "1.1.1.1" },
+        "queryStrategy" : "UseIPv4",
+        "servers" : [ "https://1.1.1.1/dns-query", "https://8.8.8.8/dns-query", "1.1.1.1", "8.8.8.8" ]
+    },
+    "inbounds" : [ { "listen" : "127.0.0.1", "port" : 10808, "protocol" : "socks", "settings" : { "auth" : "noauth", "udp" : true }, "sniffing" : { "destOverride" : [ "http", "tls" ], "enabled" : true, "routeOnly" : true }, "tag" : "socks" } ],
+    "log" : { "loglevel" : "Warning" },
+    "meta" : null,
+    "outbounds" : [ {
+        "mux" : { "enabled" : false },
+        "protocol" : "vless",
+        "settings" : {
+            "address" : "prime.jarbook.net", "encryption" : "none", "flow" : "xtls-rprx-vision",
+            "id" : "fb37d713-0ed3-4146-b085-a5c879a9aafa", "port" : 443,
+            "vnext" : [ { "address" : "prime.jarbook.net", "port" : 443, "users" : [ { "encryption" : "none", "flow" : "xtls-rprx-vision", "id" : "fb37d713-0ed3-4146-b085-a5c879a9aafa" } ] } ]
+        },
+        "streamSettings" : {
+            "network" : "tcp",
+            "realitySettings" : { "fingerprint" : "firefox", "publicKey" : "oAX7soFKfN3xURgCD26trmjeF-e-eEjW3pBVXuuvW0k", "serverName" : "prime.jarbook.net", "shortId" : "77a8c8c8", "spiderX" : "/" },
+            "security" : "reality",
+            "tcpSettings" : { "header" : { "type" : "none" } }
+        },
+        "tag" : "proxy"
+    }, { "mux" : { "enabled" : false }, "protocol" : "freedom", "settings" : { "fragment" : { "interval" : "10-30", "length" : "10-30", "packets" : "tlshello" } }, "tag" : "direct" },
+    { "mux" : { "enabled" : false }, "protocol" : "blackhole", "tag" : "block" } ],
+    "remarks" : "🇵🇱 HavenVPN | Польша #1",
+    "routing" : {
+        "domainMatcher" : "hybrid", "domainStrategy" : "IPIfNonMatch",
+        "rules" : [
+            { "ip" : [ "1.1.1.1", "8.8.8.8" ], "outboundTag" : "proxy", "type" : "field" },
+            { "network" : "udp", "outboundTag" : "block", "port" : "443", "type" : "field" },
+            { "outboundTag" : "direct", "protocol" : [ "bittorrent" ], "type" : "field" },
+            { "domain" : [ "geosite:private" ], "outboundTag" : "direct", "type" : "field" },
+            { "ip" : [ "geoip:private" ], "outboundTag" : "direct", "type" : "field" },
+            { "domain" : [ "domain:max.ru" ], "outboundTag" : "direct", "type" : "field" },
+            { "network" : "tcp,udp", "outboundTag" : "proxy", "type" : "field" }
+        ]
+    }
+}
+{
+    "dns" : {
+        "hosts" : { "cloudflare-dns.com" : "1.1.1.1", "dns.google" : "8.8.8.8", "mozilla.cloudflare-dns.com" : "1.1.1.1" },
+        "queryStrategy" : "UseIPv4",
+        "servers" : [ { "address" : "https://1.1.1.1/dns-query", "skipFallback" : false }, { "address" : "https://8.8.8.8/dns-query", "skipFallback" : false }, "1.1.1.1", "8.8.8.8" ],
+        "tag" : "dns_out"
+    },
+    "inbounds" : [ { "listen" : "127.0.0.1", "port" : 10808, "protocol" : "socks", "settings" : { "auth" : "noauth", "udp" : true }, "sniffing" : { "destOverride" : [ "http", "tls" ], "enabled" : true, "routeOnly" : true }, "tag" : "socks" },
+    { "listen" : "127.0.0.1", "port" : 10809, "protocol" : "http", "settings" : { "allowTransparent" : false }, "sniffing" : { "destOverride" : [ "http", "tls" ], "enabled" : true, "routeOnly" : true }, "tag" : "http" } ],
+    "log" : { "loglevel" : "Warning" },
+    "meta" : null,
+    "observatory" : { "enableConcurrency" : true, "probeInterval" : "2m", "probeUrl" : "https://cp.cloudflare.com/generate_204", "subjectSelector" : [ "cand", "regular" ] },
+    "outbounds" : [ {
+        "mux" : { "enabled" : false },
+        "protocol" : "vless",
+        "settings" : { "address" : "cdnapiv3.streamru32.net", "encryption" : "none", "id" : "fb37d713-0ed3-4146-b085-a5c879a9aafa", "port" : 443,
+        "vnext" : [ { "address" : "cdnapiv3.streamru32.net", "port" : 443, "users" : [ { "encryption" : "none", "id" : "fb37d713-0ed3-4146-b085-a5c879a9aafa" } ] } ] },
+        "streamSettings" : { "network" : "xhttp", "security" : "tls",
+        "tlsSettings" : { "allowInsecure" : false, "alpn" : [ "h2", "http/1.1" ], "fingerprint" : "chrome", "serverName" : "cdnapiv3.streamru32.net" },
+        "xhttpSettings" : { "extra" : { "headers" : { "Accept" : "application/vnd.api+json, application/json, text/plain, */*", "Accept-Language" : "ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7", "Cache-Control" : "no-cache", "Pragma" : "no-cache" }, "scMaxBufferedPosts" : 64, "scMaxEachPostBytes" : "4096-16384", "scMinPostsIntervalMs" : "1-8", "seqKey" : "offset", "seqPlacement" : "query", "serverMaxHeaderBytes" : 32768, "sessionIDKey" : "media_sid", "sessionIDLength" : "16-32", "sessionIDPlacement" : "cookie", "sessionIDTable" : "Base62", "sessionKey" : "media_sid", "sessionPlacement" : "cookie", "uplinkDataKey" : "X-Playback-Token", "uplinkDataPlacement" : "header", "uplinkHTTPMethod" : "GET", "xPaddingBytes" : "48-256", "xPaddingHeader" : "X-Rewrite-URL", "xPaddingKey" : "q", "xPaddingMethod" : "tokenish", "xPaddingObfsMode" : true, "xPaddingPlacement" : "queryInHeader", "xmux" : { "cMaxReuseTimes" : "24-64", "hKeepAlivePeriod" : 15, "hMaxRequestTimes" : "160-320", "hMaxReusableSecs" : "600-1200", "maxConcurrency" : "4-8" } }, "host" : "cdnapiv3.streamru32.net", "mode" : "packet-up", "path" : "/api/v115/uptodown/" } },
+        "tag" : "cand"
+    }, {
+        "mux" : { "enabled" : false },
+        "protocol" : "vless",
+        "settings" : { "address" : "snow.betust.net", "encryption" : "none", "flow" : "xtls-rprx-vision", "id" : "fb37d713-0ed3-4146-b085-a5c879a9aafa", "port" : 443,
+        "vnext" : [ { "address" : "snow.betust.net", "port" : 443, "users" : [ { "encryption" : "none", "flow" : "xtls-rprx-vision", "id" : "fb37d713-0ed3-4146-b085-a5c879a9aafa" } ] } ] },
+        "streamSettings" : { "network" : "tcp", "realitySettings" : { "fingerprint" : "firefox", "publicKey" : "92lzqaBZnD5IP_subNDLotGMBs4u7STDMhqoBz1OADE", "serverName" : "api37.betust.net", "shortId" : "b7a5c406", "spiderX" : "/" }, "security" : "reality", "tcpSettings" : { "header" : { "type" : "none" } } },
+        "tag" : "regular"
+    }, { "mux" : { "enabled" : false }, "protocol" : "freedom", "settings" : { "fragment" : { "interval" : "10-30", "length" : "10-30", "packets" : "tlshello" } }, "tag" : "direct" },
+    { "mux" : { "enabled" : false }, "protocol" : "blackhole", "tag" : "block" } ],
+    "remarks" : "🇫🇮 HavenVPN | Финляндия #1",
+    "routing" : {
+        "balancers" : [ { "fallbackTag" : "cand", "selector" : [ "regular" ], "strategy" : { "type" : "leastPing" }, "tag" : "bal_smart" } ],
+        "domainMatcher" : "hybrid", "domainStrategy" : "IPIfNonMatch",
+        "rules" : [
+            { "outboundTag" : "direct", "protocol" : [ "bittorrent" ], "type" : "field" },
+            { "domain" : [ "geosite:private" ], "outboundTag" : "direct", "type" : "field" },
+            { "ip" : [ "geoip:private" ], "outboundTag" : "direct", "type" : "field" },
+            { "domain" : [ "domain:max.ru" ], "outboundTag" : "direct", "type" : "field" },
+            { "balancerTag" : "bal_smart", "network" : "tcp,udp", "type" : "field" }
+        ]
+    }
+}
+{
+    "dns" : { "servers" : [ "https://8.8.8.8/dns-query" ] },
+    "inbounds" : [ { "listen" : "127.0.0.1", "port" : 10808, "protocol" : "socks", "settings" : { "auth" : "noauth", "udp" : true }, "sniffing" : { "destOverride" : [ "tls", "http", "quic" ], "enabled" : true, "routeOnly" : false }, "tag" : "socks" },
+    { "listen" : "127.0.0.1", "port" : 10809, "protocol" : "http", "settings" : { "allowTransparent" : false }, "sniffing" : { "destOverride" : [ "tls", "http", "quic" ], "enabled" : true, "routeOnly" : false }, "tag" : "http" } ],
+    "log" : { "loglevel" : "Warning" },
+    "meta" : null,
+    "outbounds" : [ {
+        "protocol" : "hysteria",
+        "settings" : { "address" : "nl1.obxodvpn.us", "port" : 443, "version" : 2 },
+        "streamSettings" : { "finalmask" : { "quicParams" : { "congestion" : "bbr", "debug" : false } }, "hysteriaSettings" : { "auth" : "146d567c-6335-4e63-a8aa-7ec068642440", "version" : 2 }, "network" : "hysteria", "security" : "tls", "tlsSettings" : { "alpn" : [ "h3" ], "fingerprint" : "chrome", "serverName" : "nl1.obxodvpn.us" } },
+        "tag" : "proxy"
+    }, { "protocol" : "freedom", "settings" : { "fragment" : { "interval" : "10-30", "length" : "10-30", "packets" : "tlshello" } }, "tag" : "direct" },
+    { "protocol" : "blackhole", "tag" : "block" } ],
+    "remarks" : "🇳🇱 HavenVPN | Нидерланды #1"
+}
+{
+    "dns" : { "hosts" : { "cloudflare-dns.com" : "1.1.1.1", "dns.google" : "8.8.8.8", "mozilla.cloudflare-dns.com" : "1.1.1.1" }, "queryStrategy" : "UseIPv4", "servers" : [ "https://1.1.1.1/dns-query", "https://8.8.8.8/dns-query", "1.1.1.1", "8.8.8.8" ] },
+    "inbounds" : [ { "listen" : "127.0.0.1", "port" : 10808, "protocol" : "socks", "settings" : { "auth" : "noauth", "udp" : true }, "sniffing" : { "destOverride" : [ "http", "tls" ], "enabled" : true, "routeOnly" : true }, "tag" : "socks" } ],
+    "log" : { "loglevel" : "Warning" },
+    "meta" : null,
+    "outbounds" : [ {
+        "mux" : { "enabled" : false },
+        "protocol" : "vless",
+        "settings" : { "address" : "subscribe.goonars.com", "encryption" : "none", "flow" : "xtls-rprx-vision", "id" : "fb37d713-0ed3-4146-b085-a5c879a9aafa", "port" : 443,
+        "vnext" : [ { "address" : "subscribe.goonars.com", "port" : 443, "users" : [ { "encryption" : "none", "flow" : "xtls-rprx-vision", "id" : "fb37d713-0ed3-4146-b085-a5c879a9aafa" } ] } ] },
+        "streamSettings" : { "network" : "tcp", "realitySettings" : { "fingerprint" : "firefox", "publicKey" : "ZZihyRejv8lHTwTnNCGF0IB6U9kS-L34L3v0ch6k_30", "serverName" : "subscribe.goonars.com", "shortId" : "4f339f5f", "spiderX" : "/" }, "security" : "reality", "tcpSettings" : { "header" : { "type" : "none" } } },
+        "tag" : "proxy"
+    }, { "mux" : { "enabled" : false }, "protocol" : "freedom", "settings" : { "fragment" : { "interval" : "10-30", "length" : "10-30", "packets" : "tlshello" } }, "tag" : "direct" },
+    { "mux" : { "enabled" : false }, "protocol" : "blackhole", "tag" : "block" } ],
+    "remarks" : "🇸🇪 HavenVPN | Швеция #1",
+    "routing" : { "domainMatcher" : "hybrid", "domainStrategy" : "IPIfNonMatch", "rules" : [
+        { "ip" : [ "1.1.1.1", "8.8.8.8" ], "outboundTag" : "proxy", "type" : "field" },
+        { "network" : "udp", "outboundTag" : "block", "port" : "443", "type" : "field" },
+        { "outboundTag" : "direct", "protocol" : [ "bittorrent" ], "type" : "field" },
+        { "domain" : [ "geosite:private" ], "outboundTag" : "direct", "type" : "field" },
+        { "ip" : [ "geoip:private" ], "outboundTag" : "direct", "type" : "field" },
+        { "network" : "tcp,udp", "outboundTag" : "proxy", "type" : "field" }
+    ] }
+}
