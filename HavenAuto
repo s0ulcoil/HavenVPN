@@ -1,9 +1,9 @@
 #profile-title: Haven vpn Auto
 #support-url: https://t.me/hiddenwikipedia
-#announce: base64: 0YLQsyDQutCw0L3QsNC7IEBoaWRkZW53aWtpcGVkaWEK0L/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1IDogNS4xMS4yNiAyMDo1MiDQnNCh0JoK0L/QtdGA0LXQtCDQv9C+0LTQutC70Y7Rh9C10L3QuNC10Lwg0L/RgNC+0LLQtdGA0Y/QudGC0LUg0L/QuNC90LMgLSDij7HvuI8gCtC90LUg0YDQsNCx0L7RgtCw0LXRgj8g0L7QsdC90L7QstC40YLQtSAtIPCflITvuI8=
+#announce: base64: 0YLQsyDQutCw0L3QsNC7IEBoaWRkZW53aWtpcGVkaWEK0L/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1IDogNS4xMS4yNiAyMTowMyDQnNCh0JoK0L/QtdGA0LXQtCDQv9C+0LTQutC70Y7Rh9C10L3QuNC10Lwg0L/RgNC+0LLQtdGA0Y/QudGC0LUg0L/QuNC90LMgLSDij7HvuI8gCtC90LUg0YDQsNCx0L7RgtCw0LXRgj8g0L7QsdC90L7QstC40YLQtSAtIPCflITvuI8=
 
 {
-  "remarks": "🇪🇺 HavenVPN | Автовыбор",
+  "remarks": HavenVPN | Автовыбор",
   "log": { "loglevel": "warning" },
   "dns": { "queryStrategy": "UseIPv4", "servers": ["1.1.1.1", "8.8.8.8"] },
   "inbounds": [
@@ -13,21 +13,46 @@
     "enableConcurrency": true,
     "probeInterval": "2m",
     "probeUrl": "https://cp.cloudflare.com/generate_204",
-    "subjectSelector": ["proxy"]
+    "subjectSelector": ["proxy-1", "proxy-2", "proxy-3", "proxy-4", "proxy-5"]
   },
   "outbounds": [
     {
-      "protocol": "vless", "tag": "proxy",
+      "protocol": "hysteria",
+      "tag": "proxy-1",
+      "settings": { "version": 2, "address": "fi-p1.h1cloud.net", "port": 25482 },
+      "streamSettings": {
+        "network": "hysteria",
+        "security": "tls",
+        "hysteriaSettings": { "version": 2, "auth": "p5xt6oLOA3qikIaj" },
+        "tlsSettings": { "serverName": "www.bing.com", "alpn": ["h3"], "fingerprint": "chrome" }
+      }
+    },
+    {
+      "protocol": "vless",
+      "tag": "proxy-2",
       "settings": { "vnext": [{ "address": "prime.jarbook.net", "port": 443, "users": [{ "id": "fb37d713-0ed3-4146-b085-a5c879a9aafa", "encryption": "none", "flow": "xtls-rprx-vision" }] }] },
       "streamSettings": { "network": "tcp", "security": "reality", "realitySettings": { "fingerprint": "firefox", "serverName": "prime.jarbook.net", "publicKey": "oAX7soFKfN3xURgCD26trmjeF-e-eEjW3pBVXuuvW0k", "shortId": "77a8c8c8", "spiderX": "/" } }
     },
     {
-      "protocol": "vless", "tag": "proxy",
+      "protocol": "hysteria",
+      "tag": "proxy-3",
+      "settings": { "version": 2, "address": "nl1.obxodvpn.us", "port": 443 },
+      "streamSettings": {
+        "network": "hysteria",
+        "security": "tls",
+        "hysteriaSettings": { "version": 2, "auth": "146d567c-6335-4e63-a8aa-7ec068642440" },
+        "tlsSettings": { "serverName": "nl1.obxodvpn.us", "alpn": ["h3"], "fingerprint": "chrome" }
+      }
+    },
+    {
+      "protocol": "vless",
+      "tag": "proxy-4",
       "settings": { "vnext": [{ "address": "subscribe.goonars.com", "port": 443, "users": [{ "id": "fb37d713-0ed3-4146-b085-a5c879a9aafa", "encryption": "none", "flow": "xtls-rprx-vision" }] }] },
       "streamSettings": { "network": "tcp", "security": "reality", "realitySettings": { "fingerprint": "firefox", "serverName": "subscribe.goonars.com", "publicKey": "ZZihyRejv8lHTwTnNCGF0IB6U9kS-L34L3v0ch6k_30", "shortId": "4f339f5f", "spiderX": "/" } }
     },
     {
-      "protocol": "vless", "tag": "proxy",
+      "protocol": "vless",
+      "tag": "proxy-5",
       "settings": { "vnext": [{ "address": "panel.betust.net", "port": 443, "users": [{ "id": "fb37d713-0ed3-4146-b085-a5c879a9aafa", "encryption": "none", "flow": "xtls-rprx-vision" }] }] },
       "streamSettings": { "network": "tcp", "security": "reality", "realitySettings": { "fingerprint": "firefox", "serverName": "panel.betust.net", "publicKey": "2e9dGid5D-e4demAVGqU71uEeusuBhviikchaJ96E3o", "shortId": "8ece2039", "spiderX": "/" } }
     },
@@ -37,7 +62,12 @@
   "routing": {
     "domainStrategy": "IPIfNonMatch",
     "balancers": [
-      { "tag": "bal_smart", "selector": ["proxy"], "fallbackTag": "direct", "strategy": { "type": "leastPing" } }
+      { 
+        "tag": "bal_smart", 
+        "selector": ["proxy-1", "proxy-2", "proxy-3", "proxy-4", "proxy-5"], 
+        "fallbackTag": "direct", 
+        "strategy": { "type": "leastPing" } 
+      }
     ],
     "rules": [
       { "type": "field", "network": "tcp,udp", "balancerTag": "bal_smart" }
