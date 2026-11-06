@@ -1,19 +1,19 @@
 #profile-title: Haven vpn
 #support-url: https://t.me/hiddenwikipedia
-#announce: base64: 0YLQsyDQutCw0L3QsNC7IEBoaWRkZW53aWtpcGVkaWEK0L/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1IDogNi4xMS4yNiAxNzo0MCDQnNCh0JoK0L/QtdGA0LXQtCDQv9C+0LTQutC70Y7Rh9C10L3QuNC10Lwg0L/RgNC+0LLQtdGA0Y/QudGC0LUg0L/QuNC90LMgLSDij7HvuI8gCtC90LUg0YDQsNCx0L7RgtCw0LXRgj8g0L7QsdC90L7QstC40YLQtSAtIPCflITvuI8=
+#announce: base64: 0YLQsyDQutCw0L3QsNC7IEBoaWRkZW53aWtpcGVkaWEK0L/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1IDogNi4xMS4yNiAyMzozMyDQnNCh0JoK0L/QtdGA0LXQtCDQv9C+0LTQutC70Y7Rh9C10L3QuNC10Lwg0L/RgNC+0LLQtdGA0Y/QudGC0LUg0L/QuNC90LMgLSDij7HvuI8gCtC90LUg0YDQsNCx0L7RgtCw0LXRgj8g0L7QsdC90L7QstC40YLQtSAtIPCflITvuI8=
+
+🇨🇿 Чехия
+vless://7585e2a8-42a5-45b2-b706-3189938f90d0@api.mediapolden.cc:443?type=grpc&security=tls&fp=qq&sni=api.mediapolden.cc&serviceName=r7Kp4mN9tQ2v&mode=gun&alpn=h2#🇨🇿 HavenVPN | Чехия #1
 
 🇵🇱 Польша
-vless://146d567c-6335-4e63-a8aa-7ec068642440@pl1.obxodvpn.us:443?type=xhttp&security=reality&sni=pl1.obxodvpn.us&pbk=fDrDDz_GCqhDgG8kMxWXk2vRuyfBHTTNwVa7k7nJHgw&sid=5c42ed8c&fp=firefox&host=pl1.obxodvpn.us&path=%2Fxhttp&mode=packet-up&encryption=none#🇵🇱 HavenVPN | Польша
-
-🇳🇱 Нидерланды
-hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@nlll.obxodvpn.us:443?security=tls&sni=nlll.obxodvpn.us&alpn=h3&fp=chrome#🇳🇱 HavenVPN | Нидерланды
+vless://7585e2a8-42a5-45b2-b706-3189938f90d0@api.oblachnyservis.cc:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=qq&sni=api.oblachnyservis.cc&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8#🇵🇱 HavenVPN | Польша #2
+hysteria2://190edece-2750-454c-b766-0570fc32deca@89.125.214.221:19455?security=tls&sni=mshvpn.online&alpn=h3&fp=chrome#🇵🇱 HavenVPN | Польша #3
 
 🇫🇮 Финляндия
-hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@fi1.obxodvpn.us:443?security=tls&sni=fi1.obxodvpn.us&alpn=h3&fp=chrome#🇫🇮 HavenVPN | Финляндия
+hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@fi1.obxodvpn.us:443?security=tls&sni=fi1.obxodvpn.us&alpn=h3&fp=chrome#🇫🇮 HavenVPN | Финляндия #1
 
-🇪🇪 Эстония
-vless://146d567c-6335-4e63-a8aa-7ec068642440@ee2.obxodvpn.us:443?type=xhttp&security=reality&sni=ee2.obxodvpn.us&pbk=fDrDDz_GCqhDgG8kMxWXk2vRuyfBHTTNwVa7k7nJHgw&sid=5c42ed8c&fp=firefox&host=ee2.obxodvpn.us&path=%2Fxhttp&mode=packet-up&encryption=none#🇪🇪 HavenVPN | Эстония
+🇺🇸 США
+vless://ab5af98f-0733-45c4-993b-c8db9709f808@45.86.68.224:443?type=xhttp&security=reality&sni=uskaa.qikbro.com&pbk=itK6ubRv1Mr9EBm0Udnd1kUmYfttcvXuF27anXbaH34&sid=7ebd2a1b9316c4ce&fp=firefox&host=uskaa.qikbro.com&path=%2Fassets%2Fjs%2Fapp.870de6c4.js&mode=stream-one&spx=%2Fcdn%2F9d2c0e%2Fa0f1&encryption=none#🇺🇸 HavenVPN | США #1
 
-🇷🇺 Белые списки
-vless://41847193-20ab-4525-be9f-3113123b864d@185.86.145.40:5443?type=ws&security=tls&sni=k2.r-fi-1.dokomon.com&fp=qq&host=r-fi-1.dokomon.com&path=%2Fws%2F&encryption=none#🇷🇺 HavenVPN | Белые списки #1
-vless://41847193-20ab-4525-be9f-3113123b864d@185.86.145.40:5443?type=ws&security=tls&sni=k2.r-se-1.dokomon.com&fp=qq&host=r-se-1.dokomon.com&path=%2Fws%2F&encryption=none#🇷🇺 HavenVPN | Белые списки #2
+🇳🇱 Нидерланды
+vless://ab5af98f-0733-45c4-993b-c8db9709f808@nep.qiksme.com:443?type=xhttp&security=tls&sni=nep.qiksme.com&fp=qq&alpn=h2&host=nep.qiksme.com&path=%2Fstatic%2Fjs%2Fchunk&mode=stream-one&encryption=none#🇳🇱 Qik VPN | Нидерланды #1
