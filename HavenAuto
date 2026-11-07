@@ -1,14 +1,13 @@
 #profile-title: Haven vpn Auto
 #support-url: https://t.me/hiddenwikipedia
-#announce: base64: 0YLQsyDQutCw0L3QsNC7IEBoaWRkZW53aWtpcGVkaWEK0L/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1IDogNy4xMS4yNiAyMzo0NiDQnNCh0JoK0L/QtdGA0LXQtCDQv9C+0LTQutC70Y7Rh9C10L3QuNC10Lwg0L/RgNC+0LLQtdGA0Y/QudGC0LUg0L/QuNC90LMgLSDij7HvuI8gCtC90LUg0YDQsNCx0L7RgtCw0LXRgj8g0L7QsdC90L7QstC40YLQtSAtIPCflITvuI8=
+#announce: base64: 0YLQsyDQutCw0L3QsNC7IEBoaWRkZW53aWtpcGVkaWEK0L/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1IDogOC4xMS4yNiAyOjQzINCc0KHQmgrQv9C10YDQtdC0INC/0L7QtNC60LvRjtGH0LXQvdC40LXQvCDQv9GA0L7QstC10YDRj9C50YLQtSDQv9C40L3QsyAtIOKPse+4jyAK0L3QtSDRgNCw0LHQvtGC0LDQtdGCPyDQvtCx0L3QvtCy0LjRgtC1IC0g8J+UhO+4jw==
 
 {
   "remarks": "🇪🇺 HavenVPN | Автовыбор",
   "log": { "loglevel": "warning" },
   "dns": { "queryStrategy": "UseIPv4", "servers": ["1.1.1.1", "8.8.8.8"] },
   "inbounds": [
-    { "listen": "127.0.0.1", "port": 10808, "protocol": "socks", "settings": { "auth": "noauth", "udp": true }, "sniffing": { "enabled": true, "destOverride": ["http", "tls", "quic"] }, "tag": "socks" },
-    { "listen": "127.0.0.1", "port": 10809, "protocol": "http", "settings": { "allowTransparent": false }, "sniffing": { "enabled": true, "destOverride": ["http", "tls", "quic"] }, "tag": "http" }
+    { "listen": "127.0.0.1", "port": 10808, "protocol": "socks", "settings": { "auth": "noauth", "udp": true }, "sniffing": { "enabled": true, "destOverride": ["http", "tls", "quic"] }, "tag": "socks" }
   ],
   "outbounds": [
     {
@@ -39,11 +38,7 @@
     {
       "protocol": "vless", "tag": "proxy-kz",
       "settings": { "vnext": [{ "address": "185.255.115.140", "port": 443, "users": [{ "id": "b71ae017-e2f6-439f-a9a3-0b0af5f067c5", "encryption": "none" }] }] },
-      "streamSettings": {
-        "network": "xhttp", "security": "reality",
-        "realitySettings": { "fingerprint": "firefox", "serverName": "15c838x.de11.h1clayd.click", "publicKey": "HzQ6EjYtFbc4LuqSwr-hBNC2F7drdinOa-5n16SZnxQ", "shortId": "d8a17cb12bfe5575", "spiderX": "" },
-        "xhttpSettings": { "host": "", "mode": "auto", "path": "/aa8ed9f7dac1", "scMaxConcurrentPosts": 10, "scMaxEachPostBytes": 1000000, "scMinPostsIntervalMs": 30 }
-      }
+      "streamSettings": { "network": "xhttp", "security": "reality", "realitySettings": { "fingerprint": "firefox", "serverName": "15c838x.de11.h1clayd.click", "publicKey": "HzQ6EjYtFbc4LuqSwr-hBNC2F7drdinOa-5n16SZnxQ", "shortId": "d8a17cb12bfe5575" }, "xhttpSettings": { "host": "", "mode": "auto", "path": "/aa8ed9f7dac1" } }
     },
     {
       "protocol": "vless", "tag": "proxy-lv",
@@ -53,7 +48,7 @@
     {
       "protocol": "vless", "tag": "proxy-bg",
       "settings": { "vnext": [{ "address": "31.77.76.107", "port": 41763, "users": [{ "id": "483079ae-79ba-48aa-9071-340b79117a22", "encryption": "none" }] }] },
-      "streamSettings": { "network": "ws", "security": "tls", "tlsSettings": { "allowInsecure": false, "alpn": [], "fingerprint": "firefox", "serverName": "sub.airvpn.su" }, "wsSettings": { "headers": { "Host": "sub.airvpn.su" }, "path": "/ws" } }
+      "streamSettings": { "network": "ws", "security": "tls", "tlsSettings": { "serverName": "sub.airvpn.su", "fingerprint": "firefox" }, "wsSettings": { "headers": { "Host": "sub.airvpn.su" }, "path": "/ws" } }
     },
     {
       "protocol": "vless", "tag": "proxy-sg",
@@ -63,31 +58,53 @@
     {
       "protocol": "vless", "tag": "proxy-ru1",
       "settings": { "vnext": [{ "address": "mbr.rkn-pediki.site", "port": 443, "users": [{ "id": "4662bf2b-af58-0001-ae5f-ef3d7d3a624f", "encryption": "none" }] }] },
-      "streamSettings": { "network": "ws", "security": "tls", "tlsSettings": { "allowInsecure": false, "alpn": ["http/1.1"], "fingerprint": "ios", "serverName": "mbr.rkn-pediki.site" }, "wsSettings": { "headers": { "Host": "mbr.rkn-pediki.site" }, "path": "/session" } }
+      "streamSettings": { "network": "ws", "security": "tls", "tlsSettings": { "serverName": "mbr.rkn-pediki.site", "fingerprint": "ios" }, "wsSettings": { "headers": { "Host": "mbr.rkn-pediki.site" }, "path": "/session" } }
     },
     {
       "protocol": "vless", "tag": "proxy-ru2",
       "settings": { "vnext": [{ "address": "mbr.rkn-pediki.site", "port": 443, "users": [{ "id": "2b5962e8-1ec2-0001-bdab-cefa57555d2a", "encryption": "none" }] }] },
-      "streamSettings": { "network": "ws", "security": "tls", "tlsSettings": { "allowInsecure": false, "alpn": ["http/1.1"], "fingerprint": "ios", "serverName": "mbr.rkn-pediki.site" }, "wsSettings": { "headers": { "Host": "mbr.rkn-pediki.site" }, "path": "/session" } }
+      "streamSettings": { "network": "ws", "security": "tls", "tlsSettings": { "serverName": "mbr.rkn-pediki.site", "fingerprint": "ios" }, "wsSettings": { "headers": { "Host": "mbr.rkn-pediki.site" }, "path": "/session" } }
+    },
+    {
+      "protocol": "vless", "tag": "proxy-ru3",
+      "settings": { "vnext": [{ "address": "qq.utiltools.site", "port": 443, "users": [{ "id": "4054fdc2-ee80-4419-8a8e-d937df4719e2", "encryption": "none", "flow": "xtls-rprx-vision" }] }] },
+      "streamSettings": { "network": "tcp", "security": "reality", "realitySettings": { "fingerprint": "chrome", "serverName": "qq.utiltools.site", "publicKey": "drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI", "shortId": "" } }
+    },
+    {
+      "protocol": "vless", "tag": "proxy-ru4",
+      "settings": { "vnext": [{ "address": "mbr.rkn-pediki.site", "port": 443, "users": [{ "id": "2b5962e8-1ec2-0001-bdab-cefa57555d2a", "encryption": "none" }] }] },
+      "streamSettings": { "network": "ws", "security": "tls", "tlsSettings": { "serverName": "mbr.rkn-pediki.site" }, "wsSettings": { "headers": { "Host": "mbr.rkn-pediki.site" }, "path": "/session" } }
+    },
+    {
+      "protocol": "vless", "tag": "proxy-ru5",
+      "settings": { "vnext": [{ "address": "185.86.145.106", "port": 8445, "users": [{ "id": "cd138479-c87a-4d4c-b6ea-4beeb6ef2b47", "encryption": "none", "flow": "xtls-rprx-vision" }] }] },
+      "streamSettings": { "network": "tcp", "security": "reality", "realitySettings": { "fingerprint": "firefox", "serverName": "passport.yandex.ru", "publicKey": "l06r0clkHjHk7HRGpkDBJwZ1JJscSqfwHUQOrV3v3hQ", "shortId": "", "spiderX": "/" } }
     },
     { "protocol": "freedom", "tag": "direct" },
     { "protocol": "blackhole", "tag": "block" }
   ],
   "routing": {
-    "domainMatcher": "hybrid",
     "domainStrategy": "IPIfNonMatch",
     "balancers": [
-      { "tag": "BALANCER", "selector": ["proxy-ee","proxy-nl","proxy-fr","proxy-se1","proxy-se2","proxy-kz","proxy-lv","proxy-bg","proxy-sg","proxy-ru1","proxy-ru2"], "fallbackTag": "direct", "strategy": { "type": "leastPing" } }
+      {
+        "tag": "BALANCER",
+        "selector": ["proxy-ee","proxy-nl","proxy-fr","proxy-se1","proxy-se2","proxy-kz","proxy-lv","proxy-bg","proxy-sg","proxy-ru1","proxy-ru2","proxy-ru3","proxy-ru4","proxy-ru5"],
+        "fallbackTag": "direct",
+        "strategy": { "type": "leastPing" }
+      }
     ],
     "rules": [
-      { "type": "field", "protocol": ["bittorrent"], "outboundTag": "direct" },
-      { "type": "field", "domain": ["geosite:private"], "outboundTag": "direct" },
-      { "type": "field", "ip": ["geoip:private"], "outboundTag": "direct" },
-      { "type": "field", "network": "tcp,udp", "balancerTag": "BALANCER" }
+      { "type": "field", "network": "tcp,udp", "balancerTag": "BALANCER" },
+      { "type": "field", "ip": ["geoip:private"], "outboundTag": "direct" }
     ]
   },
   "burstObservatory": {
-    "subjectSelector": ["proxy-ee","proxy-nl","proxy-fr","proxy-se1","proxy-se2","proxy-kz","proxy-lv","proxy-bg","proxy-sg","proxy-ru1","proxy-ru2"],
-    "pingConfig": { "destination": "http://www.gstatic.com/generate_204", "interval": "1m", "sampling": 3, "timeout": "5s" }
+    "subjectSelector": ["proxy-ee","proxy-nl","proxy-fr","proxy-se1","proxy-se2","proxy-kz","proxy-lv","proxy-bg","proxy-sg","proxy-ru1","proxy-ru2","proxy-ru3","proxy-ru4","proxy-ru5"],
+    "pingConfig": {
+      "destination": "http://www.gstatic.com/generate_204",
+      "interval": "1m",
+      "sampling": 3,
+      "timeout": "5s"
+    }
   }
 }
