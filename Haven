@@ -1,19 +1,16 @@
 #profile-title: Haven vpn
 #support-url: https://t.me/hiddenwikipedia
-#announce: base64: 0YLQsyDQutCw0L3QsNC7IEBoaWRkZW53aWtpcGVkaWEK0L/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1IDogNi4xMS4yNiAyMzozMyDQnNCh0JoK0L/QtdGA0LXQtCDQv9C+0LTQutC70Y7Rh9C10L3QuNC10Lwg0L/RgNC+0LLQtdGA0Y/QudGC0LUg0L/QuNC90LMgLSDij7HvuI8gCtC90LUg0YDQsNCx0L7RgtCw0LXRgj8g0L7QsdC90L7QstC40YLQtSAtIPCflITvuI8=
-
-🇨🇿 Чехия
-vless://7585e2a8-42a5-45b2-b706-3189938f90d0@api.mediapolden.cc:443?type=grpc&security=tls&fp=qq&sni=api.mediapolden.cc&serviceName=r7Kp4mN9tQ2v&mode=gun&alpn=h2#🇨🇿 HavenVPN | Чехия #1
-
-🇵🇱 Польша
-vless://7585e2a8-42a5-45b2-b706-3189938f90d0@api.oblachnyservis.cc:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=qq&sni=api.oblachnyservis.cc&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8#🇵🇱 HavenVPN | Польша #1
-hysteria2://190edece-2750-454c-b766-0570fc32deca@89.125.214.221:19455?security=tls&sni=mshvpn.online&alpn=h3&fp=chrome#🇵🇱 HavenVPN | Польша #2
-
-🇫🇮 Финляндия
-hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@fi1.obxodvpn.us:443?security=tls&sni=fi1.obxodvpn.us&alpn=h3&fp=chrome#🇫🇮 HavenVPN | Финляндия #1
-
-🇺🇸 США
-vless://ab5af98f-0733-45c4-993b-c8db9709f808@45.86.68.224:443?type=xhttp&security=reality&sni=uskaa.qikbro.com&pbk=itK6ubRv1Mr9EBm0Udnd1kUmYfttcvXuF27anXbaH34&sid=7ebd2a1b9316c4ce&fp=firefox&host=uskaa.qikbro.com&path=%2Fassets%2Fjs%2Fapp.870de6c4.js&mode=stream-one&spx=%2Fcdn%2F9d2c0e%2Fa0f1&encryption=none#🇺🇸 HavenVPN | США #1
+#announce: base64: 0YLQsyDQutCw0L3QsNC7IEBoaWRkZW53aWtpcGVkaWEK0L/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1IDogNy4xMS4yNiAxOTo1MyDQnNCh0JoK0L/QtdGA0LXQtCDQv9C+0LTQutC70Y7Rh9C10L3QuNC10Lwg0L/RgNC+0LLQtdGA0Y/QudGC0LUg0L/QuNC90LMgLSDij7HvuI8gCtC90LUg0YDQsNCx0L7RgtCw0LXRgj8g0L7QsdC90L7QstC40YLQtSAtIPCflITvuI8=
 
 🇳🇱 Нидерланды
-vless://ab5af98f-0733-45c4-993b-c8db9709f808@nep.qiksme.com:443?type=xhttp&security=tls&sni=nep.qiksme.com&fp=qq&alpn=h2&host=nep.qiksme.com&path=%2Fstatic%2Fjs%2Fchunk&mode=stream-one&encryption=none#🇳🇱 HavenVPN | Нидерланды #1
+vless://16f5041e-7a72-44a0-afbf-744ec2bf1cc9@82.148.247.24:443?type=tcp&security=reality&sni=nl1.xshoponline.ru&pbk=zZvOJ5dL9qvOjzg4u6f_Zo2j37cM6HOnOeUG02kcKCQ&sid=5c3639b7&fp=firefox&encryption=none&flow=xtls-rprx-vision#🇳🇱 HavenVPN | Нидерланды
+
+🇫🇷 Франция
+vless://16f5041e-7a72-44a0-afbf-744ec2bf1cc9@2.56.127.149:443?type=tcp&security=reality&sni=fr1.xshoponline.ru&pbk=j0nNe2IsutcOHKVT-wYNowgggntYn0ZDmzjZGz_DilQ&sid=fb98af2912de58f0&fp=firefox&encryption=none&flow=xtls-rprx-vision#🇫🇷 HavenVPN | Франция
+
+🇩🇪 Германия
+vless://16f5041e-7a72-44a0-afbf-744ec2bf1cc9@185.125.103.234:443?type=tcp&security=reality&sni=de1.xshoponline.ru&pbk=Z5c-WDN3JlGoSTDDKNVqKZsBbpwj80-xrM0jlYbgxzo&sid=deb3256cd90dad0b&fp=firefox&encryption=none&flow=xtls-rprx-vision#🇩🇪 HavenVPN | Германия
+
+🇷🇺 Белые списки
+vless://16f5041e-7a72-44a0-afbf-744ec2bf1cc9@rsvnor.0muhm5rhjn.h1cloud.lol:443?type=xhttp&security=tls&sni=rsvnor.0muhm5rhjn.h1cloud.lol&fp=firefox&host=rsvnor.0muhm5rhjn.h1cloud.lol&path=%2Fapi%2Fv1%2Fbsmanaged12284%2Fsync%2F&mode=packet-up&encryption=none#🇷🇺 HavenVPN | Белые списки #1
+vless://16f5041e-7a72-44a0-afbf-744ec2bf1cc9@rsvnor.0muhm5rhjn.h1cloud.lol:443?type=xhttp&security=tls&sni=rsvnor.0muhm5rhjn.h1cloud.lol&fp=firefox&host=rsvnor.0muhm5rhjn.h1cloud.lol&path=%2Fapi%2Fv1%2Fbsmanaged28719%2Fsync%2F&mode=packet-up&encryption=none#🇷🇺 HavenVPN | Белые списки #2
