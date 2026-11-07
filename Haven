@@ -1,16 +1,28 @@
 #profile-title: Haven vpn
 #support-url: https://t.me/hiddenwikipedia
-#announce: base64: 0YLQsyDQutCw0L3QsNC7IEBoaWRkZW53aWtpcGVkaWEK0L/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1IDogNy4xMS4yNiAxOTo1MyDQnNCh0JoK0L/QtdGA0LXQtCDQv9C+0LTQutC70Y7Rh9C10L3QuNC10Lwg0L/RgNC+0LLQtdGA0Y/QudGC0LUg0L/QuNC90LMgLSDij7HvuI8gCtC90LUg0YDQsNCx0L7RgtCw0LXRgj8g0L7QsdC90L7QstC40YLQtSAtIPCflITvuI8=
-
-🇳🇱 Нидерланды
-vless://16f5041e-7a72-44a0-afbf-744ec2bf1cc9@82.148.247.24:443?type=tcp&security=reality&sni=nl1.xshoponline.ru&pbk=zZvOJ5dL9qvOjzg4u6f_Zo2j37cM6HOnOeUG02kcKCQ&sid=5c3639b7&fp=firefox&encryption=none&flow=xtls-rprx-vision#🇳🇱 HavenVPN | Нидерланды
-
-🇫🇷 Франция
-vless://16f5041e-7a72-44a0-afbf-744ec2bf1cc9@2.56.127.149:443?type=tcp&security=reality&sni=fr1.xshoponline.ru&pbk=j0nNe2IsutcOHKVT-wYNowgggntYn0ZDmzjZGz_DilQ&sid=fb98af2912de58f0&fp=firefox&encryption=none&flow=xtls-rprx-vision#🇫🇷 HavenVPN | Франция
+#announce: base64: 0YLQsyDQutCw0L3QsNC7IEBoaWRkZW53aWtpcGVkaWEK0L/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1IDogNy4xMS4yNiAyMzozNyDQnNCh0JoK0L/QtdGA0LXQtCDQv9C+0LTQutC70Y7Rh9C10L3QuNC10Lwg0L/RgNC+0LLQtdGA0Y/QudGC0LUg0L/QuNC90LMgLSDij7HvuI8gCtC90LUg0YDQsNCx0L7RgtCw0LXRgj8g0L7QsdC90L7QstC40YLQtSAtIPCflITvuI8=
 
 🇩🇪 Германия
-vless://16f5041e-7a72-44a0-afbf-744ec2bf1cc9@185.125.103.234:443?type=tcp&security=reality&sni=de1.xshoponline.ru&pbk=Z5c-WDN3JlGoSTDDKNVqKZsBbpwj80-xrM0jlYbgxzo&sid=deb3256cd90dad0b&fp=firefox&encryption=none&flow=xtls-rprx-vision#🇩🇪 HavenVPN | Германия
+vless://ffa2e0d7-7aac-4c6e-ac12-810fa464dbfc@185.178.208.140:443?type=ws&security=tls&sni=185.178.208.140&fp=firefox&host=marshalltmp.top.&path=%2Fshop%2Fcatalog&alpn=http%2F1.1&encryption=none#🇩🇪 HavenVPN | Германия 
+
+🇵🇱 Польша
+vless://0d074b85-5bb4-4185-98f9-1eb42f12758e@185.178.208.167:443?type=ws&security=tls&sni=185.178.208.167&fp=firefox&host=lorettmay.top.&path=%2Fblog%2Fposts&alpn=http%2F1.1&encryption=none#🇵🇱 HavenVPN | Польша 
+
+🇫🇮 Финляндия
+vless://6a82b647-ef4a-40bd-9684-a78ed0806110@185.178.208.140:443?type=ws&security=tls&sni=185.178.208.140&fp=firefox&host=stollman.top.&path=%2Fws&alpn=http%2F1.1&encryption=none#🇫🇮 HavenVPN | Финляндия 
+
+🇪🇪 Эстония
+hysteria2://190edece-2750-454c-b766-0570fc32deca@89.125.214.221:19453?security=tls&sni=mshvpn.online&alpn=h3&fp=chrome#🇪🇪 HavenVPN | Эстония
+
+🇳🇱 Нидерланды
+vless://45ef6d0c-df92-4328-afa3-d6af1806fb3c@168.113.190.113:443?type=tcp&security=reality&sni=13.143.195.113.sslip.io&pbk=p0M6RumtfcATPNPUIFnFcgWy2rzk2gGVWx21sql1hV0&sid=8238d76df92c2560&fp=firefox&spx=%2F&encryption=none&flow=xtls-rprx-vision#🇳🇱 HavenVPN | Нидерланды
+
+🇫🇷 Франция
+vless://45ef6d0c-df92-4328-afa3-d6af1806fb3c@82.146.48.225:443?type=tcp&security=reality&sni=213.176.73.4.sslip.io&pbk=k-zB-Tf6HyT7kocUU8UDvFoHxw9r-JTonmYVpe4RT3U&sid=a5fe10fba46b8613&fp=firefox&spx=%2F&encryption=none&flow=xtls-rprx-vision#🇫🇷 HavenVPN | Франция
+
+🇸🇪 Швеция
+vless://45ef6d0c-df92-4328-afa3-d6af1806fb3c@168.113.188.144:443?type=tcp&security=reality&sni=31.76.3.187.sslip.io&pbk=vluPN5krskStuIe1YYoOopN766N8qK_uMsSsZGJdwCI&sid=db71028aeb67289c&fp=firefox&spx=%2F&encryption=none&flow=xtls-rprx-vision#🇸🇪 HavenVPN | Швеция
 
 🇷🇺 Белые списки
-vless://16f5041e-7a72-44a0-afbf-744ec2bf1cc9@rsvnor.0muhm5rhjn.h1cloud.lol:443?type=xhttp&security=tls&sni=rsvnor.0muhm5rhjn.h1cloud.lol&fp=firefox&host=rsvnor.0muhm5rhjn.h1cloud.lol&path=%2Fapi%2Fv1%2Fbsmanaged12284%2Fsync%2F&mode=packet-up&encryption=none#🇷🇺 HavenVPN | Белые списки #1
-vless://16f5041e-7a72-44a0-afbf-744ec2bf1cc9@rsvnor.0muhm5rhjn.h1cloud.lol:443?type=xhttp&security=tls&sni=rsvnor.0muhm5rhjn.h1cloud.lol&fp=firefox&host=rsvnor.0muhm5rhjn.h1cloud.lol&path=%2Fapi%2Fv1%2Fbsmanaged28719%2Fsync%2F&mode=packet-up&encryption=none#🇷🇺 HavenVPN | Белые списки #2
+vless://4662bf2b-af58-0001-ae5f-ef3d7d3a624f@mbr.rkn-pediki.site:443?type=ws&security=tls&sni=mbr.rkn-pediki.site&fp=ios&host=mbr.rkn-pediki.site&path=%2Fsession&encryption=none#🇷🇺 HavenVPN | Белые списки #1
+vless://2b5962e8-1ec2-0001-bdab-cefa57555d2a@mbr.rkn-pediki.site:443?type=ws&security=tls&sni=mbr.rkn-pediki.site&fp=ios&host=mbr.rkn-pediki.site&path=%2Fsession&encryption=none#🇷🇺 HavenVPN | Белые списки #2
