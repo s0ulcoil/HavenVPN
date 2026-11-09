@@ -1,10 +1,12 @@
 #profile-title: Haven vpn
 #support-url: https://t.me/hiddenwikipedia
-#announce: base64: 0YLQsyDQutCw0L3QsNC7IEBoaWRkZW53aWtpcGVkaWEK0L/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1IDogOS4xMS4yNiAyMjowMSDQnNCh0JoK0L/QtdGA0LXQtCDQv9C+0LTQutC70Y7Rh9C10L3QuNC10Lwg0L/RgNC+0LLQtdGA0Y/QudGC0LUg0L/QuNC90LMgLSDij7HvuI8gCtC90LUg0YDQsNCx0L7RgtCw0LXRgj8g0L7QsdC90L7QstC40YLQtSAtIPCflITvuI8=
+#announce: base64: 0YLQsyDQutCw0L3QsNC7IEBoaWRkZW53aWtpcGVkaWEK0L/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1IDogOS4xMS4yNiAyMzoyMSDQnNCh0JoK0L/QtdGA0LXQtCDQv9C+0LTQutC70Y7Rh9C10L3QuNC10Lwg0L/RgNC+0LLQtdGA0Y/QudGC0LUg0L/QuNC90LMgLSDij7HvuI8gCtC90LUg0YDQsNCx0L7RgtCw0LXRgj8g0L7QsdC90L7QstC40YLQtSAtIPCflITvuI8=
 
 🇩🇪 Германия
 vless://33f3c1ee-f026-4f3f-bed3-8c7c01de8a96@user.betust.net:443?type=tcp&security=reality&sni=user.betust.net&pbk=TXP6hQVE4PdXDEdDk2k_5_f92jcOKZ15Fuw14jCJTQg&sid=c1064ddb&fp=firefox&spx=%2F&encryption=none&flow=xtls-rprx-vision#🇩🇪 HavenVPN | Германия #1
 vless://fb390da4-00c5-54f1-a1b4-c8e2bb6378c2@vv9bo423qfvc.cloudymedia.click:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=qq&sni=deepl.com&pbk=8RfEuI1RxxW1dqq2nbt6ssKwx7UdmgKW1nKL9OuilGs&sid=0492eabdb9&spx=%2F#🇩🇪 HavenVPN | Германия #2
+vless://63b27e94-9aae-47f4-b92d-a5b0c736d9f3@45.88.12.105:443?type=ws&security=tls&sni=va.stream-room.com&fp=chrome&path=%2Fvless-ws&alpn=http%2F1.1&encryption=none#🇩🇪 HavenVPN | Германия #3
+hysteria2://63b27e94-9aae-47f4-b92d-a5b0c736d9f3@45.88.12.188:443?security=tls&sni=va.stream-room.com&alpn=h3&fp=chrome#🇩🇪 HavenVPN | Германия #4
 
 🇵🇱 Польша
 vless://dd5bed0b-ee77-481b-9f2c-250a632ddd9f@185.189.45.195:443?type=tcp&security=reality&sni=get.jarbook.net&pbk=BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs&sid=c6f97313&fp=firefox&spx=%2F&encryption=none&flow=xtls-rprx-vision#🇵🇱 HavenVPN | Польша
@@ -16,6 +18,7 @@ vless://bb541e72-07c6-4687-ad4d-dbe3df9f0427@mstchgem2.jarvesitw.ru:443?flow=xtl
 vless://33f3c1ee-f026-4f3f-bed3-8c7c01de8a96@user.betust.net:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=user.betust.net&pbk=TXP6hQVE4PdXDEdDk2k_5_f92jcOKZ15Fuw14jCJTQg&sid=c1064ddb&spx=%2F#🇫🇮 HavenVPN | Финляндия 
 
 🇷🇺 Белые списки
-vless://4662bf2b-af58-0001-ae5f-ef3d7d3a624f@mbr.rkn-pediki.site:443?type=ws&security=tls&sni=mbr.rkn-pediki.site&fp=ios&host=mbr.rkn-pediki.site&path=%2Fsession&encryption=none#🇷🇺 HavenVPN | Белые списки #1
-vless://33f3c1ee-f026-4f3f-bed3-8c7c01de8a96@user.betust.net:443?type=tcp&security=reality&sni=user.betust.net&pbk=TXP6hQVE4PdXDEdDk2k_5_f92jcOKZ15Fuw14jCJTQg&sid=c1064ddb&fp=firefox&spx=%2F&encryption=none&flow=xtls-rprx-vision#🇷🇺 HavenVPN | Белые списки #2
-vless://dd5bed0b-ee77-481b-9f2c-250a632ddd9f@get.jarbook.net:443?type=tcp&security=reality&sni=get.jarbook.net&pbk=BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs&sid=c6f97313&fp=firefox&spx=%2F&encryption=none&flow=xtls-rprx-vision#🇷🇺 HavenVPN | Белые списки #3
+vless://63b27e94-9aae-47f4-b92d-a5b0c736d9f3@sub-edge-18-1g.whitenw.net:10458?type=xhttp&security=reality&sni=max.ru&pbk=NcusujNOLaj9kiNIAMzg3BKdb3WYXMdkCgfeNHyie1E&sid=67ca97db5f330f5f&fp=randomized&host=&path=%2FaFlS06iNEzhdEdIa&mode=auto&encryption=none#🇷🇺 HavenVPN | Белые списки #1  (X10 расход)
+vless://4662bf2b-af58-0001-ae5f-ef3d7d3a624f@mbr.rkn-pediki.site:443?type=ws&security=tls&sni=mbr.rkn-pediki.site&fp=ios&host=mbr.rkn-pediki.site&path=%2Fsession&encryption=none#🇷🇺 HavenVPN | Белые списки #2
+vless://33f3c1ee-f026-4f3f-bed3-8c7c01de8a96@user.betust.net:443?type=tcp&security=reality&sni=user.betust.net&pbk=TXP6hQVE4PdXDEdDk2k_5_f92jcOKZ15Fuw14jCJTQg&sid=c1064ddb&fp=firefox&spx=%2F&encryption=none&flow=xtls-rprx-vision#🇷🇺 HavenVPN | Белые списки #3
+vless://dd5bed0b-ee77-481b-9f2c-250a632ddd9f@get.jarbook.net:443?type=tcp&security=reality&sni=get.jarbook.net&pbk=BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs&sid=c6f97313&fp=firefox&spx=%2F&encryption=none&flow=xtls-rprx-vision#🇷🇺 HavenVPN | Белые списки #4
