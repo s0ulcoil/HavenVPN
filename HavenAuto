@@ -1,7 +1,7 @@
 #profile-title: Haven vpn Auto
 #support-url: https://t.me/HavenVPNrobot
 #profile-update-interval: 3
-#announce: base64: 0YLQsyDQutCw0L3QsNC7IEBoaWRkZW53aWtpcGVkaWEK0L/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1IDogMTAuMTEuMjYgMjA6MTQg0JzQodCaCtC/0LXRgNC10LQg0L/QvtC00LrQu9GO0YfQtdC90LjQtdC8INC/0YDQvtCy0LXRgNGP0LnRgtC1INC/0LjQvdCzIC0g4o+x77iPIArQvdC1INGA0LDQsdC+0YLQsNC10YI/INC+0LHQvdC+0LLQuNGC0LUgLSDwn5SE77iP
+#announce: base64: 0YLQsyDQutCw0L3QsNC7IEBoaWRkZW53aWtpcGVkaWEK0L/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1IDogMTAuMTEuMjYgMjA6MTgg0JzQodCaCtC/0LXRgNC10LQg0L/QvtC00LrQu9GO0YfQtdC90LjQtdC8INC/0YDQvtCy0LXRgNGP0LnRgtC1INC/0LjQvdCzIC0g4o+x77iPIArQvdC1INGA0LDQsdC+0YLQsNC10YI/INC+0LHQvdC+0LLQuNGC0LUgLSDwn5SE77iP
 
 {
   "remarks": "🇪🇺 HavenVPN | Автовыбор",
@@ -11,6 +11,21 @@
     { "listen": "127.0.0.1", "port": 10808, "protocol": "socks", "settings": { "auth": "noauth", "udp": true }, "sniffing": { "enabled": true, "destOverride": ["http", "tls", "quic"] }, "tag": "socks" }
   ],
   "outbounds": [
+    {
+      "protocol": "hysteria", "tag": "proxy-bz",
+      "settings": { "version": 2, "address": "31.76.5.243", "port": 443 },
+      "streamSettings": { "network": "hysteria", "security": "tls", "hysteriaSettings": { "version": 2, "auth": "c8c54160-129b-43d1-8700-91c31f0984c7" }, "tlsSettings": { "serverName": "kk-de4942.testkknegr.online", "fingerprint": "chrome" } }
+    },
+    {
+      "protocol": "vless", "tag": "proxy-mh1",
+      "settings": { "vnext": [{ "address": "141.133.180.203", "port": 2058, "users": [{ "id": "4ad9f982-b56a-444a-9684-35ce51307a36", "encryption": "none", "flow": "xtls-rprx-vision" }] }] },
+      "streamSettings": { "network": "tcp", "security": "reality", "realitySettings": { "fingerprint": "chrome", "serverName": "www.cloudflare.com", "publicKey": "lJBsn9ndieTIUBzXkJUhf6O0OE8pm29_z1fUtARwL0s", "shortId": "937255313d6ce673" } }
+    },
+    {
+      "protocol": "vless", "tag": "proxy-mh2",
+      "settings": { "vnext": [{ "address": "141.133.180.206", "port": 2058, "users": [{ "id": "4ad9f982-b56a-444a-9684-35ce51307a36", "encryption": "none", "flow": "xtls-rprx-vision" }] }] },
+      "streamSettings": { "network": "tcp", "security": "reality", "realitySettings": { "fingerprint": "chrome", "serverName": "www.cloudflare.com", "publicKey": "lJBsn9ndieTIUBzXkJUhf6O0OE8pm29_z1fUtARwL0s", "shortId": "937255313d6ce673" } }
+    },
     {
       "protocol": "hysteria", "tag": "proxy-fi1",
       "settings": { "version": 2, "address": "94.183.164.119", "port": 24433 },
@@ -22,7 +37,7 @@
       "streamSettings": { "network": "tcp", "security": "reality", "realitySettings": { "fingerprint": "firefox", "serverName": "user.betust.net", "publicKey": "TXP6hQVE4PdXDEdDk2k_5_f92jcOKZ15Fuw14jCJTQg", "shortId": "c1064ddb", "spiderX": "/" } }
     },
     {
-      "protocol": "hysteria", "tag": "proxy-de1",
+      "protocol": "hysteria", "tag": "proxy-de",
       "settings": { "version": 2, "address": "guide.blog-forme.ru", "port": 443 },
       "streamSettings": { "network": "hysteria", "security": "tls", "hysteriaSettings": { "version": 2, "auth": "549766c3-fa5f-471e-8031-ffc1f8d5064f" }, "tlsSettings": { "serverName": "guide.blog-forme.ru", "alpn": ["h3"], "fingerprint": "chrome" } }
     },
@@ -59,7 +74,7 @@
     "balancers": [
       {
         "tag": "BALANCER",
-        "selector": ["proxy-fi1","proxy-fi2","proxy-de1","proxy-nl1","proxy-nl2","proxy-nl3","proxy-ru1","proxy-ru2"],
+        "selector": ["proxy-bz","proxy-mh1","proxy-mh2","proxy-fi1","proxy-fi2","proxy-de","proxy-nl1","proxy-nl2","proxy-nl3","proxy-ru1","proxy-ru2"],
         "fallbackTag": "direct",
         "strategy": { "type": "leastPing" }
       }
@@ -70,7 +85,7 @@
     ]
   },
   "burstObservatory": {
-    "subjectSelector": ["proxy-fi1","proxy-fi2","proxy-de1","proxy-nl1","proxy-nl2","proxy-nl3","proxy-ru1","proxy-ru2"],
+    "subjectSelector": ["proxy-bz","proxy-mh1","proxy-mh2","proxy-fi1","proxy-fi2","proxy-de","proxy-nl1","proxy-nl2","proxy-nl3","proxy-ru1","proxy-ru2"],
     "pingConfig": {
       "destination": "http://www.gstatic.com/generate_204",
       "interval": "1m",
