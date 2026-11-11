@@ -51,9 +51,8 @@
       "streamSettings": { "network": "tcp", "security": "reality", "realitySettings": { "fingerprint": "firefox", "serverName": "get.jarbook.net", "publicKey": "BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs", "shortId": "c6f97313", "spiderX": "/" } }
     },
     {
-      "protocol": "vless", "tag": "proxy-ru3",
-      "settings": { "vnext": [{ "address": "mbr.rkn-pediki.site", "port": 443, "users": [{ "id": "4662bf2b-af58-0001-ae5f-ef3d7d3a624f", "encryption": "none" }] }] },
-      "streamSettings": { "network": "ws", "security": "tls", "tlsSettings": { "serverName": "mbr.rkn-pediki.site", "fingerprint": "ios" }, "wsSettings": { "headers": { "Host": "mbr.rkn-pediki.site" }, "path": "/session" } }
+      "protocol": "shadowsocks", "tag": "proxy-ru3",
+      "settings": { "servers": [{ "address": "m-vruvc.mvpstr.com", "port": 443, "method": "2022-blake3-aes-256-gcm", "password": "5OhnxZQ00WHK7qkx9jCSHBLNMxs8528gs6tr8ysS7f0=:VlFWUlZLUm1CLTctWnJ2ZXE2bXl4UzYzeFJTRno4MmI=" }] }
     },
     { "protocol": "freedom", "tag": "direct" },
     { "protocol": "blackhole", "tag": "block" }
