@@ -1,26 +1,19 @@
 #profile-title: Haven vpn
 #support-url: https://t.me/HavenVPNrobot
 #profile-update-interval: 3
-#announce: base64: 0YLQsyDQutCw0L3QsNC7IEBoaWRkZW53aWtpcGVkaWEK0L/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1IDogMTAuMTEuMjYgMjA6MTgg0JzQodCaCtC/0LXRgNC10LQg0L/QvtC00LrQu9GO0YfQtdC90LjQtdC8INC/0YDQvtCy0LXRgNGP0LnRgtC1INC/0LjQvdCzIC0g4o+x77iPIArQvdC1INGA0LDQsdC+0YLQsNC10YI/INC+0LHQvdC+0LLQuNGC0LUgLSDwn5SE77iP
+#announce: base64: 0YLQsyDQutCw0L3QsNC7IEBoaWRkZW53aWtpcGVkaWEK0L/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1IDogMTEuMTEuMjYgMjI6MDkg0JzQodCaCtC/0LXRgNC10LQg0L/QvtC00LrQu9GO0YfQtdC90LjQtdC8INC/0YDQvtCy0LXRgNGP0LnRgtC1INC/0LjQvdCzIC0g4o+x77iPIArQvdC1INGA0LDQsdC+0YLQsNC10YI/INC+0LHQvdC+0LLQuNGC0LUgLSDwn5SE77iP
 
-🇧🇿 Белиз
-hysteria2://c8c54160-129b-43d1-8700-91c31f0984c7@31.76.5.243:443?security=tls&sni=kk-de4942.testkknegr.online&fp=chrome#🇧🇿 HavenVPN | Белиз #1
-
-🇲🇭 Маршаллы
-vless://4ad9f982-b56a-444a-9684-35ce51307a36@141.133.180.203:2058?type=tcp&security=reality&sni=www.cloudflare.com&pbk=lJBsn9ndieTIUBzXkJUhf6O0OE8pm29_z1fUtARwL0s&sid=937255313d6ce673&fp=chrome&encryption=none&flow=xtls-rprx-vision#🇲🇭 HavenVPN | Маршаллы #1
-vless://4ad9f982-b56a-444a-9684-35ce51307a36@141.133.180.206:2058?type=tcp&security=reality&sni=www.cloudflare.com&pbk=lJBsn9ndieTIUBzXkJUhf6O0OE8pm29_z1fUtARwL0s&sid=937255313d6ce673&fp=chrome&encryption=none&flow=xtls-rprx-vision#🇲🇭 HavenVPN | Маршаллы #2
-
-🇫🇮 Финляндия
-hysteria2://549766c3-fa5f-471e-8031-ffc1f8d5064f@94.183.164.119:24433?security=tls&sni=lakes.blog-forme.ru&alpn=h3&fp=chrome#🇫🇮 HavenVPN | Финляндия #1
-vless://33f3c1ee-f026-4f3f-bed3-8c7c01de8a96@user.betust.net:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=user.betust.net&pbk=TXP6hQVE4PdXDEdDk2k_5_f92jcOKZ15Fuw14jCJTQg&sid=c1064ddb&spx=%2F#🇫🇮 HavenVPN | Финляндия #2
+🇸🇪 Швеция
+vless://50a87e21-f0e2-4b53-a787-91adfe748f63@swedenafteraventura.space:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=swedenafteraventura.space&pbk=TyuIIquHoesD9YwMQJHda0YZ3Hy9Dh123dQ00iGK0QY#🇸🇪 HavenVPN | Швеция
 
 🇩🇪 Германия
-hysteria2://549766c3-fa5f-471e-8031-ffc1f8d5064f@guide.blog-forme.ru:443?security=tls&sni=guide.blog-forme.ru&alpn=h3&fp=chrome#🇩🇪 HavenVPN | Германия #1
+hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@de1.obxodvpn.us:443?security=tls&sni=de1.obxodvpn.us&alpn=h3&fp=chrome#🇩🇪 HavenVPN | Германия
 
-🇳🇱 Нидерланды
-hysteria2://549766c3-fa5f-471e-8031-ffc1f8d5064f@94.183.164.119:24414?security=tls&sni=harbor.blog-forme.ru&alpn=h3&fp=chrome#🇳🇱 HavenVPN | Нидерланды #1
-hysteria2://549766c3-fa5f-471e-8031-ffc1f8d5064f@212.34.137.105:443?security=tls&sni=shorts.blog-forme.ru&alpn=h3&fp=chrome#🇳🇱 HavenVPN | Нидерланды #2
-hysteria2://549766c3-fa5f-471e-8031-ffc1f8d5064f@94.183.164.119:24403?security=tls&sni=docs.blog-forme.ru&alpn=h3&fp=chrome#🇳🇱 HavenVPN | Нидерланды #3
+Нидерланды
+vmess://eyJ2IjoiMiIsInBzIjoiSGF2ZW5WUE4gfCDQndC40LTQtdGA0LvQsNC90LTRiyAjMSIsImFkZCI6IjEyMzQ2Ni5ydSIsInBvcnQiOiIyODA1NCIsImlkIjoiODA0MzM0ZTItMDRjYS00MzRjLTgzMTEtM2NjZWU4MjE4MTc1IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IjEyMzQ2Ni5ydSIsInBhdGgiOiIvIiwidGxzIjoiIn0=
+vmess://eyJ2IjoiMiIsInBzIjoiSGF2ZW5WUE4gfCDQndC40LTQtdGA0LvQsNC90LTRiyAjMiIsImFkZCI6IjEyMzQ2Ni5ydSIsInBvcnQiOiIzMjY5NCIsImlkIjoiODA0MzM0ZTItMDRjYS00MzRjLTgzMTEtM2NjZWU4MjE4MTc1IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJodHRwdXBncmFkZSIsInR5cGUiOiJub25lIiwiaG9zdCI6IjEyMzQ2Ni5ydSIsInBhdGgiOiIvIiwidGxzIjoiIn0=
+vmess://eyJ2IjoiMiIsInBzIjoiSGF2ZW5WUE4gfCDQndC40LTQtdGA0LvQsNC90LTRiyAjMyIsImFkZCI6IjEyMzQ2Ni5ydSIsInBvcnQiOiIyNjAzMiIsImlkIjoiODA0MzM0ZTItMDRjYS00MzRjLTgzMTEtM2NjZWU4MjE4MTc1IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIn0=
+ss://YWVzLTI1Ni1nY206U0hFaFlleVlmeHBidHo4TGllV2tiT0hYR2ZnNUJBc3FUTGhvbHp2MU12dz0=@123466.ru:10785#HavenVPN | Нидерланды #4
 
 🇷🇺 Белые списки
 vless://33f3c1ee-f026-4f3f-bed3-8c7c01de8a96@user.betust.net:443?type=tcp&security=reality&sni=user.betust.net&pbk=TXP6hQVE4PdXDEdDk2k_5_f92jcOKZ15Fuw14jCJTQg&sid=c1064ddb&fp=firefox&spx=%2F&encryption=none&flow=xtls-rprx-vision#🇷🇺 HavenVPN | Белые списки #1
