@@ -1,21 +1,23 @@
 #profile-title: Haven vpn
 #support-url: https://t.me/HavenVPNrobot
 #profile-update-interval: 3
-#announce: base64: 0YLQsyDQutCw0L3QsNC7IEBoaWRkZW53aWtpcGVkaWEK0L/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1IDogMTEuMTEuMjYgMjI6MTEg0JzQodCaCtC/0LXRgNC10LQg0L/QvtC00LrQu9GO0YfQtdC90LjQtdC8INC/0YDQvtCy0LXRgNGP0LnRgtC1INC/0LjQvdCzIC0g4o+x77iPIArQvdC1INGA0LDQsdC+0YLQsNC10YI/INC+0LHQvdC+0LLQuNGC0LUgLSDwn5SE77iP
+#announce: base64: 0YLQsyDQutCw0L3QsNC7IEBoaWRkZW53aWtpcGVkaWEK0L/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1IDogMTIuMTEuMjYgMTQ6MDAg0JzQodCaCtC/0LXRgNC10LQg0L/QvtC00LrQu9GO0YfQtdC90LjQtdC8INC/0YDQvtCy0LXRgNGP0LnRgtC1INC/0LjQvdCzIC0g4o+x77iPIArQvdC1INGA0LDQsdC+0YLQsNC10YI/INC+0LHQvdC+0LLQuNGC0LUgLSDwn5SE77iP
 
-🇸🇪 Швеция
-vless://50a87e21-f0e2-4b53-a787-91adfe748f63@swedenafteraventura.space:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=swedenafteraventura.space&pbk=TyuIIquHoesD9YwMQJHda0YZ3Hy9Dh123dQ00iGK0QY#🇸🇪 HavenVPN | Швеция
+🇫🇮 Финляндия
+hysteria2://549766c3-fa5f-471e-8031-ffc1f8d5064f@94.183.164.119:24433?sni=lakes.blog-forme.ru&alpn=h3&fp=chrome#🇫🇮 HavenVPN | Финляндия
 
-🇩🇪 Германия
-hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@de1.obxodvpn.us:443?security=tls&sni=de1.obxodvpn.us&alpn=h3&fp=chrome#🇩🇪 HavenVPN | Германия
+🇳🇱 Нидерланды
+hysteria2://549766c3-fa5f-471e-8031-ffc1f8d5064f@94.183.164.119:24414?sni=harbor.blog-forme.ru&alpn=h3&fp=chrome#🇳🇱 HavenVPN | Нидерланды #1
+hysteria2://549766c3-fa5f-471e-8031-ffc1f8d5064f@94.183.164.119:24403?sni=docs.blog-forme.ru&alpn=h3&fp=chrome#🇳🇱 HavenVPN | Нидерланды #2
 
-Нидерланды
-vmess://eyJ2IjoiMiIsInBzIjoiSGF2ZW5WUE4gfCDQndC40LTQtdGA0LvQsNC90LTRiyAjMSIsImFkZCI6IjEyMzQ2Ni5ydSIsInBvcnQiOiIyODA1NCIsImlkIjoiODA0MzM0ZTItMDRjYS00MzRjLTgzMTEtM2NjZWU4MjE4MTc1IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IjEyMzQ2Ni5ydSIsInBhdGgiOiIvIiwidGxzIjoiIn0=
-vmess://eyJ2IjoiMiIsInBzIjoiSGF2ZW5WUE4gfCDQndC40LTQtdGA0LvQsNC90LTRiyAjMiIsImFkZCI6IjEyMzQ2Ni5ydSIsInBvcnQiOiIzMjY5NCIsImlkIjoiODA0MzM0ZTItMDRjYS00MzRjLTgzMTEtM2NjZWU4MjE4MTc1IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJodHRwdXBncmFkZSIsInR5cGUiOiJub25lIiwiaG9zdCI6IjEyMzQ2Ni5ydSIsInBhdGgiOiIvIiwidGxzIjoiIn0=
-vmess://eyJ2IjoiMiIsInBzIjoiSGF2ZW5WUE4gfCDQndC40LTQtdGA0LvQsNC90LTRiyAjMyIsImFkZCI6IjEyMzQ2Ni5ydSIsInBvcnQiOiIyNjAzMiIsImlkIjoiODA0MzM0ZTItMDRjYS00MzRjLTgzMTEtM2NjZWU4MjE4MTc1IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIn0=
-ss://YWVzLTI1Ni1nY206U0hFaFlleVlmeHBidHo4TGllV2tiT0hYR2ZnNUJBc3FUTGhvbHp2MU12dz0=@123466.ru:10785#HavenVPN | Нидерланды #4
+🇫🇷 Франция
+vless://b9bfa54d-bc44-4592-a6d6-89a9665d286f@edge.bookmai.com:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=mother-earth.fyi&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇫🇷 HavenVPN | Франция
+
+🇵🇱 Польша
+vless://dd5bed0b-ee77-481b-9f2c-250a632ddd9f@185.189.45.195:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=get.jarbook.net&pbk=BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs&sid=c6f97313&spx=%2F#🇵🇱 HavenVPN | Польша
 
 🇷🇺 Белые списки
-vless://33f3c1ee-f026-4f3f-bed3-8c7c01de8a96@user.betust.net:443?type=tcp&security=reality&sni=user.betust.net&pbk=TXP6hQVE4PdXDEdDk2k_5_f92jcOKZ15Fuw14jCJTQg&sid=c1064ddb&fp=firefox&spx=%2F&encryption=none&flow=xtls-rprx-vision#🇷🇺 HavenVPN | Белые списки #1
-vless://dd5bed0b-ee77-481b-9f2c-250a632ddd9f@get.jarbook.net:443?type=tcp&security=reality&sni=get.jarbook.net&pbk=BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs&sid=c6f97313&fp=firefox&spx=%2F&encryption=none&flow=xtls-rprx-vision#🇷🇺 HavenVPN | Белые списки #2
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206NU9obnhaUTAwV0hLN3FreDlqQ1NIQkxOTXhzODUyOGdzNnRyOHlzUzdmMD06VmxGV1VsWktVbTFDTFRjdFduSjJaWEUyYlhsNFV6WXplRkpUUmpvNFltRT0=@m-vruvc.mvpstr.com:443#🇷🇺 HavenVPN | Белые списки #3
+vless://dd5bed0b-ee77-481b-9f2c-250a632ddd9f@get.jarbook.net:443?type=tcp&security=reality&sni=get.jarbook.net&pbk=BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs&sid=c6f97313&fp=firefox&spx=%2F&encryption=none&flow=xtls-rprx-vision#🇷🇺 HavenVPN | Белые списки #1
+vless://4662bf2b-af58-0001-ae5f-ef3d7d3a624f@mbr.rkn-pediki.site:443?type=ws&security=tls&sni=mbr.rkn-pediki.site&fp=ios&host=mbr.rkn-pediki.site&path=%2Fsession&encryption=none#🇷🇺 HavenVPN | Белые списки #2
+vless://c8c2ddff-825a-46c3-bbdd-4a101de468a7@188.130.209.212:443?type=tcp&security=reality&sni=thumbs.mycdn-io.ru&pbk=6vubZmkLVtaiFF8JyGFy7XSy2pc7ywN4P625QLKw8wc&sid=11979c0c9b2da371&fp=edge&spx=%2F&encryption=none&flow=xtls-rprx-vision#🇷🇺 HavenVPN | Белые списки #3
+vless://2b5962e8-1ec2-0001-bdab-cefa57555d2a@mbr.rkn-pediki.site:443?type=ws&security=tls&sni=mbr.rkn-pediki.site&host=mbr.rkn-pediki.site&path=%2Fsession&encryption=none#🇷🇺 HavenVPN | Белые списки #4
