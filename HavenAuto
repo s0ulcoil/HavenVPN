@@ -1,7 +1,8 @@
 #profile-title: Haven vpn Auto
 #support-url: https://t.me/HavenVPNrobot
 #profile-update-interval: 3
-#announce: base64: 0YLQsyDQutCw0L3QsNC7IEBoaWRkZW53aWtpcGVkaWEK0L/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1IDogMTQuMTEuMjYgMjA6MzAg0JzQodCaCtC/0LXRgNC10LQg0L/QvtC00LrQu9GO0YfQtdC90LjQtdC8INC/0YDQvtCy0LXRgNGP0LnRgtC1INC/0LjQvdCzIC0g4o+x77iPIArQvdC1INGA0LDQsdC+0YLQsNC10YI/INC+0LHQvdC+0LLQuNGC0LUgLSDwn5SE77iP
+#announce: base64: 0YLQsyDQutCw0L3QsNC7IEBoaWRkZW53aWtpcGVkaWEK0L/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1IDogMTUuMTEuMjYgMDA6Mjkg0JzQodCaCtC/0LXRgNC10LQg0L/QvtC00LrQu9GO0YfQtdC90LjQtdC8INC/0YDQvtCy0LXRgNGP0LnRgtC1INC/0LjQvdCzIC0g4o+x77iPIArQvdC1INGA0LDQsdC+0YLQsNC10YI/INC+0LHQvdC+0LLQuNGC0LUgLSDwn5SE77iP
+
 {
   "remarks": "🇪🇺 HavenVPN | Автовыбор",
   "log": { "loglevel": "warning" },
@@ -47,16 +48,11 @@
     },
     {
       "protocol": "vless", "tag": "proxy-ru1",
-      "settings": { "vnext": [{ "address": "get.jarbook.net", "port": 443, "users": [{ "id": "2232d904-8e6a-4202-8240-6efd8aec02e9", "encryption": "none", "flow": "xtls-rprx-vision" }] }] },
-      "streamSettings": { "network": "tcp", "security": "reality", "realitySettings": { "fingerprint": "firefox", "serverName": "get.jarbook.net", "publicKey": "BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs", "shortId": "c6f97313", "spiderX": "/" } }
+      "settings": { "vnext": [{ "address": "vpn.asdfghjuyt.ru", "port": 9443, "users": [{ "id": "5d5f84aa-d65f-4843-bfad-383bb9ca9989", "encryption": "none" }] }] },
+      "streamSettings": { "network": "xhttp", "security": "tls", "tlsSettings": { "serverName": "xh.asdfghjuyt.ru", "fingerprint": "firefox", "alpn": ["h2"] }, "xhttpSettings": { "host": "xh.asdfghjuyt.ru", "mode": "auto", "path": "/malibu-xh" } }
     },
     {
       "protocol": "vless", "tag": "proxy-ru2",
-      "settings": { "vnext": [{ "address": "speakpro.lol", "port": 443, "users": [{ "id": "2232d904-8e6a-4202-8240-6efd8aec02e9", "encryption": "none" }] }] },
-      "streamSettings": { "network": "ws", "security": "tls", "tlsSettings": { "serverName": "speakpro.lol" }, "wsSettings": { "headers": { "Host": "speakpro.lol" }, "path": "/useraction/metrics/4c907dfe0305/" } }
-    },
-    {
-      "protocol": "vless", "tag": "proxy-ru3",
       "settings": { "vnext": [{ "address": "price.goonars.com", "port": 443, "users": [{ "id": "2232d904-8e6a-4202-8240-6efd8aec02e9", "encryption": "none", "flow": "xtls-rprx-vision" }] }] },
       "streamSettings": { "network": "tcp", "security": "reality", "realitySettings": { "fingerprint": "firefox", "serverName": "price.goonars.com", "publicKey": "UAry1N68zKkbO0MpIqAXmxfxg1Y9rvkiBjexZErRJwY", "shortId": "6a30cf54", "spiderX": "/" } }
     },
@@ -68,7 +64,7 @@
     "balancers": [
       {
         "tag": "BALANCER",
-        "selector": ["proxy-fi1","proxy-fi2","proxy-at","proxy-kz","proxy-ie","proxy-gb","proxy-nl","proxy-ru1","proxy-ru2","proxy-ru3"],
+        "selector": ["proxy-fi1","proxy-fi2","proxy-at","proxy-kz","proxy-ie","proxy-gb","proxy-nl","proxy-ru1","proxy-ru2"],
         "fallbackTag": "direct",
         "strategy": { "type": "leastPing" }
       }
@@ -79,7 +75,7 @@
     ]
   },
   "burstObservatory": {
-    "subjectSelector": ["proxy-fi1","proxy-fi2","proxy-at","proxy-kz","proxy-ie","proxy-gb","proxy-nl","proxy-ru1","proxy-ru2","proxy-ru3"],
+    "subjectSelector": ["proxy-fi1","proxy-fi2","proxy-at","proxy-kz","proxy-ie","proxy-gb","proxy-nl","proxy-ru1","proxy-ru2"],
     "pingConfig": {
       "destination": "http://www.gstatic.com/generate_204",
       "interval": "1m",
