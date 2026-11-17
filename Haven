@@ -1,35 +1,24 @@
 #profile-title: Haven vpn
 #support-url: https://t.me/HavenVPNrobot
 #profile-update-interval: 3
-#announce: base64: 0YLQsyDQutCw0L3QsNC7IEBoaWRkZW53aWtpcGVkaWEK0L/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1IDogMTcuMTEuMjYgOTowMyDQnNCh0JoK0L/QtdGA0LXQtCDQv9C+0LTQutC70Y7Rh9C10L3QuNC10Lwg0L/RgNC+0LLQtdGA0Y/QudGC0LUg0L/QuNC90LMgLSDij7HvuI8gCtC90LUg0YDQsNCx0L7RgtCw0LXRgj8g0L7QsdC90L7QstC40YLQtSAtIPCflITvuI8=
+#announce: base64: 0YLQsyDQutCw0L3QsNC7IEBoaWRkZW53aWtpcGVkaWEK0L/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1IDogMTcuMTEuMjYgMTg6MjMg0JzQodCaCtC/0LXRgNC10LQg0L/QvtC00LrQu9GO0YfQtdC90LjQtdC8INC/0YDQvtCy0LXRgNGP0LnRgtC1INC/0LjQvdCzIC0g4o+x77iPIArQvdC1INGA0LDQsdC+0YLQsNC10YI/INC+0LHQvdC+0LLQuNGC0LUgLSDwn5SE77iP
 
 🇫🇮 Финляндия
 vless://537d8ade-134d-4ec2-905c-0187e7e1e22e@78ec29x.fi2.h1clayd.click:443?type=xhttp&security=reality&path=%2F&mode=auto&sni=78ec29x.fi2.h1clayd.click&fp=chrome&pbk=WCuIW5EhUUfvOtDeVO-M7NjwXaE20zinTv3rpQ9erxs&sid=6f2d8ece33a96159&spx=%2F&encryption=none#🇫🇮 HavenVPN | Финляндия #1
 vless://537d8ade-134d-4ec2-905c-0187e7e1e22e@f0f0bet.fi2.h1clayd.click:443?type=grpc&security=reality&sni=f0f0bet.fi2.h1clayd.click&fp=chrome&pbk=_oCg5rCW6XTxriBPzbd_AX0os6QhenVYO9cbrsDSyRY&sid=cf2a731a5f2dc451&spx=%2F&encryption=none#🇫🇮 HavenVPN | Финляндия #2
-vless://3a21a95f-972c-4dff-9d36-0cd51f1de7fd@femboy.click:48469?encryption=none&flow=xtls-rprx-vision&security=reality&sni=femboy.click&fp=firefox&pbk=2oVHgityKhsizD6x8JNPk_S8r3wPvDwva3KQ5DBJyQw&sid=ee3d1cca1d0ab420&type=tcp#🇫🇮 HavenVPN | Финляндия #3
-vless://0b22812b-4a79-42b1-93ec-5b157b0f2f7f@191.217.205.175:443?type=xhttp&security=reality&fp=firefox&sni=fin.krabvpn.pro&pbk=zd4L59ejBo94N8N9GQtZMox2eBBF9TQf2TLyIgpwlCg&sid=fd7624659f1e7d66&path=%2Fassets%2F246a109dceaa6b7832a98d17#🇫🇮 HavenVPN | Финляндия #4
+vless://038e6b17-84e9-4ace-8973-8ef2308ed6e1@fin-2.beinprime.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yandex.ru&fp=firefox&pbk=T1BWBw3lq9G1LiQ7eQSPfdNQic7bUMEbdFNJBewAwB8&sid=6ad3c0f1e9b2478a&type=tcp#🇫🇮 HavenVPN | Финляндия #3
 
 🇩🇪 Германия
-vless://2232d904-8e6a-4202-8240-6efd8aec02e9@app.streamru2.net:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=app.streamru2.net&fp=firefox&type=tcp#🇩🇪 HavenVPN | Германия #1
+vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@app.streamru2.net:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=app.streamru2.net&fp=firefox&type=tcp#🇩🇪 HavenVPN | Германия #1
 
 🇵🇱 Польша
-vless://2232d904-8e6a-4202-8240-6efd8aec02e9@exl6vz64yc.deshevayashaurma.icu:443?encryption=none&security=tls&sni=exl6vz64yc.deshevayashaurma.icu&alpn=http%2F1.1&fp=firefox&type=ws&host=l2hbelfbzv.flowersgood.top&path=%2Fplayer%2Fevents%2F8be4cef5ec05%2F#🇵🇱 HavenVPN | Польша #1
+vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@app.streamru17.net:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=app.streamru17.net&fp=firefox&type=tcp#🇵🇱 HavenVPN | Польша #1
 
 🇪🇪 Эстония
-vless://5c09e56b-f97f-4360-8f01-eb4d39202095@185.155.55.12:8443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=ee-nf.reddotcorp.org&pbk=ApMfbcEyBOve6DxXoBNVu3bCCzQ7XCEYB4ummsDtTBE&sid=661766b2bcef440a#🇪🇪 HavenVPN | Эстония #1
-vless://5c09e56b-f97f-4360-8f01-eb4d39202095@ee.puflino.com:8443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=ee-nf.reddotcorp.org&pbk=ApMfbcEyBOve6DxXoBNVu3bCCzQ7XCEYB4ummsDtTBE&sid=661766b2bcef440a#🇪🇪 HavenVPN | Эстония #2
-vless://f3a227cb-8a8b-4ccb-b613-9143c4a1346c@13.143.239.249:443?flow=xtls-rprx-vision&type=raw&security=reality&fp=firefox&sni=ee1.benzinvpn.com&pbk=2XeZjDQGJSF9FWs1uAD1zkP_6jwLT3N1T107fRz3bzs&sid=b176736ddbda2105#🇪🇪 HavenVPN | Эстония #3
-
-🇳🇱 Нидерланды
-vless://2232d904-8e6a-4202-8240-6efd8aec02e9@50.7.169.244:443?flow=xtls-rprx-vision&type=raw&security=tls&fp=chrome&sni=app.streamru9.net#🇳🇱 HavenVPN | Нидерланды #1
-vless://f8d52ece-fad4-478d-875d-df6eed3befa7@177.202.64.13:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=nl-s-2-b1.pythonmakemigreat.wiki&pbk=ZqVz1kWNxh_5zQ5PPkoPHoaXQOvppM0ZyIo8uKp2dCg&sid=a3565610aa574a6e#🇳🇱 HavenVPN | Нидерланды #2
-
-🇺🇸 США
-vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@84.32.54.237:443?type=tcp&security=reality&fp=firefox&sni=rly-gw-cfg.galioncc.com&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de#🇺🇸 HavenVPN | США #1
+vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@app.streamru15.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=app.streamru15.net&fp=firefox&pbk=bkKOiMl4vnU10lZSEEL0Uj5dqKKNXW8I2t86Fo9sVmw&sid=7594d4e0&spx=%2F&type=tcp#🇪🇪 HavenVPN | Эстония #1
 
 🇷🇺 Белые списки
-vless://2232d904-8e6a-4202-8240-6efd8aec02e9@price.goonars.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=price.goonars.com&fp=firefox&pbk=UAry1N68zKkbO0MpIqAXmxfxg1Y9rvkiBjexZErRJwY&sid=6a30cf54&spx=%2F&type=tcp#🇷🇺 HavenVPN | Белые списки #1
-vless://88281d02-b387-4fe3-918e-26ed331e6d08@95.129.234.113:8443?encryption=none&security=tls&sni=sorrel-gate.cdn.cachefleet.com&alpn=h2&fp=firefox&type=xhttp&host=is-tw-relay.cdn.cachefleet.com&path=%2Fccxf5snr06b8xxb6&mode=auto#🇷🇺 HavenVPN | Белые списки #2
-vless://b229d38c-35ec-4a0b-9c86-8fceba243d6c@95.129.234.108:8443?encryption=none&security=tls&sni=linden-crest.cdn.cachefleet.com&alpn=h2&fp=firefox&type=xhttp&host=fafeqdhlett2p5la6d.cdn.cachefleet.com&path=%2Fccxf5snr06b8xxb6&mode=auto#🇷🇺 HavenVPN | Белые списки #3
-vless://dcf2b1c4-f99f-4319-b917-37af1e7233c8@188.124.54.30:26461?encryption=none&flow=xtls-rprx-vision&security=reality&sni=github.com&fp=qq&pbk=A4QCDy3wYj97TWce3coZVfEnfcq2uNiG9RGJc1UMJ3o&sid=16d73aa276c14c08&type=tcp#🇷🇺 HavenVPN | Белые списки #4
-vless://dcf2b1c4-f99f-4319-b917-37af1e7233c8@188.124.54.30:26460?encryption=none&flow=xtls-rprx-vision&security=reality&sni=github.com&fp=qq&pbk=A4QCDy3wYj97TWce3coZVfEnfcq2uNiG9RGJc1UMJ3o&sid=16d73aa276c14c08&type=tcp#🇷🇺 HavenVPN | Белые списки #5
+vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@app.streamru13.net:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=app.streamru13.net&fp=firefox&type=tcp#🇷🇺 HavenVPN | Белые списки #1
+vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@app.streamru9.net:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=app.streamru9.net&fp=firefox&type=tcp#🇷🇺 HavenVPN | Белые списки #2
+vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@app.streamru10.net:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=app.streamru10.net&fp=firefox&type=tcp#🇷🇺 HavenVPN | Белые списки #3
+vless://038e6b17-84e9-4ace-8973-8ef2308ed6e1@213.171.26.51:23444?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yandex.ru&fp=firefox&pbk=T1BWBw3lq9G1LiQ7eQSPfdNQic7bUMEbdFNJBewAwB8&sid=6ad3c0f1e9b2478a&type=tcp#🇷🇺 HavenVPN | Белые списки #4
