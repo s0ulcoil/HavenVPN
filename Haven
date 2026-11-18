@@ -1,16 +1,22 @@
 #profile-title: Haven vpn
 #support-url: https://t.me/HavenVPNrobot
 #profile-update-interval: 3
-#announce: base64: 0YLQsyDQutCw0L3QsNC7IEBoaWRkZW53aWtpcGVkaWEK0L/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1IDogMTguMTEuMjYgMTc6MzMg0JzQodCaCtC/0LXRgNC10LQg0L/QvtC00LrQu9GO0YfQtdC90LjQtdC8INC/0YDQvtCy0LXRgNGP0LnRgtC1INC/0LjQvdCzIC0g4o+x77iPIArQvdC1INGA0LDQsdC+0YLQsNC10YI/INC+0LHQvdC+0LLQuNGC0LUgLSDwn5SE77iP
+#announce: base64: 0YLQsyDQutCw0L3QsNC7IEBoaWRkZW53aWtpcGVkaWEK0L/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1IDogMTguMTEuMjYgMTc6NDMg0JzQodCaCtC/0LXRgNC10LQg0L/QvtC00LrQu9GO0YfQtdC90LjQtdC8INC/0YDQvtCy0LXRgNGP0LnRgtC1INC/0LjQvdCzIC0g4o+x77iPIArQvdC1INGA0LDQsdC+0YLQsNC10YI/INC+0LHQvdC+0LLQuNGC0LUgLSDwn5SE77iP
+
+🇪🇸 Испания
+vless://167d7768-2f0a-4f9d-86e0-81514362c189@185.18.250.2:443?encryption=none&security=tls&sni=worker3.biwir20896.workers.dev&fp=firefox&type=ws&host=worker3.biwir20896.workers.dev&path=%2FLF5LdoZelHLG07nl#🇪🇸 HavenVPN | Испания #1
+
+🇰🇿 Казахстан
+vless://f863bc2a-daf7-4c9c-8070-b780ddbaddcb@31.43.179.0:443?encryption=none&security=tls&sni=worker2.peramip455.workers.dev&fp=firefox&type=ws&host=&path=%2F6q9UJmS2CckAEFb1%3Fed%3D2560#🇰🇿 HavenVPN | Казахстан #1
 
 🇩🇪 Германия
-vless://fb373d99-5c78-4757-ba34-c5094e839411@garman.granula74.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=garman.granula74.ru&fp=firefox&pbk=RByCaPnWH40eXtHFQWc4EESPgYo8cK8SEWhJY_ztqAA&sid=15a05013365bc50a&spx=%2F&type=tcp#🇩🇪 HavenVPN | Германия #1
+vless://f18c5f6d-2bac-4a99-8c92-a6e6e7aea9b4@50.7.87.123:8443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=api-v2.atlanta-games.com&fp=firefox&type=tcp#🇩🇪 HavenVPN | Германия #1
 
-🇳🇱 Нидерланды
-vless://fb373d99-5c78-4757-ba34-c5094e839411@amam.granula74.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=amam.granula74.ru&fp=firefox&pbk=p0M6RumtfcATPNPUIFnFcgWy2rzk2gGVWx21sql1hV0&sid=8238d76df92c2560&spx=%2F&type=tcp#🇳🇱 HavenVPN | Нидерланды #1
+🇦🇹 Австрия
+vless://b2744db0-1c64-4218-a93b-9eba0e5f811f@77.221.150.215:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at-25-31bv.wave-inside.online&fp=firefox&pbk=D5iMYCRwFa3Wj3rGjTsoHOPEs-ipOok_O0SSrlEPqjo&sid=83b4d1fd08314289&type=tcp#🇦🇹 HavenVPN | Австрия #1
 
-🇨🇿 Чехия
-vless://fb373d99-5c78-4757-ba34-c5094e839411@checki.granula74.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=checki.granula74.ru&fp=firefox&pbk=zvOXkaCzQIFA5H6_gpK2_IMDnkwBkw8nch5AODNsAiY&sid=88086e66870f03e6&spx=%2F&type=tcp#🇨🇿 HavenVPN | Чехия #1
+🇷🇺 Россия
+vless://75a8cc15-fa52-4067-949f-42a89859b54f@194.55.239.195:443?encryption=none&security=reality&sni=stats.24catvpn.ru&fp=firefox&pbk=oJpmeGMTN9jhcq4ORR_gtU5_8WyfMsCCWE3Wq3x9JQ4&sid=9cb9497322&type=tcp#🇷🇺 HavenVPN | Россия #1
 
 🇭🇰 Гонконг
 vless://b432a23a-acff-425c-bf69-70480cd6ed09@dfsto.whitenw.net:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=passport.yandex.ru&fp=firefox&pbk=pNj1rPSs9XjNpf30e8DjGbNBU1fp58CzFrxP36_D42U&sid=b470934eb6924098&spx=%2F&type=tcp#🇭🇰 HavenVPN | Гонконг #1
