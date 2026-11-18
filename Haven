@@ -1,23 +1,25 @@
 #profile-title: Haven vpn
 #support-url: https://t.me/HavenVPNrobot
 #profile-update-interval: 3
-#announce: base64: 0YLQsyDQutCw0L3QsNC7IEBoaWRkZW53aWtpcGVkaWEK0L/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1IDogMTcuMTEuMjYgMjA6Mjkg0JzQodCaCtC/0LXRgNC10LQg0L/QvtC00LrQu9GO0YfQtdC90LjQtdC8INC/0YDQvtCy0LXRgNGP0LnRgtC1INC/0LjQvdCzIC0g4o+x77iPIArQvdC1INGA0LDQsdC+0YLQsNC10YI/INC+0LHQvdC+0LLQuNGC0LUgLSDwn5SE77iP
+#announce: base64: 0YLQsyDQutCw0L3QsNC7IEBoaWRkZW53aWtpcGVkaWEK0L/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1IDogMTguMTEuMjYgMTc6MzMg0JzQodCaCtC/0LXRgNC10LQg0L/QvtC00LrQu9GO0YfQtdC90LjQtdC8INC/0YDQvtCy0LXRgNGP0LnRgtC1INC/0LjQvdCzIC0g4o+x77iPIArQvdC1INGA0LDQsdC+0YLQsNC10YI/INC+0LHQvdC+0LLQuNGC0LUgLSDwn5SE77iP
 
 🇩🇪 Германия
-vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@app.streamru2.net:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=app.streamru2.net&fp=firefox&type=tcp#🇩🇪 HavenVPN | Германия #1
+vless://fb373d99-5c78-4757-ba34-c5094e839411@garman.granula74.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=garman.granula74.ru&fp=firefox&pbk=RByCaPnWH40eXtHFQWc4EESPgYo8cK8SEWhJY_ztqAA&sid=15a05013365bc50a&spx=%2F&type=tcp#🇩🇪 HavenVPN | Германия #1
 
-🇵🇱 Польша
-vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@app.streamru17.net:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=app.streamru17.net&fp=firefox&type=tcp#🇵🇱 HavenVPN | Польша #1
-vless://62995b2a-8f82-41f8-ac80-dfdfc1253e76@pl9.h1cloud.net:25700?encryption=none&security=reality&sni=5dc396r.pl9.h1clayd.click&fp=edge&pbk=w698in_6eoH8y_C5jY3cpScMyaRaPpmPQEQhzw8QMUM&sid=54c9c22217db5c86&type=xhttp&path=%2Fastral-edge-h1&mode=stream-one#🇵🇱 HavenVPN | Польша #2
+🇳🇱 Нидерланды
+vless://fb373d99-5c78-4757-ba34-c5094e839411@amam.granula74.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=amam.granula74.ru&fp=firefox&pbk=p0M6RumtfcATPNPUIFnFcgWy2rzk2gGVWx21sql1hV0&sid=8238d76df92c2560&spx=%2F&type=tcp#🇳🇱 HavenVPN | Нидерланды #1
+
+🇨🇿 Чехия
+vless://fb373d99-5c78-4757-ba34-c5094e839411@checki.granula74.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=checki.granula74.ru&fp=firefox&pbk=zvOXkaCzQIFA5H6_gpK2_IMDnkwBkw8nch5AODNsAiY&sid=88086e66870f03e6&spx=%2F&type=tcp#🇨🇿 HavenVPN | Чехия #1
+
+🇭🇰 Гонконг
+vless://b432a23a-acff-425c-bf69-70480cd6ed09@dfsto.whitenw.net:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=passport.yandex.ru&fp=firefox&pbk=pNj1rPSs9XjNpf30e8DjGbNBU1fp58CzFrxP36_D42U&sid=b470934eb6924098&spx=%2F&type=tcp#🇭🇰 HavenVPN | Гонконг #1
+
+🇰🇷 Южная Корея
+vless://b432a23a-acff-425c-bf69-70480cd6ed09@dfsto.whitenw.net:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=passport.yandex.ru&fp=firefox&pbk=pNj1rPSs9XjNpf30e8DjGbNBU1fp58CzFrxP36_D42U&sid=b470934eb6924098&spx=%2F&type=tcp#🇰🇷 HavenVPN | Южная Корея #1
 
 🇸🇪 Швеция
-vless://0253135b-2a95-003a-b364-8d3399bec670@92.53.79.112:443?encryption=none&security=reality&sni=meeting.espanolonline.ru&fp=firefox&pbk=rJMYW6mHgjs61mHxfm8Gmm_Re23sV_xe5b0IrTpLsiQ&sid=7cd7ce19f4ea0981&type=xhttp&path=%2Fscript&mode=stream-one#🇸🇪 HavenVPN | Швеция #1
-
-🇱🇻 Латвия
-vless://0253135b-2a95-0037-b364-8d3399bec670@92.53.79.116:443?encryption=none&security=reality&sni=meeting.deutschonline.ru&fp=firefox&pbk=QSAIpsE696lDqkumfo7dyBt92XzrVDPTF6KogbeKhGc&sid=9d4984f7525caefc&type=xhttp&path=%2Frepository&mode=stream-one#🇱🇻 HavenVPN | Латвия #1
-
-🇷🇺 Россия
-vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@129.101.98.60:443?security=reality&encryption=none&pbk=lews1n_fypGexd_dMofEO4Vy1ULsFeVIFa90MMY3pm4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ru7e2bab87cc39.eu-cdn539.com&sid=3992cc7fb9fcbe58#🇷🇺 HavenVPN | Россия #1
+vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@app.streamru13.net:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=app.streamru13.net&fp=firefox&type=tcp#🇸🇪 HavenVPN | Швеция #1
 
 🇷🇺 Белые списки
 vless://88281d02-b387-4fe3-918e-26ed331e6d08@95.129.234.113:8443?encryption=none&security=tls&sni=sorrel-gate.cdn.cachefleet.com&alpn=h2&fp=firefox&type=xhttp&host=is-tw-relay.cdn.cachefleet.com&path=%2Fccxf5snr06b8xxb6&mode=auto#🇷🇺 HavenVPN | Белые списки #1
