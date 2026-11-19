@@ -1,7 +1,7 @@
 #profile-title: Haven vpn
 #support-url: https://t.me/HavenVPNrobot
 #profile-update-interval: 3
-#announce: base64: 0YLQsyDQutCw0L3QsNC7IEBoaWRkZW53aWtpcGVkaWEK0L/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1IDogMTkuMTEuMjYgMTI6MjQg0JzQodCaCtC/0LXRgNC10LQg0L/QvtC00LrQu9GO0YfQtdC90LjQtdC8INC/0YDQvtCy0LXRgNGP0LnRgtC1INC/0LjQvdCzIC0g4o+x77iPIArQvdC1INGA0LDQsdC+0YLQsNC10YI/INC+0LHQvdC+0LLQuNGC0LUgLSDwn5SE77iP
+#announce: base64: 0YLQsyDQutCw0L3QsNC7IEBoaWRkZW53aWtpcGVkaWEK0L/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1IDogMTkuMTEuMjYgMjA6MDkg0JzQodCaCtC/0LXRgNC10LQg0L/QvtC00LrQu9GO0YfQtdC90LjQtdC8INC/0YDQvtCy0LXRgNGP0LnRgtC1INC/0LjQvdCzIC0g4o+x77iPIArQvdC1INGA0LDQsdC+0YLQsNC10YI/INC+0LHQvdC+0LLQuNGC0LUgLSDwn5SE77iP
 
 {
   "remarks": "🇪🇺 HavenVPN | Автовыбор",
@@ -12,24 +12,64 @@
   ],
   "outbounds": [
     {
-      "protocol": "vless", "tag": "proxy-fr",
-      "settings": { "vnext": [{ "address": "188.42.89.118", "port": 443, "users": [{ "id": "d890b69b-049a-4a3f-b429-eacec51644d6", "encryption": "none" }] }] },
-      "streamSettings": { "network": "xhttp", "security": "tls", "tlsSettings": { "serverName": "mama1455.baklajann.ru", "fingerprint": "chrome" }, "xhttpSettings": { "host": "mama1455.baklajann.ru", "mode": "auto", "path": "/" } }
+      "protocol": "vless", "tag": "proxy-de1",
+      "settings": { "vnext": [{ "address": "84.38.189.122", "port": 443, "users": [{ "id": "240fb69e-a0c3-0001-825d-cfc876846ea4", "encryption": "none" }] }] },
+      "streamSettings": { "network": "tcp", "security": "tls", "tlsSettings": { "serverName": "shyrc-ru-75sel.my-fade.cloud", "fingerprint": "qq", "alpn": ["h2", "http/1.1"] } }
     },
     {
-      "protocol": "vless", "tag": "proxy-pl",
-      "settings": { "vnext": [{ "address": "188.42.89.118", "port": 443, "users": [{ "id": "d890b69b-049a-4a3f-b429-eacec51644d6", "encryption": "none" }] }] },
-      "streamSettings": { "network": "xhttp", "security": "tls", "tlsSettings": { "serverName": "mama5113.baklajann.ru", "fingerprint": "chrome" }, "xhttpSettings": { "host": "mama5113.baklajann.ru", "mode": "auto", "path": "/" } }
+      "protocol": "vless", "tag": "proxy-de2",
+      "settings": { "vnext": [{ "address": "136.148.83.69", "port": 443, "users": [{ "id": "666821a2-5c3d-0001-a56f-5a3a562d7324", "encryption": "none" }] }] },
+      "streamSettings": { "network": "tcp", "security": "tls", "tlsSettings": { "serverName": "szqbx-ru-77dc.my-fade.cloud", "fingerprint": "qq", "alpn": ["h2", "http/1.1"] } }
     },
     {
-      "protocol": "vless", "tag": "proxy-pt",
-      "settings": { "vnext": [{ "address": "89.116.46.150", "port": 443, "users": [{ "id": "d890b69b-049a-4a3f-b429-eacec51644d6", "encryption": "none" }] }] },
-      "streamSettings": { "network": "xhttp", "security": "tls", "tlsSettings": { "serverName": "145.baklajann.ru", "fingerprint": "chrome" }, "xhttpSettings": { "host": "145.baklajann.ru", "mode": "auto", "path": "/" } }
+      "protocol": "vless", "tag": "proxy-de3",
+      "settings": { "vnext": [{ "address": "api.14887277.xyz", "port": 443, "users": [{ "id": "c2b17066-5386-0001-803b-5e652c0528f9", "encryption": "none" }] }] },
+      "streamSettings": { "network": "ws", "security": "tls", "tlsSettings": { "serverName": "trx.tools", "fingerprint": "qq", "alpn": ["http/1.1"] }, "wsSettings": { "headers": { "Host": "api.14887277.xyz" }, "path": "/session" } }
     },
     {
-      "protocol": "vless", "tag": "proxy-by",
-      "settings": { "vnext": [{ "address": "185.18.250.147", "port": 443, "users": [{ "id": "d890b69b-049a-4a3f-b429-eacec51644d6", "encryption": "none" }] }] },
-      "streamSettings": { "network": "xhttp", "security": "tls", "tlsSettings": { "serverName": "19.baklajann.ru", "fingerprint": "chrome" }, "xhttpSettings": { "host": "19.baklajann.ru", "mode": "auto", "path": "/" } }
+      "protocol": "hysteria", "tag": "proxy-de4",
+      "settings": { "address": "84.38.189.122", "port": 443, "version": 2 },
+      "streamSettings": { "network": "hysteria", "security": "tls", "tlsSettings": { "serverName": "shyrc-ru-75sel.my-fade.cloud", "alpn": ["h3"] }, "hysteriaSettings": { "auth": "b280a29b-a3d9-0001-8a81-198855a17d57", "version": 2 } }
+    },
+    {
+      "protocol": "hysteria", "tag": "proxy-de5",
+      "settings": { "address": "136.148.83.69", "port": 443, "version": 2 },
+      "streamSettings": { "network": "hysteria", "security": "tls", "tlsSettings": { "serverName": "szqbx-ru-77dc.my-fade.cloud", "alpn": ["h3"] }, "hysteriaSettings": { "auth": "87bb2ac4-b7a1-0001-b11d-2107709ea6cb", "version": 2 } }
+    },
+    {
+      "protocol": "vless", "tag": "proxy-pl1",
+      "settings": { "vnext": [{ "address": "185.151.243.186", "port": 443, "users": [{ "id": "cf4d2594-77a8-0001-b99e-73ae8fb954eb", "encryption": "none" }] }] },
+      "streamSettings": { "network": "tcp", "security": "tls", "tlsSettings": { "serverName": "piodr-ru-74sel.my-fade.cloud", "fingerprint": "qq", "alpn": ["h2", "http/1.1"] } }
+    },
+    {
+      "protocol": "vless", "tag": "proxy-pl2",
+      "settings": { "vnext": [{ "address": "84.38.189.122", "port": 443, "users": [{ "id": "4ea2dd37-eb08-0001-9e81-57ceca28c933", "encryption": "none" }] }] },
+      "streamSettings": { "network": "tcp", "security": "tls", "tlsSettings": { "serverName": "shyrc-ru-75sel.my-fade.cloud", "fingerprint": "qq", "alpn": ["h2", "http/1.1"] } }
+    },
+    {
+      "protocol": "vless", "tag": "proxy-pl3",
+      "settings": { "vnext": [{ "address": "api.14887277.xyz", "port": 443, "users": [{ "id": "5af3ecea-a93a-0001-95a4-156a2e34f3ea", "encryption": "none" }] }] },
+      "streamSettings": { "network": "ws", "security": "tls", "tlsSettings": { "serverName": "trx.tools", "fingerprint": "qq", "alpn": ["http/1.1"] }, "wsSettings": { "headers": { "Host": "api.14887277.xyz" }, "path": "/session" } }
+    },
+    {
+      "protocol": "vless", "tag": "proxy-pl4",
+      "settings": { "vnext": [{ "address": "81.163.22.109", "port": 443, "users": [{ "id": "6b70d4ce-4bea-0001-a343-b852a792e69b", "encryption": "none" }] }] },
+      "streamSettings": { "network": "tcp", "security": "tls", "tlsSettings": { "serverName": "jissa-ru-wl-47sel.my-fade.cloud", "fingerprint": "qq", "alpn": ["h2", "http/1.1"] } }
+    },
+    {
+      "protocol": "hysteria", "tag": "proxy-pl5",
+      "settings": { "address": "185.151.243.186", "port": 443, "version": 2 },
+      "streamSettings": { "network": "hysteria", "security": "tls", "tlsSettings": { "serverName": "piodr-ru-74sel.my-fade.cloud", "alpn": ["h3"] }, "hysteriaSettings": { "auth": "29f90c01-02b6-0001-9249-e3558a9c73a4", "version": 2 } }
+    },
+    {
+      "protocol": "hysteria", "tag": "proxy-pl6",
+      "settings": { "address": "84.38.189.122", "port": 443, "version": 2 },
+      "streamSettings": { "network": "hysteria", "security": "tls", "tlsSettings": { "serverName": "shyrc-ru-75sel.my-fade.cloud", "alpn": ["h3"] }, "hysteriaSettings": { "auth": "f883afa8-2af7-0001-a896-dcc345e89da0", "version": 2 } }
+    },
+    {
+      "protocol": "hysteria", "tag": "proxy-fi1",
+      "settings": { "address": "185.151.243.186", "port": 443, "version": 2 },
+      "streamSettings": { "network": "hysteria", "security": "tls", "tlsSettings": { "serverName": "piodr-ru-74sel.my-fade.cloud", "alpn": ["h3"] }, "hysteriaSettings": { "auth": "be986553-5976-0001-9209-3050366e40d1", "version": 2 } }
     },
     { "protocol": "freedom", "tag": "direct" },
     { "protocol": "blackhole", "tag": "block" }
@@ -39,7 +79,7 @@
     "balancers": [
       {
         "tag": "BALANCER",
-        "selector": ["proxy-fr","proxy-pl","proxy-pt","proxy-by"],
+        "selector": ["proxy-de1","proxy-de2","proxy-de3","proxy-de4","proxy-de5","proxy-pl1","proxy-pl2","proxy-pl3","proxy-pl4","proxy-pl5","proxy-pl6","proxy-fi1"],
         "fallbackTag": "direct",
         "strategy": { "type": "leastPing" }
       }
@@ -50,7 +90,7 @@
     ]
   },
   "burstObservatory": {
-    "subjectSelector": ["proxy-fr","proxy-pl","proxy-pt","proxy-by"],
+    "subjectSelector": ["proxy-de1","proxy-de2","proxy-de3","proxy-de4","proxy-de5","proxy-pl1","proxy-pl2","proxy-pl3","proxy-pl4","proxy-pl5","proxy-pl6","proxy-fi1"],
     "pingConfig": {
       "destination": "http://www.gstatic.com/generate_204",
       "interval": "1m",
