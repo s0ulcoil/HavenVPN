@@ -10,13 +10,5 @@ vless://c2b17066-5386-0001-803b-5e652c0528f9@api.14887277.xyz:443?encryption=non
 hysteria2://b280a29b-a3d9-0001-8a81-198855a17d57@84.38.189.122:443?sni=shyrc-ru-75sel.my-fade.cloud&alpn=h3&insecure=0#🇩🇪 HavenVPN | Германия #4
 hysteria2://87bb2ac4-b7a1-0001-b11d-2107709ea6cb@136.148.83.69:443?sni=szqbx-ru-77dc.my-fade.cloud&alpn=h3&insecure=0#🇩🇪 HavenVPN | Германия #5
 
-🇵🇱 Польша
-vless://cf4d2594-77a8-0001-b99e-73ae8fb954eb@185.151.243.186:443?encryption=none&security=tls&sni=piodr-ru-74sel.my-fade.cloud&alpn=h2%2Chttp%2F1.1&fp=qq&type=tcp#🇵🇱 HavenVPN | Польша #1
-vless://4ea2dd37-eb08-0001-9e81-57ceca28c933@84.38.189.122:443?encryption=none&security=tls&sni=shyrc-ru-75sel.my-fade.cloud&alpn=h2%2Chttp%2F1.1&fp=qq&type=tcp#🇵🇱 HavenVPN | Польша #2
-vless://5af3ecea-a93a-0001-95a4-156a2e34f3ea@api.14887277.xyz:443?encryption=none&security=tls&sni=trx.tools&alpn=http%2F1.1&fp=qq&type=ws&host=api.14887277.xyz&path=%2Fsession#🇵🇱 HavenVPN | Польша #3
-vless://6b70d4ce-4bea-0001-a343-b852a792e69b@81.163.22.109:443?encryption=none&security=tls&sni=jissa-ru-wl-47sel.my-fade.cloud&alpn=h2%2Chttp%2F1.1&fp=qq&type=tcp#🇵🇱 HavenVPN | Польша #4
-hysteria2://29f90c01-02b6-0001-9249-e3558a9c73a4@185.151.243.186:443?sni=piodr-ru-74sel.my-fade.cloud&alpn=h3&insecure=0#🇵🇱 HavenVPN | Польша #5
-hysteria2://f883afa8-2af7-0001-a896-dcc345e89da0@84.38.189.122:443?sni=shyrc-ru-75sel.my-fade.cloud&alpn=h3&insecure=0#🇵🇱 HavenVPN | Польша #6
-
 🇫🇮 Финляндия
 hysteria2://be986553-5976-0001-9209-3050366e40d1@185.151.243.186:443?sni=piodr-ru-74sel.my-fade.cloud&alpn=h3&insecure=0#🇫🇮 HavenVPN | Финляндия #1
