@@ -1,16 +1,17 @@
 #profile-title: Haven vpn
 #support-url: https://t.me/HavenVPNrobot
 #profile-update-interval: 3
-#announce: base64: 0YLQsyDQutCw0L3QsNC7IEBoaWRkZW53aWtpcGVkaWEK0L/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1IDogMTkuMTEuMjYgMjI6NTMg0JzQodCaCtC/0LXRgNC10LQg0L/QvtC00LrQu9GO0YfQtdC90LjQtdC8INC/0YDQvtCy0LXRgNGP0LnRgtC1INC/0LjQvdCzIC0g4o+x77iPIArQvdC1INGA0LDQsdC+0YLQsNC10YI/INC+0LHQvdC+0LLQuNGC0LUgLSDwn5SE77iP
+#announce: base64: 0YLQsyDQutCw0L3QsNC7IEBoaWRkZW53aWtpcGVkaWEK0L/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1IDogMjAuMTEuMjYgNzoxNSDQnNCh0JoK0L/QtdGA0LXQtCDQv9C+0LTQutC70Y7Rh9C10L3QuNC10Lwg0L/RgNC+0LLQtdGA0Y/QudGC0LUg0L/QuNC90LMgLSDij7HvuI8gCtC90LUg0YDQsNCx0L7RgtCw0LXRgj8g0L7QsdC90L7QstC40YLQtSAtIPCflITvuI8=
 
 🇫🇮 Финляндия
 hysteria2://be986553-5976-0001-9209-3050366e40d1@185.151.243.186:443?sni=piodr-ru-74sel.my-fade.cloud&alpn=h3&insecure=0#🇫🇮 HavenVPN | Финляндия #1
 
-🇪🇺 Европа
-vless://cc99c57d-6c93-4031-9153-73f510636533@199.232.251.2:443?encryption=none&security=tls&sni=huesos.fastly.com&fp=chrome&type=xhttp&host=rr1.global.ssl.fastly.net&path=%2F&mode=auto#🇪🇺 HavenVPN | Европа #1
-vless://cc99c57d-6c93-4031-9153-73f510636533@199.232.251.2:443?encryption=none&security=tls&sni=huesos.fastly.com&fp=chrome&type=xhttp&host=rr2.global.ssl.fastly.net&path=%2F&mode=auto#🇪🇺 HavenVPN | Европа #2
-vless://cc99c57d-6c93-4031-9153-73f510636533@199.232.251.2:443?encryption=none&security=tls&sni=huesos.fastly.com&fp=chrome&type=xhttp&host=tt2.global.ssl.fastly.net&path=%2F&mode=auto#🇪🇺 HavenVPN | Европа #3
+🇵🇱 Польша
+vless://cc99c57d-6c93-4031-9153-73f510636533@188.42.89.118:443?encryption=none&security=tls&sni=mama5113.baklajann.ru&fp=chrome&type=xhttp&host=mama5113.baklajann.ru&path=%2F&mode=auto#🇵🇱 HavenVPN | Польша #1
 
 🇫🇷 Франция
-vless://cc99c57d-6c93-4031-9153-73f510636533@188.42.89.118:443?encryption=none&security=tls&sni=mama1455.baklajann.ru&fp=chrome&type=xhttp&host=mama1455.baklajann.ru&path=%2F&mode=auto#🇫🇷 HavenVPN | Франция #1
-vless://cc99c57d-6c93-4031-9153-73f510636533@31.43.179.196:443?encryption=none&security=tls&sni=mama51.baklajann.ru&fp=chrome&type=xhttp&host=mama51.baklajann.ru&path=%2F&mode=auto#🇫🇷 HavenVPN | Франция #2
+vless://cc99c57d-6c93-4031-9153-73f510636533@31.43.179.196:443?encryption=none&security=tls&sni=newmama2.baklajann.ru&fp=chrome&type=xhttp&host=newmama2.baklajann.ru&path=%2F&mode=auto#🇫🇷 HavenVPN | Франция #1
+
+🇩🇪 Германия
+vless://a6142d9d-3f9f-47b7-b7e9-1245dd6a15d6@91.215.42.205:443?encryption=none&security=tls&sni=my.lk.stream-pk.online&fp=firefox&type=ws&host=&path=%2Fgateway%2Fv1%2Fws%2F78c903ed62a493521f3a51df668fc042#🇩🇪 HavenVPN | Германия #1
+vless://a6142d9d-3f9f-47b7-b7e9-1245dd6a15d6@217.60.12.99:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=217.60.12.99&fp=firefox&type=tcp#🇩🇪 HavenVPN | Германия #2
