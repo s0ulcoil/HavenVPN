@@ -3,15 +3,17 @@
 #profile-update-interval: 3
 #announce: base64: 0YLQsyDQutCw0L3QsNC7IEBoaWRkZW53aWtpcGVkaWEK0L/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1IDogMjAuMTEuMjYgMjE6NDQg0JzQodCaCtC/0LXRgNC10LQg0L/QvtC00LrQu9GO0YfQtdC90LjQtdC8INC/0YDQvtCy0LXRgNGP0LnRgtC1INC/0LjQvdCzIC0g4o+x77iPIArQvdC1INGA0LDQsdC+0YLQsNC10YI/INC+0LHQvdC+0LLQuNGC0LUgLSDwn5SE77iP
 
+🇳🇱 Нидерланды
+vless://7f83bad7-cbcc-45e5-b3c5-75fe4fb52368@172.233.57.243:443?type=grpc&security=reality&fp=chrome&sni=dl.google.com&pbk=cAFMol_SqbGzF6IZSHdOS8taChr8dRe9n3RdxJp0QEQ&serviceName=grpc#🇳🇱 HavenVPN | Нидерланды #1
+
+🇵🇱 Польша
+hysteria2://7f83bad7-cbcc-45e5-b3c5-75fe4fb52368@poland-the-best.moonpaw.space:4443?sni=poland-the-best.moonpaw.space&alpn=h3#🇵🇱 HavenVPN | Польша #1
+
 🇫🇮 Финляндия
-vless://25dcbe15-3d70-4f24-a8f2-3156e68f783e@95.213.143.124:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=qu5ds08r.static-edge.site&pbk=fJnm6-PhJGSwHaAdJOzXkYOfCPPCWSlaZrtfm1XsqhA&spx=%2F#🇫🇮 HavenVPN | Финляндия #1
-vless://f2341274-8dd8-4b80-95fd-780641f6f2da@5.183.253.25:443?security=reality&encryption=none&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&fp=firefox&sni=web.poezdkafun.ru&sid=0858af97f4e7324d&type=grpc&serviceName=poezdkafun-grpc#🇫🇮 HavenVPN | Финляндия #2
+vless://7f83bad7-cbcc-45e5-b3c5-75fe4fb52368@2.27.13.243:443?type=grpc&security=reality&fp=chrome&sni=dl.google.com&pbk=cAFMol_SqbGzF6IZSHdOS8taChr8dRe9n3RdxJp0QEQ&serviceName=grpc#🇫🇮 HavenVPN | Финляндия #1
 
 🇩🇪 Германия
-vless://25dcbe15-3d70-4f24-a8f2-3156e68f783e@5.188.159.42:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=wcuz69pxr.cdnwave.lol&pbk=fJnm6-PhJGSwHaAdJOzXkYOfCPPCWSlaZrtfm1XsqhA&spx=%2F#🇩🇪 HavenVPN | Германия #1
-
-🇫🇷 Франция
-vless://8da0029e-6ff3-49cc-8b4d-120432cc6414@eu90.cdn77.icu:20028?type=tcp&security=reality&fp=firefox&sni=eu64.cdn77.icu&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8#🇫🇷 HavenVPN | Франция #1
+hysteria2://7f83bad7-cbcc-45e5-b3c5-75fe4fb52368@download.klairo.cfd:443?sni=download.klairo.cfd&alpn=h3#🇩🇪 HavenVPN | Германия #1
 
 🇪🇺 Европа
 vless://00018846-513b-6e3b-5301-9c9ff2d375a3@188.72.112.1:443?type=xhttp&security=tls&sni=nlcdn.fius.dev&path=%2Fapi-test&host=nlcdn.fius.dev&mode=packet-up&extra=%7B%22scMaxEachPostBytes%22%3A16384%2C%22scMinPostsIntervalMs%22%3A10%2C%22uplinkChunkSize%22%3A4096%2C%22uplinkDataPlacement%22%3A%22header%22%2C%22uplinkHTTPMethod%22%3A%22OPTIONS%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22xPaddingHeader%22%3A%22X-Cache%22%2C%22xPaddingKey%22%3A%22dc%22%2C%22xPaddingMethod%22%3A%22tokenish%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22xPaddingPlacement%22%3A%22queryInHeader%22%7D&alpn=h2,http/1.1#🇪🇺 HavenVPN | Европа #1
