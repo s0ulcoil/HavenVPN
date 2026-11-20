@@ -1,17 +1,17 @@
 #profile-title: Haven vpn
 #support-url: https://t.me/HavenVPNrobot
 #profile-update-interval: 3
-#announce: base64: 0YLQsyDQutCw0L3QsNC7IEBoaWRkZW53aWtpcGVkaWEK0L/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1IDogMjAuMTEuMjYgNzoxNSDQnNCh0JoK0L/QtdGA0LXQtCDQv9C+0LTQutC70Y7Rh9C10L3QuNC10Lwg0L/RgNC+0LLQtdGA0Y/QudGC0LUg0L/QuNC90LMgLSDij7HvuI8gCtC90LUg0YDQsNCx0L7RgtCw0LXRgj8g0L7QsdC90L7QstC40YLQtSAtIPCflITvuI8=
+#announce: base64: 0YLQsyDQutCw0L3QsNC7IEBoaWRkZW53aWtpcGVkaWEK0L/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1IDogMjAuMTEuMjYgMjA6MDMg0JzQodCaCtC/0LXRgNC10LQg0L/QvtC00LrQu9GO0YfQtdC90LjQtdC8INC/0YDQvtCy0LXRgNGP0LnRgtC1INC/0LjQvdCzIC0g4o+x77iPIArQvdC1INGA0LDQsdC+0YLQsNC10YI/INC+0LHQvdC+0LLQuNGC0LUgLSDwn5SE77iP
 
 🇫🇮 Финляндия
-hysteria2://be986553-5976-0001-9209-3050366e40d1@185.151.243.186:443?sni=piodr-ru-74sel.my-fade.cloud&alpn=h3&insecure=0#🇫🇮 HavenVPN | Финляндия #1
-
-🇵🇱 Польша
-vless://cc99c57d-6c93-4031-9153-73f510636533@188.42.89.118:443?encryption=none&security=tls&sni=mama5113.baklajann.ru&fp=chrome&type=xhttp&host=mama5113.baklajann.ru&path=%2F&mode=auto#🇵🇱 HavenVPN | Польша #1
-
-🇫🇷 Франция
-vless://cc99c57d-6c93-4031-9153-73f510636533@31.43.179.196:443?encryption=none&security=tls&sni=newmama2.baklajann.ru&fp=chrome&type=xhttp&host=newmama2.baklajann.ru&path=%2F&mode=auto#🇫🇷 HavenVPN | Франция #1
+vless://25dcbe15-3d70-4f24-a8f2-3156e68f783e@95.213.143.124:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=qu5ds08r.static-edge.site&pbk=fJnm6-PhJGSwHaAdJOzXkYOfCPPCWSlaZrtfm1XsqhA&spx=%2F#🇫🇮 HavenVPN | Финляндия #1
+vless://f2341274-8dd8-4b80-95fd-780641f6f2da@5.183.253.25:443?security=reality&encryption=none&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&fp=firefox&sni=web.poezdkafun.ru&sid=0858af97f4e7324d&type=grpc&serviceName=poezdkafun-grpc#🇫🇮 HavenVPN | Финляндия #2
 
 🇩🇪 Германия
-vless://a6142d9d-3f9f-47b7-b7e9-1245dd6a15d6@91.215.42.205:443?encryption=none&security=tls&sni=my.lk.stream-pk.online&fp=firefox&type=ws&host=&path=%2Fgateway%2Fv1%2Fws%2F78c903ed62a493521f3a51df668fc042#🇩🇪 HavenVPN | Германия #1
-vless://a6142d9d-3f9f-47b7-b7e9-1245dd6a15d6@217.60.12.99:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=217.60.12.99&fp=firefox&type=tcp#🇩🇪 HavenVPN | Германия #2
+vless://25dcbe15-3d70-4f24-a8f2-3156e68f783e@5.188.159.42:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=wcuz69pxr.cdnwave.lol&pbk=fJnm6-PhJGSwHaAdJOzXkYOfCPPCWSlaZrtfm1XsqhA&spx=%2F#🇩🇪 HavenVPN | Германия #1
+
+🇫🇷 Франция
+vless://8da0029e-6ff3-49cc-8b4d-120432cc6414@eu90.cdn77.icu:20028?type=tcp&security=reality&fp=firefox&sni=eu64.cdn77.icu&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8#🇫🇷 HavenVPN | Франция #1
+
+🇪🇺 Европа / общие
+vless://00018846-513b-6e3b-5301-9c9ff2d375a3@188.72.112.1:443?type=xhttp&security=tls&sni=nlcdn.fius.dev&path=%2Fapi-test&host=nlcdn.fius.dev&mode=packet-up&extra=%7B%22scMaxEachPostBytes%22%3A16384%2C%22scMinPostsIntervalMs%22%3A10%2C%22uplinkChunkSize%22%3A4096%2C%22uplinkDataPlacement%22%3A%22header%22%2C%22uplinkHTTPMethod%22%3A%22OPTIONS%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22xPaddingHeader%22%3A%22X-Cache%22%2C%22xPaddingKey%22%3A%22dc%22%2C%22xPaddingMethod%22%3A%22tokenish%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22xPaddingPlacement%22%3A%22queryInHeader%22%7D&alpn=h2,http/1.1#🇪🇺 HavenVPN | Европа #1
