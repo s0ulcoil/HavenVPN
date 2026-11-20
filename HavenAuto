@@ -1,7 +1,7 @@
 #profile-title: Haven vpn
 #support-url: https://t.me/HavenVPNrobot
 #profile-update-interval: 3
-#announce: base64: 0YLQsyDQutCw0L3QsNC7IEBoaWRkZW53aWtpcGVkaWEK0L/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1IDogMTkuMTEuMjYgMjI6NTMg0JzQodCaCtC/0LXRgNC10LQg0L/QvtC00LrQu9GO0YfQtdC90LjQtdC8INC/0YDQvtCy0LXRgNGP0LnRgtC1INC/0LjQvdCzIC0g4o+x77iPIArQvdC1INGA0LDQsdC+0YLQsNC10YI/INC+0LHQvdC+0LLQuNGC0LUgLSDwn5SE77iP
+#announce: base64: 0YLQsyDQutCw0L3QsNC7IEBoaWRkZW53aWtpcGVkaWEK0L/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1IDogMjAuMTEuMjYgNzoxNyDQnNCh0JoK0L/QtdGA0LXQtCDQv9C+0LTQutC70Y7Rh9C10L3QuNC10Lwg0L/RgNC+0LLQtdGA0Y/QudGC0LUg0L/QuNC90LMgLSDij7HvuI8gCtC90LUg0YDQsNCx0L7RgtCw0LXRgj8g0L7QsdC90L7QstC40YLQtSAtIPCflITvuI8=
 
 {
   "remarks": "🇪🇺 HavenVPN | Автовыбор",
@@ -12,34 +12,29 @@
   ],
   "outbounds": [
     {
-      "protocol": "hysteria", "tag": "proxy-fi1",
-      "settings": { "address": "185.151.243.186", "port": 443, "version": 2 },
-      "streamSettings": { "network": "hysteria", "security": "tls", "tlsSettings": { "serverName": "piodr-ru-74sel.my-fade.cloud", "alpn": ["h3"] }, "hysteriaSettings": { "auth": "be986553-5976-0001-9209-3050366e40d1", "version": 2 } }
+      "protocol": "hysteria2", "tag": "proxy-fi1",
+      "settings": { "address": "185.151.243.186", "port": 443, "password": "be986553-5976-0001-9209-3050366e40d1" },
+      "streamSettings": { "network": "udp", "security": "tls", "tlsSettings": { "serverName": "piodr-ru-74sel.my-fade.cloud", "alpn": ["h3"] } }
     },
     {
-      "protocol": "vless", "tag": "proxy-eu1",
-      "settings": { "vnext": [{ "address": "199.232.251.2", "port": 443, "users": [{ "id": "cc99c57d-6c93-4031-9153-73f510636533", "encryption": "none" }] }] },
-      "streamSettings": { "network": "xhttp", "security": "tls", "tlsSettings": { "serverName": "huesos.fastly.com", "fingerprint": "chrome" }, "xhttpSettings": { "host": "rr1.global.ssl.fastly.net", "mode": "auto", "path": "/" } }
-    },
-    {
-      "protocol": "vless", "tag": "proxy-eu2",
-      "settings": { "vnext": [{ "address": "199.232.251.2", "port": 443, "users": [{ "id": "cc99c57d-6c93-4031-9153-73f510636533", "encryption": "none" }] }] },
-      "streamSettings": { "network": "xhttp", "security": "tls", "tlsSettings": { "serverName": "huesos.fastly.com", "fingerprint": "chrome" }, "xhttpSettings": { "host": "rr2.global.ssl.fastly.net", "mode": "auto", "path": "/" } }
-    },
-    {
-      "protocol": "vless", "tag": "proxy-eu3",
-      "settings": { "vnext": [{ "address": "199.232.251.2", "port": 443, "users": [{ "id": "cc99c57d-6c93-4031-9153-73f510636533", "encryption": "none" }] }] },
-      "streamSettings": { "network": "xhttp", "security": "tls", "tlsSettings": { "serverName": "huesos.fastly.com", "fingerprint": "chrome" }, "xhttpSettings": { "host": "tt2.global.ssl.fastly.net", "mode": "auto", "path": "/" } }
+      "protocol": "vless", "tag": "proxy-pl1",
+      "settings": { "vnext": [{ "address": "188.42.89.118", "port": 443, "users": [{ "id": "cc99c57d-6c93-4031-9153-73f510636533", "encryption": "none" }] }] },
+      "streamSettings": { "network": "xhttp", "security": "tls", "tlsSettings": { "serverName": "mama5113.baklajann.ru", "fingerprint": "chrome" }, "xhttpSettings": { "host": "mama5113.baklajann.ru", "mode": "auto", "path": "/" } }
     },
     {
       "protocol": "vless", "tag": "proxy-fr1",
-      "settings": { "vnext": [{ "address": "188.42.89.118", "port": 443, "users": [{ "id": "cc99c57d-6c93-4031-9153-73f510636533", "encryption": "none" }] }] },
-      "streamSettings": { "network": "xhttp", "security": "tls", "tlsSettings": { "serverName": "mama1455.baklajann.ru", "fingerprint": "chrome" }, "xhttpSettings": { "host": "mama1455.baklajann.ru", "mode": "auto", "path": "/" } }
+      "settings": { "vnext": [{ "address": "31.43.179.196", "port": 443, "users": [{ "id": "cc99c57d-6c93-4031-9153-73f510636533", "encryption": "none" }] }] },
+      "streamSettings": { "network": "xhttp", "security": "tls", "tlsSettings": { "serverName": "newmama2.baklajann.ru", "fingerprint": "chrome" }, "xhttpSettings": { "host": "newmama2.baklajann.ru", "mode": "auto", "path": "/" } }
     },
     {
-      "protocol": "vless", "tag": "proxy-fr2",
-      "settings": { "vnext": [{ "address": "31.43.179.196", "port": 443, "users": [{ "id": "cc99c57d-6c93-4031-9153-73f510636533", "encryption": "none" }] }] },
-      "streamSettings": { "network": "xhttp", "security": "tls", "tlsSettings": { "serverName": "mama51.baklajann.ru", "fingerprint": "chrome" }, "xhttpSettings": { "host": "mama51.baklajann.ru", "mode": "auto", "path": "/" } }
+      "protocol": "vless", "tag": "proxy-de1",
+      "settings": { "vnext": [{ "address": "91.215.42.205", "port": 443, "users": [{ "id": "a6142d9d-3f9f-47b7-b7e9-1245dd6a15d6", "encryption": "none" }] }] },
+      "streamSettings": { "network": "ws", "security": "tls", "tlsSettings": { "serverName": "my.lk.stream-pk.online", "fingerprint": "firefox" }, "wsSettings": { "path": "/gateway/v1/ws/78c903ed62a493521f3a51df668fc042" } }
+    },
+    {
+      "protocol": "vless", "tag": "proxy-de2",
+      "settings": { "vnext": [{ "address": "217.60.12.99", "port": 443, "users": [{ "id": "a6142d9d-3f9f-47b7-b7e9-1245dd6a15d6", "encryption": "none", "flow": "xtls-rprx-vision" }] }] },
+      "streamSettings": { "network": "tcp", "security": "tls", "tlsSettings": { "serverName": "217.60.12.99", "fingerprint": "firefox" } }
     },
     { "protocol": "freedom", "tag": "direct" },
     { "protocol": "blackhole", "tag": "block" }
@@ -49,18 +44,18 @@
     "balancers": [
       {
         "tag": "BALANCER",
-        "selector": ["proxy-fi1","proxy-eu1","proxy-eu2","proxy-eu3","proxy-fr1","proxy-fr2"],
+        "selector": ["proxy-fi1","proxy-pl1","proxy-fr1","proxy-de1","proxy-de2"],
         "fallbackTag": "direct",
         "strategy": { "type": "leastPing" }
       }
     ],
     "rules": [
-      { "type": "field", "network": "tcp,udp", "balancerTag": "BALANCER" },
-      { "type": "field", "ip": ["geoip:private"], "outboundTag": "direct" }
+      { "type": "field", "ip": ["geoip:private"], "outboundTag": "direct" },
+      { "type": "field", "network": "tcp,udp", "balancerTag": "BALANCER" }
     ]
   },
   "burstObservatory": {
-    "subjectSelector": ["proxy-fi1","proxy-eu1","proxy-eu2","proxy-eu3","proxy-fr1","proxy-fr2"],
+    "subjectSelector": ["proxy-fi1","proxy-pl1","proxy-fr1","proxy-de1","proxy-de2"],
     "pingConfig": {
       "destination": "http://www.gstatic.com/generate_204",
       "interval": "1m",
