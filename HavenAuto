@@ -1,40 +1,182 @@
 #profile-title: Haven vpn
 #support-url: https://t.me/HavenVPNrobot
 #profile-update-interval: 3
-#announce: base64: 0YLQsyDQutCw0L3QsNC7IEBoaWRkZW53aWtpcGVkaWEK0L/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1IDogMjAuMTEuMjYgNzoxNyDQnNCh0JoK0L/QtdGA0LXQtCDQv9C+0LTQutC70Y7Rh9C10L3QuNC10Lwg0L/RgNC+0LLQtdGA0Y/QudGC0LUg0L/QuNC90LMgLSDij7HvuI8gCtC90LUg0YDQsNCx0L7RgtCw0LXRgj8g0L7QsdC90L7QstC40YLQtSAtIPCflITvuI8=
+#announce: base64: 0YLQsyDQutCw0L3QsNC7IEBoaWRkZW53aWtpcGVkaWEK0L/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1IDogMjAuMTEuMjYgMjA6Mjcg0JzQodCaCtC/0LXRgNC10LQg0L/QvtC00LrQu9GO0YfQtdC90LjQtdC8INC/0YDQvtCy0LXRgNGP0LnRgtC1INC/0LjQvdCzIC0g4o+x77iPIArQvdC1INGA0LDQsdC+0YLQsNC10YI/INC+0LHQvdC+0LLQuNGC0LUgLSDwn5SE77iP
 
 {
   "remarks": "🇪🇺 HavenVPN | Автовыбор",
   "log": { "loglevel": "warning" },
   "dns": { "queryStrategy": "UseIPv4", "servers": ["1.1.1.1", "8.8.8.8"] },
   "inbounds": [
-    { "listen": "127.0.0.1", "port": 10808, "protocol": "socks", "settings": { "auth": "noauth", "udp": true }, "sniffing": { "enabled": true, "destOverride": ["http", "tls", "quic"] }, "tag": "socks" }
+    {
+      "listen": "127.0.0.1",
+      "port": 10808,
+      "protocol": "socks",
+      "settings": { "auth": "noauth", "udp": true },
+      "sniffing": { "enabled": true, "destOverride": ["http", "tls", "quic"] },
+      "tag": "socks"
+    }
   ],
   "outbounds": [
     {
-      "protocol": "hysteria2", "tag": "proxy-fi1",
-      "settings": { "address": "185.151.243.186", "port": 443, "password": "be986553-5976-0001-9209-3050366e40d1" },
-      "streamSettings": { "network": "udp", "security": "tls", "tlsSettings": { "serverName": "piodr-ru-74sel.my-fade.cloud", "alpn": ["h3"] } }
+      "protocol": "vless",
+      "tag": "proxy-fi1",
+      "settings": {
+        "vnext": [
+          {
+            "address": "95.213.143.124",
+            "port": 443,
+            "users": [
+              {
+                "id": "25dcbe15-3d70-4f24-a8f2-3156e68f783e",
+                "encryption": "none",
+                "flow": "xtls-rprx-vision"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "reality",
+        "realitySettings": {
+          "fingerprint": "firefox",
+          "serverName": "qu5ds08r.static-edge.site",
+          "publicKey": "fJnm6-PhJGSwHaAdJOzXkYOfCPPCWSlaZrtfm1XsqhA",
+          "spiderX": "/"
+        }
+      }
     },
     {
-      "protocol": "vless", "tag": "proxy-pl1",
-      "settings": { "vnext": [{ "address": "188.42.89.118", "port": 443, "users": [{ "id": "cc99c57d-6c93-4031-9153-73f510636533", "encryption": "none" }] }] },
-      "streamSettings": { "network": "xhttp", "security": "tls", "tlsSettings": { "serverName": "mama5113.baklajann.ru", "fingerprint": "chrome" }, "xhttpSettings": { "host": "mama5113.baklajann.ru", "mode": "auto", "path": "/" } }
+      "protocol": "vless",
+      "tag": "proxy-fi2",
+      "settings": {
+        "vnext": [
+          {
+            "address": "5.183.253.25",
+            "port": 443,
+            "users": [
+              {
+                "id": "f2341274-8dd8-4b80-95fd-780641f6f2da",
+                "encryption": "none"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "grpc",
+        "security": "reality",
+        "realitySettings": {
+          "fingerprint": "firefox",
+          "serverName": "web.poezdkafun.ru",
+          "publicKey": "aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ",
+          "shortId": "0858af97f4e7324d"
+        },
+        "grpcSettings": {
+          "serviceName": "poezdkafun-grpc"
+        }
+      }
     },
     {
-      "protocol": "vless", "tag": "proxy-fr1",
-      "settings": { "vnext": [{ "address": "31.43.179.196", "port": 443, "users": [{ "id": "cc99c57d-6c93-4031-9153-73f510636533", "encryption": "none" }] }] },
-      "streamSettings": { "network": "xhttp", "security": "tls", "tlsSettings": { "serverName": "newmama2.baklajann.ru", "fingerprint": "chrome" }, "xhttpSettings": { "host": "newmama2.baklajann.ru", "mode": "auto", "path": "/" } }
+      "protocol": "vless",
+      "tag": "proxy-de1",
+      "settings": {
+        "vnext": [
+          {
+            "address": "5.188.159.42",
+            "port": 443,
+            "users": [
+              {
+                "id": "25dcbe15-3d70-4f24-a8f2-3156e68f783e",
+                "encryption": "none",
+                "flow": "xtls-rprx-vision"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "reality",
+        "realitySettings": {
+          "fingerprint": "firefox",
+          "serverName": "wcuz69pxr.cdnwave.lol",
+          "publicKey": "fJnm6-PhJGSwHaAdJOzXkYOfCPPCWSlaZrtfm1XsqhA",
+          "spiderX": "/"
+        }
+      }
     },
     {
-      "protocol": "vless", "tag": "proxy-de1",
-      "settings": { "vnext": [{ "address": "91.215.42.205", "port": 443, "users": [{ "id": "a6142d9d-3f9f-47b7-b7e9-1245dd6a15d6", "encryption": "none" }] }] },
-      "streamSettings": { "network": "ws", "security": "tls", "tlsSettings": { "serverName": "my.lk.stream-pk.online", "fingerprint": "firefox" }, "wsSettings": { "path": "/gateway/v1/ws/78c903ed62a493521f3a51df668fc042" } }
+      "protocol": "vless",
+      "tag": "proxy-fr1",
+      "settings": {
+        "vnext": [
+          {
+            "address": "eu90.cdn77.icu",
+            "port": 20028,
+            "users": [
+              {
+                "id": "8da0029e-6ff3-49cc-8b4d-120432cc6414",
+                "encryption": "none"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "reality",
+        "realitySettings": {
+          "fingerprint": "firefox",
+          "serverName": "eu64.cdn77.icu",
+          "publicKey": "EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8"
+        }
+      }
     },
     {
-      "protocol": "vless", "tag": "proxy-de2",
-      "settings": { "vnext": [{ "address": "217.60.12.99", "port": 443, "users": [{ "id": "a6142d9d-3f9f-47b7-b7e9-1245dd6a15d6", "encryption": "none", "flow": "xtls-rprx-vision" }] }] },
-      "streamSettings": { "network": "tcp", "security": "tls", "tlsSettings": { "serverName": "217.60.12.99", "fingerprint": "firefox" } }
+      "protocol": "vless",
+      "tag": "proxy-eu1",
+      "settings": {
+        "vnext": [
+          {
+            "address": "188.72.112.1",
+            "port": 443,
+            "users": [
+              {
+                "id": "00018846-513b-6e3b-5301-9c9ff2d375a3",
+                "encryption": "none"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "xhttp",
+        "security": "tls",
+        "tlsSettings": {
+          "serverName": "nlcdn.fius.dev",
+          "alpn": ["h2", "http/1.1"]
+        },
+        "xhttpSettings": {
+          "host": "nlcdn.fius.dev",
+          "mode": "packet-up",
+          "path": "/api-test",
+          "extra": {
+            "scMaxEachPostBytes": 16384,
+            "scMinPostsIntervalMs": 10,
+            "uplinkChunkSize": 4096,
+            "uplinkDataPlacement": "header",
+            "uplinkHTTPMethod": "OPTIONS",
+            "xPaddingBytes": "100-1000",
+            "xPaddingHeader": "X-Cache",
+            "xPaddingKey": "dc",
+            "xPaddingMethod": "tokenish",
+            "xPaddingObfsMode": true,
+            "xPaddingPlacement": "queryInHeader"
+          }
+        }
+      }
     },
     { "protocol": "freedom", "tag": "direct" },
     { "protocol": "blackhole", "tag": "block" }
@@ -44,7 +186,7 @@
     "balancers": [
       {
         "tag": "BALANCER",
-        "selector": ["proxy-fi1","proxy-pl1","proxy-fr1","proxy-de1","proxy-de2"],
+        "selector": ["proxy-fi1", "proxy-fi2", "proxy-de1", "proxy-fr1", "proxy-eu1"],
         "fallbackTag": "direct",
         "strategy": { "type": "leastPing" }
       }
@@ -55,7 +197,7 @@
     ]
   },
   "burstObservatory": {
-    "subjectSelector": ["proxy-fi1","proxy-pl1","proxy-fr1","proxy-de1","proxy-de2"],
+    "subjectSelector": ["proxy-fi1", "proxy-fi2", "proxy-de1", "proxy-fr1", "proxy-eu1"],
     "pingConfig": {
       "destination": "http://www.gstatic.com/generate_204",
       "interval": "1m",
