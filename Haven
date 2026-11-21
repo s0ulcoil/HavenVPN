@@ -1,23 +1,21 @@
 #profile-title: Haven vpn
 #support-url: https://t.me/HavenVPNrobot
 #profile-update-interval: 3
-#announce: base64: 0YLQsyDQutCw0L3QsNC7IEBoaWRkZW53aWtpcGVkaWEK0L/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1IDogMjAuMTEuMjYgMjE6NDQg0JzQodCaCtC/0LXRgNC10LQg0L/QvtC00LrQu9GO0YfQtdC90LjQtdC8INC/0YDQvtCy0LXRgNGP0LnRgtC1INC/0LjQvdCzIC0g4o+x77iPIArQvdC1INGA0LDQsdC+0YLQsNC10YI/INC+0LHQvdC+0LLQuNGC0LUgLSDwn5SE77iP
-
-🇳🇱 Нидерланды
-vless://7f83bad7-cbcc-45e5-b3c5-75fe4fb52368@172.233.57.243:443?type=grpc&security=reality&fp=chrome&sni=dl.google.com&pbk=cAFMol_SqbGzF6IZSHdOS8taChr8dRe9n3RdxJp0QEQ&serviceName=grpc#🇳🇱 HavenVPN | Нидерланды #1
-
-🇵🇱 Польша
-hysteria2://7f83bad7-cbcc-45e5-b3c5-75fe4fb52368@poland-the-best.moonpaw.space:4443?sni=poland-the-best.moonpaw.space&alpn=h3#🇵🇱 HavenVPN | Польша #1
-
-🇫🇮 Финляндия
-vless://7f83bad7-cbcc-45e5-b3c5-75fe4fb52368@2.27.13.243:443?type=grpc&security=reality&fp=chrome&sni=dl.google.com&pbk=cAFMol_SqbGzF6IZSHdOS8taChr8dRe9n3RdxJp0QEQ&serviceName=grpc#🇫🇮 HavenVPN | Финляндия #1
+#announce: base64: 0YLQsyDQutCw0L3QsNC7IEBoaWRkZW53aWtpcGVkaWEK0L/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1IDogMjEuMTEuMjYgODoyMSDQnNCh0JoK0L/QtdGA0LXQtCDQv9C+0LTQutC70Y7Rh9C10L3QuNC10Lwg0L/RgNC+0LLQtdGA0Y/QudGC0LUg0L/QuNC90LMgLSDij7HvuI8gCtC90LUg0YDQsNCx0L7RgtCw0LXRgj8g0L7QsdC90L7QstC40YLQtSAtIPCflITvuI8=
 
 🇩🇪 Германия
-hysteria2://7f83bad7-cbcc-45e5-b3c5-75fe4fb52368@download.klairo.cfd:443?sni=download.klairo.cfd&alpn=h3#🇩🇪 HavenVPN | Германия #1
+vless://a9ff24d3-f308-4e72-acb9-a76062583837@82.202.142.227:23444?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=fontanka.ru&pbk=T1BWBw3lq9G1LiQ7eQSPfdNQic7bUMEbdFNJBewAwB8&sid=6ad3c0f1e9b2478a#🇩🇪 HavenVPN | Германия #1
 
-🇪🇺 Европа
-vless://00018846-513b-6e3b-5301-9c9ff2d375a3@188.72.112.1:443?type=xhttp&security=tls&sni=nlcdn.fius.dev&path=%2Fapi-test&host=nlcdn.fius.dev&mode=packet-up&extra=%7B%22scMaxEachPostBytes%22%3A16384%2C%22scMinPostsIntervalMs%22%3A10%2C%22uplinkChunkSize%22%3A4096%2C%22uplinkDataPlacement%22%3A%22header%22%2C%22uplinkHTTPMethod%22%3A%22OPTIONS%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22xPaddingHeader%22%3A%22X-Cache%22%2C%22xPaddingKey%22%3A%22dc%22%2C%22xPaddingMethod%22%3A%22tokenish%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22xPaddingPlacement%22%3A%22queryInHeader%22%7D&alpn=h2,http/1.1#🇪🇺 HavenVPN | Европа #1
+🇫🇮 Финляндия
+vless://a9ff24d3-f308-4e72-acb9-a76062583837@48.102.205.89:22444?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=fontanka.ru&pbk=T1BWBw3lq9G1LiQ7eQSPfdNQic7bUMEbdFNJBewAwB8&sid=6ad3c0f1e9b2478a#🇫🇮 HavenVPN | Финляндия #1
+vless://53d95125-a38b-4a51-8155-66d3d00b1832@144.31.90.152:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=live.cdnguard.org&pbk=6nZacX6g09t3m4dVrNOAG0IsiRwEICVT8Qq-wd7G2H8&sid=9b2e20557aa8f88a#🇫🇮 HavenVPN | Финляндия #2
 
+🇵🇱 Польша
+vless://216e225a-b196-49b4-a326-1e685d2dad89@95.85.227.171:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=pl88.sonicservice.digital&pbk=QlwK16_5B3wm71oTXG5uJNgPiHt5ANHJzaLQMawLJTY#🇵🇱 HavenVPN | Польша #1
+
+🇳🇱 Нидерланды
+vless://be139ef0-3768-409c-82d9-d759dbcb4458@50.7.221.219:443?type=grpc&security=reality&fp=firefox&sni=xn--80abgtcaqw1f.xn----9sbekcigdcaa6cd7cafr7e.xn--p1ai&pbk=8ENbaQRCWZk-wewSrdHq1_rVjJY4CrxqXUo_5vZNdi4&sid=b2b44805&serviceName=cdnsync.v2.Transfer#🇳🇱 HavenVPN | Нидерланды #1
+vless://6db6b948-655f-4f68-a9e7-865050e05b31@143.203.216.187:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=remote.propaint.cl&pbk=o7R9liafUMmCf4Sr14gLaB-gZ7mo_axffMCT176tuHw&sid=672cfc#🇳🇱 HavenVPN | Нидерланды #2
 
 🇷🇺 Белые списки
 vless://37af0181-5598-4aad-a040-d926bcb65757@185.86.145.173:443?type=xhttp&security=tls&sni=wholebeam.com&fp=firefox&path=%2Fapi%2Fv1%2Fupload&host=wholebeam.com#🇷🇺 HavenVPN | Белые списки #1
