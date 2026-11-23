@@ -1,41 +1,45 @@
 #profile-title: Haven vpn
 #support-url: https://t.me/HavenVPNrobot
 #profile-update-interval: 3
-#announce: base64: 0YLQsyDQutCw0L3QsNC7IEBoaWRkZW53aWtpcGVkaWEK0L/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1OiAyMi4xMS4yNiAyMToyNSDQnNCh0JoK0L/QtdGA0LXQtCDQv9C+0LTQutC70Y7Rh9C10L3QuNC10Lwg0L/RgNC+0LLQtdGA0Y/QudGC0LUg0L/QuNC90LMgLSDij7HvuI8K0L3QtSDRgNCw0LHQvtGC0LDQtdGCPyDQvtCx0L3QvtCy0LjRgtC1IC0g8J+UhO+4jw==
+#announce: base64:0YLQsyDQutCw0L3QsNC7IEBoaWRkZW53aWtpcGVkaWEK0L/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1OiAyMy4xMS4yNiAxOTozMCDQnNCh0JoK0L/QtdGA0LXQtCDQv9C+0LTQutC70Y7Rh9C10L3QuNC10Lwg0L/RgNC+0LLQtdGA0Y/QudGC0LUg0L/QuNC90LMgLSDij7HvuI8K0L3QtSDRgNCw0LHQvtGC0LDQtdGCPyDQvtCx0L3QvtCy0LjRgtC1IC0g8J+UhO+4jw==
 
 🇫🇮 Финляндия
-vless://cde5d3ef-7d14-4fed-a74d-ac98e39bf9ec@144.31.150.6:52006?flow=xtls-rprx-vision&type=tcp&security=tls&fp=firefox&sni=fl.buyclicks.click&alpn=h2%2Chttp%2F1.1#🇫🇮 HavenVPN | Финляндия #1
-vless://cde5d3ef-7d14-0bb8-a74d-ac98e39bf9ec@168.113.132.167:52006?flow=xtls-rprx-vision&type=tcp&security=tls&fp=firefox&alpn=h2%2Chttp%2F1.1#🇫🇮 HavenVPN | Финляндия #2
 
 🇳🇱 Нидерланды
 vless://5d98ff1a-d576-46d3-9504-b158d94bcce9@144.124.246.61:8442?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=www.kpn.com&pbk=OiVtWvPLqJE7txxfOAgh5LB90JW3f88TYCHwNes3VDw&sid=681529e72742472e#🇳🇱 HavenVPN | Нидерланды #1
+vless://f30d1c0d-678e-4fd4-889f-d72d305a8667@50.7.221.228:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=xn--80ahg3ah2dt6a.xn----9sbekcigdcaa6cd7cafr7e.xn--p1ai&pbk=8ENbaQRCWZk-wewSrdHq1_rVjJY4CrxqXUo_5vZNdi4&sid=b2b44805#🇳🇱 | HavenVPN | Нидерланды #2
+hysteria2://247802ca-0fbb-428a-b807-91a6e571b5c7@48.103.144.118:8443?obfs=salamander&obfs-password=JGIhnEi-CcIJOfNTqvNxX_5wRAYUZ0J2&sni=static-nl.snobvpn.online#🇳🇱 | HavenVPN | Нидерланды #3
+vless://62995b2a-8f82-41f8-ac80-dfdfc1253e76@us12.h1cloud.net:25155?type=xhttp&security=reality&sni=48688cr.us12.h1clayd.click&pbk=I4mzdgz1mvaVDtkDD9AzK1ZJkEaQu_GYEbGIfm_a5UM&sid=0ebb438948cdf356&path=/astral-edge-h1&mode=stream-one#🇳🇱 | HavenVPN | Нидерланды #4
+vless://ef5a57c7-84d5-4f86-b99c-875a16da485f@195.209.223.32:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=ruhsds737.gangtype.com&pbk=cwP4lx0DIWttNWp4IeLj2S-e1Yo2tnBedJ5RiMLtT0E&sid=7e49fe98f9487e19#🇳🇱 | HavenVPN | Нидерланды #5
+
+🇺🇸 США
+hysteria2://PEisy6m-98HcX1TWZt0yXiCS7jRZG4IzKQTXo6k1qb4@48.102.130.17:443?sni=de2.substituteme.space#🇺🇸 | HavenVPN | США #1
+hysteria2://PEisy6m-98HcX1TWZt0yXiCS7jRZG4IzKQTXo6k1qb4@de2.substituteme.space:443?sni=de2.substituteme.space#🇺🇸 | HavenVPN | США #2
 
 🇩🇪 Германия
-vless://42638beb-6068-4626-b035-5cc1f31b03d6@88.210.62.96:443?type=xhttp&security=reality&fp=firefox&sni=nl-xhttp.kitsuedge.win&pbk=5peSNpDPIjzBwoQBuMH0AoXc2lw8aq9PirPHw84wYAg&sid=8293c6fda2bab7b5&host=nl-xhttp.kitsuedge.win&path=%2F&mode=auto#🇩🇪 HavenVPN | Германия #1
-vless://1f2836d7-e9ef-47d7-a9c4-1037077ae8d7@64.188.98.130:443?type=xhttp&security=reality&fp=firefox&sni=ge1.rarebooster.tech&pbk=FXcmRT-NcCBLSA5NwhzbfXOsjYxXIeRiNxDAJ4KA6hk&host=ge1.rarebooster.tech&path=%2Fapi%2Fv1%2Fevents&mode=packet-up&alpn=h2#🇩🇪 HavenVPN | Германия #2
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0=@18.134.240.81:443#🇹🇷 | HavenVPN | Германия #1
 
 🇵🇱 Польша
-hysteria2://04920673-035c-410d-94e4-5b1469d3fb6f@91.211.27.231:42848?sni=171.22.183.158&alpn=h3#🇵🇱 HavenVPN | Польша #1
+hysteria2://lvu_fb79ddb9bbda86f657cf34ee5dbe40bd_cf1aff9abf2b3945664fd63a07229839%3Anp2.1.Q6bg95HDIqzwSQwdlbeS4-tGJpT8yFUcNQd7KGxqbXU@82.40.37.115:443?sni=n34.neproxy.net&alpn=h3#🇵🇱 | HavenVPN | Польша #1
 
-🇸🇪 Швеция
-vless://cde5d3ef-7d14-3a98-a74d-ac98e39bf9ec@168.113.132.167:52006?flow=xtls-rprx-vision&type=tcp&security=tls&fp=firefox&alpn=h2%2Chttp%2F1.1#🇸🇪 HavenVPN | Швеция #1
+🇸🇬 Сингапур
+hysteria2://57beeeb0-03fc-4fc9-94da-7604488a7134@77.93.89.197:443?obfs=salamander&obfs-password=sj1awrdwnn5lbuno&sni=bgsg2.hikigo.com#🇸🇬 | HavenVPN | Сингапур #1
 
-🇧🇾 Беларусь
-vless://cde5d3ef-7d14-3a98-a74d-ac98e39bf9ec@168.113.132.167:52006?flow=xtls-rprx-vision&type=tcp&security=tls&fp=firefox&alpn=h2%2Chttp%2F1.1#🇧🇾 HavenVPN | Беларусь #1
+🇫🇷Франция
+vless://00000000-0000-0001-0000-000000000000@136.148.83.70:443?type=tcp&security=tls&fp=qq&sni=aszbk-ru-78dc.my-fade.cloud#🇫🇷 | HavenVPN | Франция #1
 
-🇨🇿 Чехия
-vless://1f2836d7-e9ef-47d7-a9c4-1037077ae8d7@144.31.218.188:443?type=xhttp&security=tls&fp=firefox&sni=cz1.rarebooster.tech&host=cz1.rarebooster.tech&path=%2Fapi%2Fv1%2Fevents&mode=packet-up&alpn=h2#🇨🇿 HavenVPN | Чехия #1
+🇪🇪 Эстнония
+vless://0259e5aa-c188-4334-b204-32cd5ea859f6@31.56.187.171:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=maps-carts-world.keno.su&pbk=_MeP-WwmolUvi6wMXNoSs_zo6miG_OW7xk4ibzADiHY#🇪🇪 | HavenVPN | Эстония #1
 
-🇩🇰 Дания
-vless://cde5d3ef-7d14-0dac-a74d-ac98e39bf9ec@82.148.14.100:52006?flow=xtls-rprx-vision&type=tcp&security=tls&fp=qq&sni=mvp.dont-block-please.dad&alpn=h2%2Chttp%2F1.1#🇩🇰 HavenVPN | Дания #1
+🇷🇺 Россия
+vless://00000000-0000-0001-0000-000000000000@185.151.241.22:443?type=tcp&headerType=none&security=tls&fp=firefox&sni=mrhytymqyorzvzgwoh.fcloudservices.site#🇷🇺 | HavenVPN | Россия #1
+vless://8596813c-6a35-0001-819d-2de72201a856@188.68.216.33:443?type=tcp&security=tls&fp=chrome&sni=pmdhivnevikmltdhqp.fcloudservices.site#🇷🇺 | HavenVPN | Россия #2
+
+
+vless://00000000-0000-0001-0000-000000000000@127.0.0.0:443?type=tcp&headerType=none&security=tls&fp=firefox&sni=1.1.1.1#🇪🇺 ↓ БЕЛЫЕ СПИСКИ ↓
 
 🇷🇺 Белые списки
-vless://6b447dc7-6f6b-4ca8-9c0a-2845d677004c@185.86.145.223:20001?type=xhttp&security=reality&fp=firefox&sni=ads.x5.ru&pbk=nF9ItO4OJ6i2jJ3rEWpsrQokMAp7rCaO5pGqLCS_bFs&sid=ab465f2860d26fa9&spx=%2F&host=sub-edge-05-1g.whitenw.net&path=%2F&mode=auto#🇷🇺 HavenVPN | Белые списки #1
-vless://b80e9046-5bb9-4040-bd96-b7e2f78b5c5b@185.86.147.77:10020?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=2gis.ru&pbk=SraiH4q6X-jSm6Ru2FHcGjhoClg6gI0b9CWjdyu0rxA&sid=c68d384ac0fb220a#🇷🇺 HavenVPN | Белые списки #2
-vless://a0c51c22-e51f-41a0-b7f8-480bcdc24e09@129.101.99.221:443?type=grpc&security=tls&fp=chrome&sni=cdn.dotameridian.com&serviceName=d386f93b4346&alpn=h2%2Chttp%2F1.1#🇷🇺 HavenVPN | Белые списки #3
-vless://cde5d3ef-7d14-07d0-a74d-ac98e39bf9ec@171.22.74.154:443?flow=xtls-rprx-vision&type=tcp&security=tls&fp=safari&alpn=h2%2Chttp%2F1.1#🇷🇺 HavenVPN | Белые списки #4
-vless://1faf34e5-b68b-49d0-9f2c-f20301fd28bd@185.86.145.190:52831?type=xhttp&security=tls&fp=firefox&sni=origin.mtrxnet.click&host=origin.mtrxnet.click&path=%2Fapi%2Farticles%2Flive&mode=stream-up&alpn=h2%2Chttp%2F1.1&extra=%7B%22headers%22%3A%7B%22Accept%22%3A%22application%2Fvnd.api%2Bjson%2C%20application%2Fjson%2C%20text%2Fplain%2C%20*%2F*%22%2C%22Accept-Language%22%3A%22ru-RU%2Cru%3Bq%3D0.9%22%2C%22Cache-Control%22%3A%22no-cache%22%2C%22Pragma%22%3A%22no-cache%22%7D%2C%22mode%22%3A%22stream-up%22%2C%22serverMaxHeaderBytes%22%3A32768%2C%22xPaddingBytes%22%3A%2248-256%22%2C%22xPaddingHeader%22%3A%22X-Rewrite-URL%22%2C%22xPaddingKey%22%3A%22q%22%2C%22xPaddingMethod%22%3A%22tokenish%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22xPaddingPlacement%22%3A%22queryInHeader%22%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A%2248-128%22%2C%22hKeepAlivePeriod%22%3A15%2C%22hMaxRequestTimes%22%3A%22480-960%22%2C%22hMaxReusableSecs%22%3A%22900-2400%22%2C%22maxConcurrency%22%3A%2212-24%22%7D%7D#🇷🇺 HavenVPN | Белые списки #5
-vless://e2a1c9f4-3b7d-4e6a-9c2f-8a1d5f6b7c9e@188.72.112.1:443?type=xhttp&security=tls&fp=chrome&sni=cdn3.aleqseivpn.site&host=cdn3.aleqseivpn.site&path=%2Fapi%2Fv1%2Fupdate&mode=packet-up&alpn=h2%2Chttp%2F1.1&extra=%7B%22uplinkDataPlacement%22%3A%22header%22%2C%22uplinkHTTPMethod%22%3A%22HEAD%22%7D#🇷🇺 HavenVPN | Белые списки #6
-vless://e8b7b937-85d9-43f3-bb7a-7d98478756d7@185.86.147.80:9445?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=keshyou.mcufa.pro&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo#🇷🇺 HavenVPN | Белые списки #7
-vless://50b95deb-6394-46c5-b88a-583e5b3ca7ee@178.176.128.128:443?type=xhttp&security=tls&fp=chrome&sni=tgg.fastcon.cc&host=tgg.fastcon.cc&path=%2Fclips%2Fhls%2Fv4%2F&mode=packet-up&alpn=h2&extra=%7B%22scMaxEachPostBytes%22%3A%228192-16384%22%2C%22scMinPostsIntervalMs%22%3A%2220-40%22%2C%22seqKey%22%3A%22page%22%2C%22seqPlacement%22%3A%22query%22%2C%22sessionIDKey%22%3A%22sid%22%2C%22sessionIDLength%22%3A%2220-24%22%2C%22sessionIDPlacement%22%3A%22cookie%22%2C%22sessionIDTable%22%3A%22Base62%22%2C%22uplinkChunkSize%22%3A%222048-3072%22%2C%22uplinkDataKey%22%3A%22X-Client-Data%22%2C%22uplinkDataPlacement%22%3A%22header%22%2C%22uplinkHTTPMethod%22%3A%22GET%22%2C%22xPaddingBytes%22%3A%2224-48%22%2C%22xPaddingHeader%22%3A%22X-Request-Id%22%2C%22xPaddingMethod%22%3A%22tokenish%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22xPaddingPlacement%22%3A%22header%22%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22hKeepAlivePeriod%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22maxConnections%22%3A3%7D%7D#🇷🇺 HavenVPN | Белые списки #8
-vless://e8b7b937-85d9-43f3-bb7a-7d98478756d7@185.86.147.80:9443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=keshyou.mcufa.pro&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo#🇷🇺 HavenVPN | Белые списки #9
+vless://26156d2f-6cde-455e-a5ac-372d989161f1@78.24.92.222:443?type=xhttp&security=tls&fp=firefox&sni=tg1.cdnphotos.org&path=/api/v1/&host=tg1.cdnphotos.org&mode=auto#🇷🇺 HavenVPN | Белые списки #1
+vless://c2b17066-5386-0001-803b-5e652c0528f9@185.178.208.167:443?type=ws&security=tls&fp=safari&sni=trx.tools&path=/session&host=api.14887277.xyz#🇷🇺 HavenVPN | Белые списки #2
+vless://50b95deb-6394-46c5-b88a-583e5b3ca7ee@178.176.128.128:443?type=xhttp&security=tls&fp=chrome&sni=tgg.fastcon.cc&host=tgg.fastcon.cc&path=%2Fclips%2Fhls%2Fv4%2F&mode=packet-up&alpn=h2&extra=%7B%22scMaxEachPostBytes%22%3A%228192-16384%22%2C%22scMinPostsIntervalMs%22%3A%2220-40%22%2C%22seqKey%22%3A%22page%22%2C%22seqPlacement%22%3A%22query%22%2C%22sessionIDKey%22%3A%22sid%22%2C%22sessionIDLength%22%3A%2220-24%22%2C%22sessionIDPlacement%22%3A%22cookie%22%2C%22sessionIDTable%22%3A%22Base62%22%2C%22uplinkChunkSize%22%3A%222048-3072%22%2C%22uplinkDataKey%22%3A%22X-Client-Data%22%2C%22uplinkDataPlacement%22%3A%22header%22%2C%22uplinkHTTPMethod%22%3A%22GET%22%2C%22xPaddingBytes%22%3A%2224-48%22%2C%22xPaddingHeader%22%3A%22X-Request-Id%22%2C%22xPaddingMethod%22%3A%22tokenish%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22xPaddingPlacement%22%3A%22header%22%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22hKeepAlivePeriod%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22maxConnections%22%3A3%7D%7D#🇷🇺 HavenVPN | Белые списки #3
+
