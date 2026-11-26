@@ -1,18 +1,22 @@
 #profile-title: Haven vpn
 #support-url: https://t.me/HavenVPNrobot
 #profile-update-interval: 3
-#announce: base64:0YLQsyDQutCw0L3QsNC7IEBoaWRkZW53aWtpcGVkaWEK0L/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1IDogMjUuMTEuMjYgMjM6MjAg0JzQodCaCtC/0LXRgNC10LQg0L/QvtC00LrQu9GO0YfQtdC90LjQtdC8INC/0YDQvtCy0LXRgNGP0LnRgtC1INC/0LjQvdCzIC0g4o+x77iPIArQvdC1INGA0LDQsdC+0YLQsNC10YI/INC+0LHQvdC+0LLQuNGC0LUgLSDwn5SE77iP
+#announce: base64:0YLQsyDQutCw0L3QsNC7IEBoaWRkZW53aWtpcGVkaWEK0L/QvtGB0LvQtdC00L3QtdC1INC+0LHQvdC+0LLQu9C10L3QuNC1IDogMjYuMTEuMjYgMTk6NTcg0JzQodCaCtC/0LXRgNC10LQg0L/QvtC00LrQu9GO0YfQtdC90LjQtdC8INC/0YDQvtCy0LXRgNGP0LnRgtC1INC/0LjQvdCzIC0g4o+x77iPIArQvdC1INGA0LDQsdC+0YLQsNC10YI/INC+0LHQvdC+0LLQuNGC0LUgLSDwn5SE77iP
 
-🇵🇱 Польша
-hysteria2://d7121b33-e335-4921-bb00-4c0b157e7fc1@r7m4.scan-cdn.com:443?sni=r7m4.scan-cdn.com&alpn=h3&insecure=0#🇵🇱 HavenVPN | Польша #1
+🇩🇪 Германия
+vless://0173d52e-8e1b-4681-831e-11529677b72f@de.vmagnum.win:443?encryption=none&security=tls&sni=api-v3-0173d52e.vmagnum.win&alpn=h2&fp=firefox&type=xhttp&host=&path=%2F&mode=stream-one#🇩🇪 HavenVPN | Германия #1
+
+🇺🇸 США
+vless://0173d52e-8e1b-4681-831e-11529677b72f@us.alpheratzz.org:443?encryption=none&security=tls&sni=id-0173d52e.vmagnum.win&alpn=h2&fp=safari&type=xhttp&host=&path=%2F&mode=stream-one#🇺🇸 HavenVPN | США #1
 
 🇳🇱 Нидерланды
-hysteria2://d7121b33-e335-4921-bb00-4c0b157e7fc1@corp.scan-cdn.com:443?sni=corp.scan-cdn.com&alpn=h2%2Chttp%2F1.1&insecure=0#🇳🇱 HavenVPN | Нидерланды #1
+vless://0173d52e-8e1b-4681-831e-11529677b72f@nl.alpheratzz.org:8443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=api-v1-6b07048f.vmagnum.win&alpn=h2&fp=firefox&type=tcp#🇳🇱 HavenVPN | Нидерланды #1
 
-🇫🇮 Финляндия
-vless://ef1da56e-8117-42b4-bcd8-9094ebbdf985@5.35.8.37:8444?encryption=none&security=reality&sni=hel.softriver.site&fp=firefox&pbk=TJjBxMqU12PD9TQ9ZVr-m-LdIxYVokVp5SImQ6Z2iEQ&sid=b8b1d46f23be2a8c&spx=%2F&type=xhttp&path=%2F9e3ee801bb41b934&mode=auto#🇫🇮 HavenVPN | Финляндия #1
-vless://ef1da56e-8117-42b4-bcd8-9094ebbdf985@hel.softriver.site:443?encryption=none&security=reality&sni=hel.softriver.site&fp=firefox&pbk=TJjBxMqU12PD9TQ9ZVr-m-LdIxYVokVp5SImQ6Z2iEQ&sid=b8b1d46f23be2a8c&spx=%2F&type=xhttp&path=%2F9e3ee801bb41b934&mode=auto#🇫🇮 HavenVPN | Финляндия #2
-vless://ef1da56e-8117-42b4-bcd8-9094ebbdf985@130.193.35.149:8444?encryption=none&security=reality&sni=hel.softriver.site&fp=firefox&pbk=TJjBxMqU12PD9TQ9ZVr-m-LdIxYVokVp5SImQ6Z2iEQ&sid=b8b1d46f23be2a8c&spx=%2F&type=xhttp&path=%2F9e3ee801bb41b934&mode=auto#🇫🇮 HavenVPN | Финляндия #3
+🇱🇻 Латвия
+vless://8bc3af32-c6bb-4a57-8da1-9a662fd79e3c@api.ferrin.uk:443?encryption=none&security=tls&sni=8bc3af32.ferrin.uk&alpn=h2&fp=firefox&type=xhttp&host=&path=%2Flv&mode=stream-one#🇱🇻 HavenVPN | Латвия #1
+
+🇵🇱 Польша
+vless://259ec8bc-5a6b-4b33-8a71-c40e8d150c24@h-pl.ok-habits.xyz:443?encryption=none&security=reality&sni=1.4.8.8&fp=hellofirefox_120&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&sid=db04ce8bdb8900f1&type=tcp#🇵🇱 HavenVPN | Польша #1
 
 🇷🇺 Белые списки
 vless://37af0181-5598-4aad-a040-d926bcb65757@polarladder.com:2053?encryption=none&security=tls&sni=polarladder.com&alpn=h2%2Chttp%2F1.1&fp=firefox&type=xhttp&host=polarladder.com&path=%2Fapi%2Fv1%2Fupload&mode=auto#🇷🇺 HavenVPN | Белые списки #1
